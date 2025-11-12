@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pikl - Insurance Made Simple</title>
+    <title>Pikl - Get the coverage you're missing</title>
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap" rel="stylesheet">
     <style>
         * {
@@ -19,41 +19,167 @@
             line-height: 1.6;
         }
 
+        /* Top Utility Bar */
+        .top-bar {
+            background-color: #ffffff;
+            border-bottom: 1px solid #f1f6fb;
+            padding: 10px 40px;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            gap: 30px;
+            font-size: 14px;
+        }
+
+        .top-bar a {
+            color: #243748;
+            text-decoration: none;
+            transition: color 150ms ease-in-out;
+        }
+
+        .top-bar a:hover {
+            color: #ee2a7b;
+        }
+
+        .top-bar .highlight {
+            color: #ee2a7b;
+            font-weight: 700;
+        }
+
+        /* Header */
         header {
             background-color: #ffffff;
             padding: 20px 40px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
 
         .logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            text-decoration: none;
+        }
+
+        .logo-icon {
+            height: 45px;
+            width: auto;
+        }
+
+        .logo-text {
             font-size: 32px;
-            font-weight: 900;
+            font-weight: 400;
+            color: #243748;
+            letter-spacing: -1px;
+        }
+
+        nav {
+            display: flex;
+            align-items: center;
+            gap: 30px;
+        }
+
+        nav a {
+            color: #243748;
+            text-decoration: none;
+            font-weight: 400;
+            font-size: 16px;
+            transition: color 150ms ease-in-out;
+        }
+
+        nav a:hover {
             color: #ee2a7b;
         }
 
+        .btn-secondary {
+            background-color: #a2ffe3;
+            color: #243748;
+            padding: 12px 24px;
+            border-radius: 50px;
+            font-weight: 700;
+            transition: all 150ms ease-in-out;
+        }
+
+        .btn-secondary:hover {
+            background-color: #8eecd0;
+            transform: translateY(-2px);
+        }
+
+        .btn-primary {
+            background-color: #ee2a7b;
+            color: #ffffff;
+            padding: 12px 24px;
+            border-radius: 50px;
+            font-weight: 700;
+            transition: all 150ms ease-in-out;
+        }
+
+        .btn-primary:hover {
+            background-color: #d91f6a;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(238, 42, 123, 0.3);
+        }
+
+        /* Hero Section */
         .hero {
-            background: linear-gradient(135deg, #f1f6fb 0%, #ffffff 100%);
-            padding: 80px 40px;
+            background-color: #ffffff;
+            padding: 100px 40px 120px;
             text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero-content {
+            position: relative;
+            z-index: 10;
+        }
+
+        .hero-illustration-left {
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            max-width: 400px;
+            height: auto;
+            pointer-events: none;
+            transform: scaleX(-1);
+        }
+
+        .hero-illustration-right {
+            position: absolute;
+            right: 0;
+            bottom: 0;
+            max-width: 400px;
+            height: auto;
+            pointer-events: none;
         }
 
         h1 {
-            font-size: 48px;
-            font-weight: 900;
+            font-size: 56px;
+            font-weight: 700;
             color: #243748;
             margin-bottom: 20px;
+            line-height: 1.2;
         }
 
         .subtitle {
-            font-size: 20px;
+            font-size: 22px;
             color: #243748;
             margin-bottom: 40px;
-            opacity: 0.8;
+            opacity: 0.85;
+            max-width: 700px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .cta-section {
+            margin-bottom: 20px;
         }
 
         .cta-button {
-            background-color: #ee2a7b;
-            color: #ffffff;
+            background-color: #a2ffe3;
+            color: #243748;
             padding: 16px 40px;
             border: none;
             border-radius: 50px;
@@ -66,15 +192,43 @@
         }
 
         .cta-button:hover {
-            background-color: #d91f6a;
+            background-color: #8eecd0;
             transform: translateY(-2px);
-            box-shadow: 0 4px 15px rgba(238, 42, 123, 0.3);
+            box-shadow: 0 4px 15px rgba(162, 255, 227, 0.4);
         }
 
+        .phone-line {
+            color: #243748;
+            opacity: 0.7;
+            margin: 20px 0;
+        }
+
+        .phone-line a {
+            color: #ee2a7b;
+            text-decoration: none;
+            font-weight: 700;
+        }
+
+        .trustpilot {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 30px;
+            font-size: 14px;
+        }
+
+        .trustpilot-stars {
+            color: #00b67a;
+            font-size: 16px;
+        }
+
+        /* Features Section */
         .features {
             padding: 60px 40px;
             max-width: 1200px;
             margin: 0 auto;
+            background-color: #f1f6fb;
         }
 
         .features-grid {
@@ -133,17 +287,46 @@
             color: #ee2a7b;
         }
 
+        /* Footer */
         footer {
             background-color: #243748;
             color: #ffffff;
             padding: 40px;
             text-align: center;
-            margin-top: 60px;
+            margin-top: 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 968px) {
+            nav {
+                display: none;
+            }
+        }
+
+        @media (max-width: 1024px) {
+            .hero-illustration-left,
+            .hero-illustration-right {
+                max-width: 300px;
+            }
         }
 
         @media (max-width: 768px) {
+            .top-bar {
+                font-size: 12px;
+                gap: 15px;
+                padding: 10px 20px;
+            }
+
+            header {
+                padding: 15px 20px;
+            }
+
             h1 {
-                font-size: 32px;
+                font-size: 36px;
+            }
+
+            .subtitle {
+                font-size: 18px;
             }
 
             .hero {
@@ -153,20 +336,66 @@
             .features {
                 padding: 40px 20px;
             }
+
+            .hero-illustration-left,
+            .hero-illustration-right {
+                display: none;
+            }
         }
     </style>
 </head>
 <body>
+    <!-- Top Utility Bar -->
+    <div class="top-bar">
+        <a href="#" class="highlight">For Individuals</a>
+        <a href="#">For Businesses</a>
+        <a href="mailto:info@pikl.com">✉ info@pikl.com</a>
+        <a href="tel:08002545171">📞 0800 254 5171</a>
+    </div>
+
+    <!-- Header -->
     <header>
-        <div class="logo">pikl</div>
+        <a href="#" class="logo">
+            <img src="assets/cropped-PKL_001_Small-use_Hex-colour-for-web-01.webp" alt="Pikl Logo" class="logo-icon">
+        </a>
+
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Products</a>
+            <a href="#">News</a>
+            <a href="#">Contact</a>
+            <a href="#">Claims</a>
+            <a href="#" class="btn-secondary">Retrieve Quote →</a>
+            <a href="#" class="btn-primary">Get a Quote →</a>
+        </nav>
     </header>
 
+    <!-- Hero Section -->
     <section class="hero">
-        <h1>Insurance Made Simple</h1>
-        <p class="subtitle">Airbnb Host, Holiday Let, and Landlord Insurance</p>
-        <a href="#" class="cta-button">Get a Quote</a>
+        <img src="assets/Homepage_right_illustration.png" alt="" class="hero-illustration-left">
+        <img src="assets/Homepage_right_illustration.png" alt="" class="hero-illustration-right">
+
+        <div class="hero-content">
+            <h1>Get the coverage<br>you're missing</h1>
+            <p class="subtitle">Specialist insurance and solutions for holiday homeowners, hosts and businesses.</p>
+
+            <div class="cta-section">
+                <a href="#" class="cta-button">Get a quote now →</a>
+            </div>
+
+            <p class="phone-line">Or call us on <a href="tel:08002545171">0800 254 5171</a></p>
+
+            <div class="trustpilot">
+                <strong>Excellent</strong>
+                <span class="trustpilot-stars">★★★★★</span>
+                <span>4.8 out of 5</span>
+                <span style="opacity: 0.6;">Trustpilot</span>
+            </div>
+        </div>
     </section>
 
+    <!-- Features Section -->
     <section class="features">
         <h2 class="section-title">Why Choose <span class="highlight">Pikl?</span></h2>
         <div class="features-grid">
@@ -181,7 +410,6 @@
                 <p class="feature-description">Get your quote in minutes with our simple online process. No lengthy forms or waiting.</p>
             </div>
             <div class="feature-card">
-                <div class="feature-card">
                 <div class="feature-icon">💚</div>
                 <h3 class="feature-title">Expert Support</h3>
                 <p class="feature-description">Our dedicated team is here to help with any questions. Chat with us anytime.</p>
@@ -189,6 +417,7 @@
         </div>
     </section>
 
+    <!-- Footer -->
     <footer>
         <p>&copy; 2024 Pikl Insurance. All rights reserved.</p>
     </footer>
