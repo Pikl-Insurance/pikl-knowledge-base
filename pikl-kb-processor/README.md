@@ -1,6 +1,6 @@
 # Pikl KB Processor
 
-A CLI tool for processing customer call transcripts and emails to enhance your knowledge base using AI-powered analysis.
+A powerful tool for processing customer call transcripts and emails to enhance your knowledge base using AI-powered analysis. Available in both **CLI** and **Web UI** interfaces.
 
 ## What It Does
 
@@ -25,13 +25,33 @@ This tool analyzes customer interactions (calls and emails) to:
 
 **New to this tool?** Start with **[QUICKSTART.md](QUICKSTART.md)** for a 5-minute setup guide!
 
+### Option 1: Web UI (Recommended for Teams)
+
+**See [UI_QUICK_START.md](UI_QUICK_START.md) for a 2-minute guided setup!**
+
+```bash
+# Quick launch (easiest)
+cd pikl-kb-processor
+./start_ui.sh
+
+# Or manually
+source venv/bin/activate
+streamlit run app.py
+
+# Opens at http://localhost:8501
+```
+
+**Features:** Visual dashboard, drag-and-drop uploads, FAQ review workflow, one-click publishing to Intercom, analytics charts. Perfect for teams!
+
+### Option 2: Command Line Interface
+
 ```bash
 # 1. Setup (automated)
 cd pikl-kb-processor
 ./setup.sh
 
 # 2. Configure API keys
-# Edit .env and add your ANTHROPIC_API_KEY and INTERCOM_ACCESS_TOKEN
+# Edit .env.local and add your ANTHROPIC_API_KEY and INTERCOM_ACCESS_TOKEN
 
 # 3. Activate environment
 source venv/bin/activate
@@ -53,8 +73,15 @@ python cli.py process \
 
 ## Documentation
 
-- **[QUICKSTART.md](QUICKSTART.md)**: 5-minute quick start guide (start here!)
-- **[USAGE_GUIDE.md](USAGE_GUIDE.md)**: Comprehensive usage guide with examples
+### Getting Started
+- **[UI_QUICK_START.md](UI_QUICK_START.md)**: 2-minute Web UI quick start (NEW! ⭐)
+- **[QUICKSTART.md](QUICKSTART.md)**: 5-minute CLI setup guide
+
+### User Guides
+- **[UI_GUIDE.md](UI_GUIDE.md)**: Complete Web UI user guide with workflows
+- **[USAGE_GUIDE.md](USAGE_GUIDE.md)**: Comprehensive CLI usage guide with examples
+
+### Reference
 - **[INTERCOM_PUBLISHING.md](INTERCOM_PUBLISHING.md)**: Guide to publishing FAQs directly to Intercom
 - **[PII_ANONYMIZATION.md](PII_ANONYMIZATION.md)**: Privacy & PII anonymization (IMPORTANT!)
 - **[PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)**: Technical overview and architecture
@@ -76,12 +103,59 @@ pikl-kb-processor/
 │   └── faqs.py         # Generate FAQ candidates using Claude
 ├── output/          # Reporting
 │   └── reports.py      # Generate reports in multiple formats
+├── anonymize.py     # PII anonymization
 ├── config.py        # Configuration management
 ├── models.py        # Data models (Pydantic)
+├── app.py           # Streamlit Web UI (NEW!)
 └── cli.py           # CLI interface
 ```
 
-## Key Features
+## Web UI Features
+
+The Streamlit-based Web UI provides a visual, team-friendly interface with:
+
+### 📊 Dashboard
+- Real-time metrics overview (KB articles, gaps, coverage %)
+- System health status
+- Recent activity feed
+- Quick access to all features
+
+### 📥 Data Ingestion
+- Visual file upload for transcripts and emails
+- One-click Intercom KB fetching
+- Live processing progress with logs
+- Processing status indicators
+
+### 🔍 Knowledge Gaps Analysis
+- Filterable and sortable gap list
+- Priority indicators (High/Medium/Low)
+- Theme-based grouping
+- Search functionality
+- Export options
+
+### ✏️ FAQ Review & Approval
+- Side-by-side FAQ review interface
+- Approve/Edit/Reject workflow
+- Batch actions for multiple FAQs
+- In-app editing capabilities
+- Status tracking (pending/approved/rejected)
+
+### 🚀 Publishing to Intercom
+- Select FAQs to publish in batches
+- Draft vs. Publish toggle
+- Preview before publishing
+- Live publishing status
+- Success/error notifications
+
+### 📈 Analytics & Reporting
+- Visual charts for themes and priorities
+- Coverage trends over time
+- Export reports (CSV, JSON, Markdown)
+- Downloadable analysis
+
+**Perfect for:** Product managers, support team leads, content strategists, and anyone who prefers visual interfaces over command line.
+
+## CLI Features
 
 ### 1. Intelligent Q&A Extraction
 Uses Claude to understand conversation context and extract:

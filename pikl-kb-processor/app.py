@@ -24,12 +24,22 @@ st.markdown("""
         padding: 15px;
         border-radius: 5px;
     }
+    .stMetric label {
+        color: #31333F !important;
+    }
+    .stMetric [data-testid="stMetricValue"] {
+        color: #0e1117 !important;
+    }
+    .stMetric [data-testid="stMetricDelta"] {
+        color: #31333F !important;
+    }
     .success-box {
         padding: 15px;
         background-color: #d4edda;
         border-left: 5px solid #28a745;
         border-radius: 5px;
         margin: 10px 0;
+        color: #155724;
     }
     .warning-box {
         padding: 15px;
@@ -37,6 +47,7 @@ st.markdown("""
         border-left: 5px solid #ffc107;
         border-radius: 5px;
         margin: 10px 0;
+        color: #856404;
     }
     .info-box {
         padding: 15px;
@@ -44,6 +55,7 @@ st.markdown("""
         border-left: 5px solid #17a2b8;
         border-radius: 5px;
         margin: 10px 0;
+        color: #0c5460;
     }
 </style>
 """, unsafe_allow_html=True)
