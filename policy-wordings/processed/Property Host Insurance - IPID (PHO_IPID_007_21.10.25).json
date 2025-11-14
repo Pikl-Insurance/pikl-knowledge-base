@@ -1,0 +1,199 @@
+{
+  "insurer_name": "Aviva Insurance Limited (underwritten by Prestige Underwriting Services Limited on behalf of Aviva Insurance Limited, administered by Pikl Insurance Services Limited)",
+  "policy_type": "Property Host Insurance (Short Term Letting/Holiday Rental)",
+  "policy_version": "PHO/IPID/007/21.10.25",
+  "coverage_summary": "This policy provides cover for incidents which may arise when you have short term guests at the insured property. It covers buildings, contents, loss of income, electric vehicle charging units, legal liability, and legal expenses related to hosting activities.",
+  "key_inclusions": [
+    "Buildings: Fire, explosion, and smoke damage",
+    "Buildings: Accidental or malicious damage",
+    "Buildings: Escape of water or oil",
+    "Buildings: Theft or attempted theft",
+    "Buildings: Emergency services damage",
+    "Buildings: Alternative accommodation and kennelling",
+    "Contents: Fire, explosion, and smoke damage",
+    "Contents: Accidental or malicious damage",
+    "Contents: Escape of water or oil",
+    "Contents: Theft or attempted theft",
+    "Contents: Loss of keys and replacement locks",
+    "Contents: Emergency services damage",
+    "Contents: Infestation of pests",
+    "Contents: Fatal injury",
+    "Loss of income following a claim",
+    "Electric and Hybrid Home Charging Units: Accidental or malicious damage",
+    "Electric and Hybrid Home Charging Units: Theft",
+    "Legal Liability: Liability for loss of, or damage to third party property, or for bodily injury",
+    "Legal Expenses: Legal expenses to defend or pursue legal claims arising from hosting activities",
+    "Legal Expenses: Eviction of overstaying guests",
+    "Legal Expenses: Defence for HMRC investigations relating to hosting activity",
+    "Legal Expenses: Legal support for social media defamation"
+  ],
+  "key_exclusions": [
+    "Claims not arising from hosting activity and a valid booking",
+    "Loss or damage caused by the host or a member of the hosts family",
+    "Loss or damage covered under a standard property policy",
+    "Loss or damage which occurs gradually over a period of time",
+    "Loss or damage caused by mechanical or electrical breakdown",
+    "Professional and domestic cleaning",
+    "Loss or damage to money and credit cards",
+    "Loss or liability of any kind involving Covid-19 or any communicable disease",
+    "Any loss of income incurred in the immediate 14 days after the insured event",
+    "Loss or damage to valuables and electrical valuables where the replacement value of a single article exceeds \u00a35,000",
+    "Valuables and electrical valuables left in outbuildings, garages and the open",
+    "Laptops, tablets, and phones not kept in a locked room and out of sight when left unattended"
+  ],
+  "coverage_limits": {
+    "buildings_section_a_fire_smoke_explosion": "\u00a31,000,000 (applies where property is not a flat or apartment structure)",
+    "buildings_section_b_fire_smoke_explosion": "\u00a350,000 (applies where property is a flat or apartment structure)",
+    "contents_fire_smoke_explosion": "\u00a3100,000 (regardless of property type)",
+    "buildings_section_a_accidental_malicious_damage": "\u00a380,000 (applies where property is not a flat or apartment structure)",
+    "buildings_section_b_accidental_malicious_damage": "\u00a350,000 (applies where property is a flat or apartment structure)",
+    "contents_accidental_malicious_damage": "\u00a340,000 (regardless of property type)",
+    "theft_or_attempted_theft_buildings": "\u00a320,000",
+    "theft_or_attempted_theft_contents": "\u00a320,000",
+    "loss_of_income": "\u00a310,000",
+    "legal_liability": "\u00a35,000,000 including any legal costs"
+  },
+  "sub_limits": {
+    "loss_of_keys_replacement_locks": "\u00a31,000",
+    "kennelling": "\u00a35,000",
+    "alternative_accommodation_host_family": "\u00a320,000",
+    "guest_alternative_accommodation": "\u00a35,000",
+    "single_valuable_or_electrical_valuable_item": "\u00a35,000 maximum replacement value per article"
+  },
+  "special_conditions": [
+    "Laptops, tablets, and phones must be kept in a locked room and out of sight when left unattended",
+    "Valuables and electrical valuables are not covered if they are left in outbuildings, garages and the open",
+    "You must ensure you comply with all the eligibility criteria within the policy wording and/or schedule",
+    "You must ensure a written agreement is in place with the guest, setting out the terms of the hosting activity",
+    "The property must be kept in a good state of repair and free from any tripping hazards",
+    "Reasonable care must be taken to protect the insured property against damage and to prevent accident or injury",
+    "The host must comply with all fire safety regulations and have a valid gas safety certificate in place",
+    "You must follow our claims process which can be found in your policy documentation",
+    "You must notify Pikl Insurance Services if any of this information is incorrect"
+  ],
+  "excess_deductible": "Any excess stated in the policy wording (specific amounts not detailed in this IPID document)",
+  "geographical_coverage": "The buildings are covered at the insured property address within the United Kingdom (including Northern Ireland) that is shown on your schedule and the contents are covered within the owned boundaries of the property",
+  "age_restrictions": "Not specified in this document",
+  "pre_existing_conditions": "Not applicable to property insurance",
+  "cancellation_policy": "Can cancel by telephone, email or post at any time. If cancelled before cover starts: full refund. If cancelled within 14 days of purchase/renewal (or from receipt of documents if later): full refund if no claims made or pending. If cancelled after 14-day period: no refund due.",
+  "endorsements": [
+    {
+      "name": "No endorsements or optional modifications explicitly listed",
+      "description": "This IPID document does not detail any optional endorsements or policy modifications",
+      "cost_impact": "Not specified",
+      "coverage_impact": "Not specified"
+    }
+  ],
+  "claims_requirements": {
+    "notification_timeframe": "Must follow claims process as found in policy documentation (specific timeframe not detailed in IPID)",
+    "required_documents": [
+      "Details as per full policy documentation (not specified in this IPID summary)"
+    ],
+    "process_steps": [
+      "Follow the claims process detailed in policy documentation",
+      "Contact Pikl Insurance Services to report claim"
+    ],
+    "evidence_requirements": "Not specified in this IPID document - refer to full policy documentation",
+    "claims_contact": "Contact Pikl Insurance Services (contact details not provided in this IPID document)"
+  },
+  "eligibility_criteria": {
+    "age_limits": "Not specified in this document",
+    "medical_restrictions": "Not applicable to property insurance",
+    "occupational_restrictions": "Not specified in this document",
+    "residency_requirements": "Property must be within the United Kingdom (including Northern Ireland)",
+    "other_restrictions": [
+      "Must comply with all eligibility criteria within the policy wording and/or schedule",
+      "Must have hosting activity with valid bookings",
+      "Must have written agreement with guests",
+      "Property must be kept in good state of repair and free from tripping hazards",
+      "Must comply with fire safety regulations",
+      "Must have valid gas safety certificate in place"
+    ]
+  },
+  "policy_definitions": {
+    "hosting_activity": "Short term letting of the insured property to guests",
+    "insured_property": "The property address shown on the policy schedule within the UK (including Northern Ireland)",
+    "valuables": "Items with replacement value (specific definition in full policy - single items over \u00a35,000 have coverage restrictions)",
+    "electrical_valuables": "Electrical items with value (includes laptops, tablets, phones - must be kept in locked room when unattended)",
+    "buildings_section_a": "Properties that are not flats or apartment structures",
+    "buildings_section_b": "Properties that are flats or apartment structures",
+    "host": "The policyholder who lets the property to short term guests",
+    "guest": "Short term occupant with a valid booking and written agreement"
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "Not specified in this IPID document",
+    "notification_deadlines": "Must follow claims process in policy documentation",
+    "claims_deadlines": "Not specified in this IPID document - refer to full policy wording",
+    "cooling_off_period": "14 days from purchase or renewal (or from receipt of policy/renewal documents if later) - full refund if no claims made or pending"
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "Pikl Insurance Services Ltd are appointed as Insurers' Agents and are authorised and regulated by the Financial Conduct Authority under reference 773457",
+      "Aviva Insurance Limited is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority",
+      "Aviva Insurance Limited registered in Scotland, No. SC002116",
+      "Pikl Insurance Services Ltd is a company incorporated in England and Wales under No. 10449346",
+      "Registered address: Suite B, 2nd Floor, The Atrium, St Georges Street, Norwich, NR3 1AB"
+    ],
+    "ipid_key_info": "This Insurance Product Information Document provides a summary of key information. Complete pre-contractual and contractual information on the product is provided in the full policy documentation.",
+    "fair_treatment_obligations": "Must notify Pikl Insurance Services if any information is incorrect; transparency about eligibility criteria and obligations",
+    "complaints_process": "Not detailed in this IPID document - refer to full policy documentation",
+    "regulatory_warnings": [
+      "This document provides a summary only - complete information is in the full policy documentation",
+      "Policy administered by Pikl Insurance Services Limited and underwritten by Prestige Underwriting Services Limited on behalf of Aviva Insurance Limited"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Does this policy cover me if I live in the property full-time?",
+      "answer": "No, this policy specifically covers incidents arising from hosting activity with short term guests. Claims not arising from hosting activity and a valid booking are excluded.",
+      "section_reference": "What is not insured"
+    },
+    {
+      "question": "If my guest damages something, is there a waiting period before I can claim loss of income?",
+      "answer": "Yes, any loss of income incurred in the immediate 14 days after the insured event is not covered.",
+      "section_reference": "What is not insured"
+    },
+    {
+      "question": "Can I leave my laptop out for guests to use?",
+      "answer": "Laptops, tablets, and phones must be kept in a locked room and out of sight when left unattended, otherwise they are not covered.",
+      "section_reference": "Are there any restrictions"
+    },
+    {
+      "question": "Does this policy cover Covid-19 related claims?",
+      "answer": "No, loss or liability of any kind involving Covid-19 or any communicable disease is excluded.",
+      "section_reference": "What is not insured"
+    },
+    {
+      "question": "What if I have expensive jewelry worth \u00a310,000 - is it fully covered?",
+      "answer": "No, loss or damage to valuables where the replacement value of a single article exceeds \u00a35,000 has restrictions. Individual items over \u00a35,000 are not fully covered under standard limits.",
+      "section_reference": "Are there any restrictions"
+    },
+    {
+      "question": "Can I get a refund if I cancel after 3 months?",
+      "answer": "No, if you cancel after the 14-day cooling off period, there will be no refund due.",
+      "section_reference": "How do I cancel the contract"
+    },
+    {
+      "question": "Does this replace my standard home insurance?",
+      "answer": "No, this policy specifically excludes loss or damage covered under a standard property policy. This is supplementary cover for hosting activities.",
+      "section_reference": "What is not insured"
+    },
+    {
+      "question": "Do I need a written agreement with my guests?",
+      "answer": "Yes, you must ensure a written agreement is in place with the guest, setting out the terms of the hosting activity. This is a policy obligation.",
+      "section_reference": "What are my obligations"
+    },
+    {
+      "question": "Is my property in Scotland covered?",
+      "answer": "Yes, coverage extends to properties within the United Kingdom, including Northern Ireland and Scotland.",
+      "section_reference": "Where am I covered"
+    },
+    {
+      "question": "Does this cover professional cleaning costs?",
+      "answer": "No, professional and domestic cleaning is specifically excluded from coverage.",
+      "section_reference": "What is not insured"
+    }
+  ],
+  "source_file": "Property Host Insurance - IPID (PHO_IPID_007_21.10.25).pdf",
+  "processed_date": "1762788744.0"
+}

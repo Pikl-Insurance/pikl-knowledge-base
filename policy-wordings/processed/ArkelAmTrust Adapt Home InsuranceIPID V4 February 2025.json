@@ -1,0 +1,248 @@
+{
+  "insurer_name": "AmTrust (arranged by Arkel Underwriting, a trading style of Arkel Limited)",
+  "policy_type": "Home Insurance (Buildings and Contents)",
+  "policy_version": "V4 February 2025",
+  "coverage_summary": "Multi-section insurance policy covering loss or damage to your home and its contents by insured events. Cover available for Buildings, Contents, and optional Personal Belongings sections. Coverage is restricted for unoccupied properties as shown on the Policy Schedule.",
+  "key_inclusions": [
+    "Fire, smoke, explosion, lightning, earthquake damage",
+    "Storm and flood damage",
+    "Theft with forcible and violent entry/exit",
+    "Escape of water from burst pipes or tanks",
+    "Malicious acts and riot",
+    "Subsidence, heave and landslip",
+    "Collision by vehicles or animals",
+    "Falling trees, collapse of aerials or satellite dishes",
+    "Accidental damage to underground pipes and cables up to \u00a310,000",
+    "Trace and Access for water escape up to \u00a35,000",
+    "Alternative Accommodation up to 20% of Buildings sum insured for up to 24 months",
+    "Property Owners' Liability up to \u00a35,000,000",
+    "Occupiers' and Public Liability up to \u00a35,000,000",
+    "Liability to domestic staff up to \u00a310,000,000",
+    "Accidental damage to mirrors, fixed glass to furniture and ceramic hobs up to \u00a310,000",
+    "Contents covered on new replacement basis",
+    "Optional Accidental Damage to Buildings (including fixed glass and bathroom fittings)",
+    "Optional Accidental Damage to Contents (audio and audio visual equipment)",
+    "Optional Personal Belongings Away from Home (worldwide for up to 60 days)",
+    "Optional Specified articles and Pedal Cycles over \u00a3500"
+  ],
+  "key_exclusions": [
+    "Loss or damage whilst home is left unoccupied (see policy definitions and endorsements)",
+    "Faulty workmanship, defective design or use of defective materials",
+    "Theft or Attempted Theft whilst Buildings are lent, let, sub-let or occupied by anyone other than you or your family (except with forcible and violent entry/exit)",
+    "Theft where business visitors to home, unless forcible and violent entry/exit",
+    "Loss or damage or liability arising from activities of contractors",
+    "Subsidence, ground heave or landslip resulting from construction, structural alteration, repair or demolition",
+    "Malicious damage caused by you, your family, domestic staff, lodgers, paying guests or tenants, or anyone you allowed into the home",
+    "Storm, flood, subsidence, heave or landslip damage to drives, patios and paths unless home damaged at same time by same cause",
+    "Damage caused by demolition, structural alterations or structural repairs",
+    "Loss or accidental damage caused by electrical or mechanical breakdown",
+    "Wear, tear, depreciation or gradually operating cause (including wet or dry rot, rust, deterioration, cleaning)",
+    "Damage caused by Domestic Pets, Insects or Vermin",
+    "Loss or damage from failure or lack of sealant and/or grout in tiles, bath, WCs, shower basin and surrounds",
+    "Loss, damage, liability, cost or expense from infectious or contagious disease",
+    "Loss, damage, liability, cost or expense from cyber incident",
+    "Loss of or damage to electronic data",
+    "Motor vehicles and their contents",
+    "Any loss or damage which occurred prior to policy commencement",
+    "Loss, damage or liability from ownership or usage of hot tub, jacuzzi or spa unless used, maintained and serviced per manufacturer's instructions and cover securely fixed when not in use"
+  ],
+  "coverage_limits": {
+    "Buildings_Sum_Insured": "Up to the Sum Insured chosen by customer (cost of rebuilding the property)",
+    "Contents_Sum_Insured": "Up to the Sum Insured chosen by customer (cost to replace all contents as new)",
+    "Property_Owners_Liability": "\u00a35,000,000",
+    "Occupiers_and_Public_Liability": "\u00a35,000,000",
+    "Liability_to_Domestic_Staff": "\u00a310,000,000",
+    "Alternative_Accommodation": "Maximum 20% of Buildings sum insured, payable for up to 24 months"
+  },
+  "sub_limits": {
+    "Underground_Pipes_and_Cables": "\u00a310,000",
+    "Trace_and_Access": "\u00a35,000 to find escape of water from fixed water or heating installation",
+    "Accidental_Damage_Mirrors_Glass_Hobs": "\u00a310,000 for mirrors, fixed glass to furniture and ceramic hobs forming part of movable cooker",
+    "Personal_Belongings_Away_from_Home": "Up to chosen sum insured (worldwide for up to 60 days)",
+    "Specified_Articles": "Up to chosen sum insured (worldwide for up to 60 days)",
+    "Specified_Pedal_Cycles": "For cycles over \u00a3500 each"
+  },
+  "special_conditions": [
+    "Cover only provided for sections selected and shown as insured on Policy Schedule",
+    "Cover restricted for unoccupied properties as shown on Policy Schedule",
+    "If property unoccupied for more than 60 days, cover for theft, water escape, frozen pipe and malicious damage will be restricted",
+    "Pedal Cycles away from home must be adequately secured when left unattended",
+    "Hot tub, jacuzzi or spa must be used, maintained and serviced per manufacturer's instructions with cover securely fixed when not in use",
+    "You and your family must take all reasonable precautions to avoid injury, loss or damage",
+    "You must take all reasonable steps to safeguard insured property from loss or damage",
+    "Must notify insurer before starting conversions, extensions or other structural work",
+    "When claiming, must take reasonable steps to prevent further damage and attempt to recover property"
+  ],
+  "excess_deductible": "Standard compulsory excess: \u00a3100 (unless shown otherwise on Schedule). Subsidence, heave and landslip excess: \u00a31,000 (unless shown otherwise on Schedule). Escape of water excess: minimum \u00a3500. Policyholders must pay excess amount for each claim.",
+  "geographical_coverage": "Main private residence in England, Scotland, Wales, Northern Ireland, Isle of Man or Channel Islands. Personal Belongings: worldwide for up to 60 days (if optional cover selected)",
+  "age_restrictions": "Not specified in this document",
+  "pre_existing_conditions": "Not applicable for home insurance",
+  "cancellation_policy": "Can cancel anytime by contacting insurance adviser. Within first 14 days: full refund if no claim made or intended. After 14 days: refund of premium less deduction for time covered and administrative costs (if no claim made). For policies issued for less than 12 months with direct debit payment: no return of premium if cancelled after 14 days.",
+  "endorsements": [
+    {
+      "name": "Accidental Damage to Buildings",
+      "description": "Adds accidental damage cover to Buildings including fixed glass and bathroom fittings",
+      "cost_impact": "Additional premium (amount not specified)",
+      "coverage_impact": "Extends coverage beyond named perils to accidental damage for buildings components"
+    },
+    {
+      "name": "Accidental Damage to Contents",
+      "description": "Adds accidental damage cover to audio and audio visual equipment",
+      "cost_impact": "Additional premium (amount not specified)",
+      "coverage_impact": "Extends coverage beyond named perils to accidental damage for specified electronics"
+    },
+    {
+      "name": "Personal Belongings Away from the Home - Unspecified Articles",
+      "description": "Loss or damage to belongings anywhere in the world for up to 60 days",
+      "cost_impact": "Additional premium (amount not specified)",
+      "coverage_impact": "Extends coverage to personal items outside the home up to chosen sum insured"
+    },
+    {
+      "name": "Personal Belongings Away from the Home - Specified Articles",
+      "description": "Loss or damage to belongings listed on Schedule anywhere in the world for up to 60 days",
+      "cost_impact": "Additional premium (amount not specified)",
+      "coverage_impact": "Provides higher coverage for valuable items specifically listed on schedule"
+    },
+    {
+      "name": "Specified Pedal Cycles",
+      "description": "Coverage for pedal cycles you tell us about over \u00a3500 each",
+      "cost_impact": "Additional premium (amount not specified)",
+      "coverage_impact": "Covers higher value bicycles that exceed standard limits"
+    },
+    {
+      "name": "Unoccupied Property Endorsement",
+      "description": "Special conditions applying when property unoccupied more than 60 days",
+      "cost_impact": "May affect premium (not specified)",
+      "coverage_impact": "Restricts cover for theft, water escape, frozen pipe and malicious damage if property unoccupied over 60 days"
+    }
+  ],
+  "claims_requirements": {
+    "notification_timeframe": "As soon as possible",
+    "required_documents": [
+      "Appropriate evidence requested by insurer to substantiate loss",
+      "Evidence will vary depending on nature of claim"
+    ],
+    "process_steps": [
+      "Contact CPA Chartered Loss Adjusters: 0117 929 9255 (9am-5pm Mon-Fri)",
+      "Provide appropriate evidence requested to substantiate loss",
+      "Take reasonable steps to prevent further damage",
+      "Attempt to prevent further loss",
+      "Try to recover your property"
+    ],
+    "evidence_requirements": "You will be asked to provide appropriate evidence requested by insurer to substantiate your loss (specific requirements depend on claim type)",
+    "claims_contact": "CPA Chartered Loss Adjusters: 0117 929 9255 (9am-5pm Mon-Fri)"
+  },
+  "eligibility_criteria": {
+    "age_limits": "Not specified in this document",
+    "medical_restrictions": "Not applicable for home insurance",
+    "occupational_restrictions": "Must notify if home used for business purposes other than clerical",
+    "residency_requirements": "Must be main private residence of policyholder in England, Scotland, Wales, Northern Ireland, Isle of Man or Channel Islands",
+    "other_restrictions": [
+      "Property must not be left unoccupied beyond stated limits",
+      "Property must be solely occupied by policyholder and family (unless letting arrangements disclosed)",
+      "Must not have undisclosed criminal convictions, police cautions or charges",
+      "Must not have undisclosed bankruptcy or bankruptcy proceedings",
+      "Must disclose if property is let, sub-let or occupied by others",
+      "Must disclose structural work, conversions or extensions before they commence"
+    ]
+  },
+  "policy_definitions": {
+    "Unoccupied": "Refer to definitions in policy wording and any endorsements shown on Policy Schedule. Generally applies when property left empty for more than 60 days, with restrictions on theft, water escape, frozen pipe and malicious damage cover",
+    "Family": "Policyholder and their family members residing at the property",
+    "Buildings": "The structure of the property including fixed items like bathroom fittings and fixed glass",
+    "Contents": "Movable household items, furniture, appliances, and personal belongings",
+    "Rebuilding": "The cost to rebuild the property (Buildings sum insured basis)",
+    "New Replacement": "The cost to replace Contents as new (Contents sum insured basis)",
+    "Period_of_Insurance": "Specified in policy schedule",
+    "Schedule": "The document showing what sections are insured, sum insured amounts, excesses, and any endorsements",
+    "Forcible_and_Violent_Entry": "Required for theft claims in let/sublet properties or with business visitors",
+    "You/Your": "The policyholder named on the schedule",
+    "Excess": "The amount policyholder must pay towards each claim"
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "Not specified - coverage begins from start date shown on schedule",
+    "notification_deadlines": "Must notify insurer as soon as possible about claims and about material changes (change of address, letting property, unoccupancy over 60 days, structural work, criminal matters, bankruptcy)",
+    "claims_deadlines": "Claims must be notified as soon as possible",
+    "cooling_off_period": "14 days from policy start - full refund available if cancelled within this period (provided no claim made or intended)"
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "Arkel Underwriting is a trading style of Arkel Limited which is authorised and regulated by the Financial Conduct Authority. Firm Reference No (FRN 916682)",
+      "Arkel Limited is registered in England and Wales (company no. 11031900) with its registered office at 22-23 Cromwell Business Park, Banbury Road, Chipping Norton, Oxfordshire, OX7 5SR",
+      "This document provides a summary of cover, exclusions and restrictions. Full terms and conditions available in policy document on request or shown on Schedule",
+      "This is an Insurance Product Information Document (IPID)"
+    ],
+    "ipid_key_info": "This is a multi-section home insurance policy covering Buildings and Contents. Cover is optional and modular - only sections selected and shown on Schedule are insured. Standard excesses apply. Cover restricted for unoccupied properties. Personal Belongings can be covered worldwide for up to 60 days if optional cover selected.",
+    "fair_treatment_obligations": "Customers must give complete and accurate answers to questions. Must notify of any inaccuracies or changes before or during period of insurance. Insurer must be notified of material changes including occupancy, letting, structural work, criminal matters, bankruptcy.",
+    "complaints_process": "Contact insurance intermediary or broker for complaints (specific complaints process details to be in full policy document)",
+    "regulatory_warnings": [
+      "At the beginning of the new period of insurance or when making changes to your policy, you must give complete and accurate answers to any questions you are asked relating to the insurance",
+      "You must tell your insurance adviser if you become aware of any inaccuracies or changes in the information you have provided to us, whether happening before or during the period of insurance",
+      "Failure to provide accurate information may result in claims being declined or policy being voided"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "What happens if my property is unoccupied for more than 60 days?",
+      "answer": "Cover for losses by theft, water escape, frozen pipe and malicious damage will be restricted. Special conditions apply - refer to policy wording and endorsements on Schedule. You must notify your insurance adviser if home will be unoccupied for longer than 60 days.",
+      "section_reference": "Restrictions on cover section; What are my obligations section"
+    },
+    {
+      "question": "Am I covered for theft if I rent out a room?",
+      "answer": "Theft or Attempted Theft is NOT covered whilst Buildings are lent, let, sub-let or occupied by anyone other than you or your family, EXCEPT where there is forcible and violent entry or exit. You must notify insurer if you intend to let or sub-let your home.",
+      "section_reference": "What is not insured - Buildings and Contents sections"
+    },
+    {
+      "question": "What excess will I pay if I make a claim for subsidence?",
+      "answer": "The subsidence, heave and landslip excess is \u00a31,000 unless shown otherwise on your Schedule.",
+      "section_reference": "Are there restrictions on cover section"
+    },
+    {
+      "question": "Can I cancel my policy and get my money back?",
+      "answer": "Yes. Within first 14 days: full refund if no claim made or intended. After 14 days: refund of premium less deduction for time covered and administrative costs (if no claim made). Note: For policies under 12 months paid by direct debit, there is no return of premium if cancelled after 14 days.",
+      "section_reference": "How do I cancel the contract section"
+    },
+    {
+      "question": "Are my belongings covered when I travel abroad?",
+      "answer": "Only if you have selected the optional Personal Belongings Away from Home cover. This provides worldwide cover for up to 60 days, either for unspecified articles up to your chosen sum insured, or for specified articles listed on your Schedule.",
+      "section_reference": "Optional Covers - Personal Belongings Away from the Home"
+    },
+    {
+      "question": "What excess do I pay for water damage claims?",
+      "answer": "The escape of water excess is a minimum of \u00a3500.",
+      "section_reference": "Are there restrictions on cover section"
+    },
+    {
+      "question": "Am I covered if I have a hot tub?",
+      "answer": "You can be covered, but only if the hot tub, jacuzzi or spa is used, maintained and serviced in accordance with the manufacturer's instructions and the cover is securely fixed in place at all times when not in use. Otherwise, any loss, damage or liability from it is excluded.",
+      "section_reference": "What is not insured section"
+    },
+    {
+      "question": "Does the policy cover my bicycle?",
+      "answer": "Standard Contents cover includes pedal cycles at home. For cycles away from home, or for cycles over \u00a3500 each, you need to select the optional Specified Pedal Cycles cover. Cycles must be adequately secured when left unattended away from home.",
+      "section_reference": "Optional Covers - Personal Belongings; Are there restrictions on cover"
+    },
+    {
+      "question": "What should I do if I need to make a claim?",
+      "answer": "Contact CPA Chartered Loss Adjusters on 0117 929 9255 (9am-5pm Mon-Fri). You should take reasonable steps to prevent further damage, attempt to prevent further loss and try to recover your property. You will be asked to provide appropriate evidence to substantiate your loss.",
+      "section_reference": "What are my obligations section"
+    },
+    {
+      "question": "Am I covered for accidental damage?",
+      "answer": "Standard policy covers accidental damage to mirrors, fixed glass to furniture and ceramic hobs (up to \u00a310,000), and underground pipes and cables (up to \u00a310,000). For broader accidental damage cover, you need to select optional Accidental Damage to Buildings (including fixed glass and bathroom fittings) or Accidental Damage to Contents (audio and audio visual equipment).",
+      "section_reference": "What is insured - Buildings and Contents; Optional Covers"
+    },
+    {
+      "question": "What changes must I tell the insurer about?",
+      "answer": "You must notify as soon as possible about: change of address; intention to let or sub-let home; using home for business (other than clerical); home being unoccupied for longer than 60 days; bankruptcy or criminal matters; property no longer occupied solely by you and family. You must also notify before starting conversions, extensions or structural work.",
+      "section_reference": "What are my obligations section"
+    },
+    {
+      "question": "Is wear and tear covered?",
+      "answer": "No. Wear, tear, depreciation or any gradually operating cause is excluded, including but not limited to wet or dry rot, rust, deterioration or damage from cleaning.",
+      "section_reference": "What is not insured section"
+    }
+  ],
+  "source_file": "ArkelAmTrust Adapt Home InsuranceIPID V4 February 2025.pdf",
+  "processed_date": "1762788742.0"
+}

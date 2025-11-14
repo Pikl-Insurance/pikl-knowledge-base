@@ -1,0 +1,294 @@
+{
+  "insurer_name": "Millennium Insurance Company Limited (underwritten by Novus Underwriting Limited on behalf of Millennium Insurance Company Limited)",
+  "policy_type": "Home Emergency Insurance",
+  "policy_version": "MILPIK-HOME-RENT-2401-POLICY",
+  "coverage_summary": "This policy provides assistance in the event of an emergency at a property that is commercially let from time to time or part let on a short-term basis. It covers sudden and unexpected failures requiring immediate attention to prevent damage, ensure safety, or maintain security. This is NOT a maintenance policy and does not cover routine maintenance, cleaning, or servicing.",
+  "key_inclusions": [
+    "Emergency plumbing repairs (internal plumbing including central heating pipes and radiator valves)",
+    "Internal and external drainage emergencies",
+    "Emergency boiler cover (complete breakdown resulting in total loss of heating/hot water)",
+    "Electrical emergency (permanent domestic electrical wiring system failures)",
+    "Emergency gas supply pipe cover (internal gas supply pipe leaks after National Gas Emergency Service attendance)",
+    "Security emergencies (boarding up broken glazing, repairing/replacing locks)",
+    "Roofing emergencies (temporary protection from weather damage)",
+    "Lost keys assistance (when no other set available)",
+    "Pest infestation removal (black/brown rats, field/house mice, wasps' and hornets' nests only)",
+    "Alternative accommodation up to \u00a3250 (for gas supply pipe emergencies making property uninhabitable for 48+ hours)",
+    "Alternative heating benefit \u00a340 (if boiler repair takes 60+ hours to obtain parts)",
+    "Call out charges, labour, parts and materials up to claim limit",
+    "Trace and access work to locate hidden leaks"
+  ],
+  "key_exclusions": [
+    "Routine maintenance, cleaning or servicing",
+    "Incidents within 14-day initial exclusion period (unless transferring from like-for-like policy)",
+    "Circumstances known prior to policy start date",
+    "Properties left unoccupied for 60 or more consecutive days",
+    "Work not authorized by claims administrator in advance",
+    "Subsidence, heave or landslip",
+    "Malicious or deliberate damage, negligence, misuse or third-party interference",
+    "Items not regularly maintained per manufacturer's instructions",
+    "Disconnection from public utilities (gas, water, electricity)",
+    "Natural wear and tear or gradual deterioration",
+    "Delays in obtaining spare parts",
+    "Changes required due to legislation or health/safety guideline changes",
+    "Properties outside the United Kingdom",
+    "Flats, apartments, commercial premises, mobile homes, bed-sits (for some sections)",
+    "Pollution or contamination",
+    "Systems not installed to regulatory standards",
+    "War, terrorism, nuclear risks, active war participation",
+    "Boilers over 15 years old at start date",
+    "Boilers with output more than 60kW/hr",
+    "Boilers not serviced within 12 months prior to emergency",
+    "Repairs still under manufacturer/retailer warranty",
+    "Non-gas appliances, LPG boilers, dual-purpose boilers (AGAs, Rayburns)",
+    "Solar panels, ground/air/water source pumps",
+    "Frozen pipes that haven't caused damage",
+    "Dripping taps",
+    "Drains blocked by leaves, oils, fats or debris",
+    "Cesspits, septic tanks, vacuum drainage systems, pumps",
+    "Swimming pool systems",
+    "Guttering and rainwater systems",
+    "Pitch fibre pipe delamination",
+    "Shared drains or drains outside property boundary",
+    "Domestic appliances with plugs",
+    "Light bulb and fuse replacement",
+    "Appliances causing circuit failures",
+    "External lighting, sheds, greenhouses",
+    "Lead pipework replacement",
+    "Pest infestations other than specified pests (no bees, ants, fleas, bedbugs, spiders, flies, squirrels)",
+    "Pest damage to property or contents",
+    "Reinstatement of drives, paths, decking, internal flooring, walls, ceilings"
+  ],
+  "coverage_limits": {
+    "per_claim_limit": "\u00a31,000 maximum per claim including call out charges, labour, parts, materials and where applicable alternative accommodation",
+    "annual_claim_limit": "Maximum of 3 claims during any one period of insurance",
+    "alternative_accommodation_gas": "Up to \u00a3250 total (including VAT) for hotel rooms and transport only if property uninhabitable 48+ hours due to gas supply pipe emergency",
+    "alternative_heating_boiler": "Fixed benefit of \u00a340 if heating cannot be reinstated and spare parts take 60+ hours from diagnosis"
+  },
+  "sub_limits": {
+    "alternative_accommodation_coverage": "Hotel room(s) and transport to hotel only - excludes food, drink, parking charges, entertainment",
+    "alternative_heating_reimbursement": "Purchase receipt required, covers cost of heater purchase only (e.g., electric heater)"
+  },
+  "special_conditions": [
+    "Domestic boiler must be 15 years or younger to be covered",
+    "Domestic boiler must have been serviced within 12 months prior to start date AND within 12 months prior to emergency",
+    "Boiler must be serviced in line with manufacturer's recommendations",
+    "Property must undergo normal day-to-day maintenance and be in good condition",
+    "For gas pipe emergencies, National Gas Emergency Service must attend and isolate leak first",
+    "Engineer attendance subject to weather conditions, health and safety, industrial disputes, transport failures",
+    "Properties over two stories may not be covered for roofing due to scaffold requirements",
+    "Excess must be paid before engineer dispatched",
+    "Excess non-refundable if callout cancelled after engineer dispatched",
+    "If costs exceed claim limit, policyholder pays the excess amount",
+    "All assistance requests must be made through claims administrator - unauthorized work not reimbursed",
+    "Proof of previous insurance required if claiming within initial exclusion period as a transfer customer",
+    "Replacement parts may be sourced from third parties, not just manufacturers"
+  ],
+  "excess_deductible": "\u00a350.00 excess payable each time a claim is made. Must be paid to claims administrator before engineer will be dispatched. Payment by credit or debit card. Excess is not refunded if callout cancelled after engineer dispatched.",
+  "geographical_coverage": "United Kingdom only (England, Scotland, Wales and Northern Ireland)",
+  "age_restrictions": "Policyholder must be aged 18 or over at time of purchasing insurance. Boiler must be 15 years or younger at start date.",
+  "pre_existing_conditions": "No cover for circumstances known to policyholder prior to start date of policy",
+  "cancellation_policy": "14-day cooling off period from purchase date or receipt of documents (whichever is later) - full refund unless claim made or incident occurred. After 14 days, no refund of premium if policyholder cancels. Insurer may cancel with 14 days' notice for valid reasons (non-payment, threatening behavior, non-compliance, fraud) - refund provided less charge for cover already used (except fraud cases).",
+  "endorsements": [
+    {
+      "name": "Four Different Product Tiers",
+      "description": "There are four different products available under this insurance. The specific product chosen determines which sections of cover apply. Product selection stated on Policy Schedule.",
+      "cost_impact": "Not specified - varies by product selected",
+      "coverage_impact": "Determines which cover sections apply to the policy"
+    },
+    {
+      "name": "Automatic Renewal Option",
+      "description": "Optional automatic renewal can be selected at purchase. Administrator keeps payment details on file and debits premium up to 7 days before renewal. Email notification sent up to 30 days prior confirming new premium and any changes. Written confirmation also sent to property address.",
+      "cost_impact": "Premium confirmed in renewal notice 30 days prior",
+      "coverage_impact": "Ensures continuous cover without gaps. Must contact administrator 14+ days before renewal to cancel or make changes."
+    },
+    {
+      "name": "Transfer from Previous Insurer",
+      "description": "If transferring from like-for-like insurance with another insurer without gap in cover, the 14-day initial exclusion period does not apply. Proof required if claim reported within initial exclusion period.",
+      "cost_impact": "None",
+      "coverage_impact": "Waives 14-day initial exclusion period for genuine transfers with continuous cover"
+    }
+  ],
+  "claims_requirements": {
+    "notification_timeframe": "As soon as reasonably possible after noticing the emergency. Major emergencies that could cause serious injury or property damage should be immediately reported to supply company and/or public emergency services first.",
+    "required_documents": [
+      "Policy number (from Policy Schedule)",
+      "Information on the emergency",
+      "For boiler claims: proof of servicing within 12 months prior to emergency",
+      "For transfer customers claiming in initial exclusion period: proof of previous like-for-like insurance",
+      "For alternative heating reimbursement: purchase receipt for heater",
+      "For alternative accommodation reimbursement: valid receipt for hotel and transport costs",
+      "Payment of \u00a350 excess by credit or debit card before engineer dispatched"
+    ],
+    "process_steps": [
+      "1. For gas leaks or major emergencies: contact supply company/emergency services first",
+      "2. Check that circumstances are covered by your policy",
+      "3. Telephone claims administrator immediately upon noticing emergency",
+      "4. Provide policy number and emergency details",
+      "5. Pay \u00a350 excess by credit or debit card",
+      "6. Claims administrator will appoint and dispatch engineer",
+      "7. Ensure engineer can access property for repair",
+      "8. If spare parts needed, claims administrator will contact you when received to arrange engineer visit",
+      "9. For alternative heating/accommodation: obtain authorization from claims administrator first, pay costs, submit receipt with claim form for reimbursement"
+    ],
+    "evidence_requirements": "Boiler service records (within 12 months), previous insurance documents (for transfers), purchase receipts (for reimbursement claims), valid hotel/transport receipts",
+    "claims_contact": "Preferred Management Solutions Ltd (PMS), Preferred House, 4-5 Merchant Court, Monkton Business Park, Hebburn, NE31 2EX, Tel: 0191 466 1115"
+  },
+  "eligibility_criteria": {
+    "age_limits": "Policyholder must be aged 18 or over at time of purchasing insurance",
+    "medical_restrictions": "None specified",
+    "occupational_restrictions": "None specified",
+    "residency_requirements": "Must be a permanent resident in the United Kingdom. Property must be located within the United Kingdom.",
+    "other_restrictions": [
+      "Property must be commercially let from time to time or part let on a short-term basis (including any attached garage and permanent attached outbuilding)",
+      "Only the specific property address listed on PIKL Policy Schedule is eligible for cover",
+      "Domestic boiler must be 15 years or younger to be covered",
+      "Boiler must not exceed 60kW/hr output",
+      "Property cannot be a flat/apartment, commercial premises, mobile home, or bed-sit (for certain sections)",
+      "For flats: communal or service duct areas are excluded",
+      "Property must not be left unoccupied for 60 or more consecutive days",
+      "Systems must be installed to appropriate regulatory standards",
+      "Items must be regularly maintained per manufacturer's instructions",
+      "Property must be in good condition with normal day-to-day maintenance undertaken"
+    ]
+  },
+  "policy_definitions": {
+    "Active War": "Your active participation in a war where you are deemed under English Law to be under instruction from or employed by the armed forces of any country",
+    "Administrator": "Stubben Edge (Risks) Ltd, 75-77 Cornhill, London, EC3V 3QQ. Tel: 0207 846 1378",
+    "Beyond Economic Repair": "In the opinion of an engineer the cost of repair is more than the cost of replacement",
+    "Call Out": "A request for assistance with an emergency from you",
+    "Claim Limit": "The maximum amount of \u00a31000 payable per claim within period of insurance including call out charges, labour, parts, materials and alternative accommodation. Maximum 3 claims per period of insurance.",
+    "Claims Administrator": "Preferred Management Solutions Ltd (PMS), Preferred House, 4-5 Merchant Court, Monkton Business Park, Hebburn, NE31 2EX, Tel: 0191 466 1115",
+    "Domestic Boiler": "Central heating boiler contained within and supplying property, powered by natural gas from appliance isolating valve, including all manufacturer's fitted components within boiler plus pump, motorised valves, thermostat, time, temperature and pressure controls. Excludes boilers over 60kW/hr output or over 15 years old at start date.",
+    "Domestic Central Heating System": "The domestic boiler and central heating system within property powered by natural gas from appliance isolating valve, including all manufacturer's fitted components within boiler plus pump, motorised valves, cylinder thermostat, time temperature and pressure controls, radiator valves, pipe work, feed and expansion tank and primary fluing",
+    "Emergency": "A sudden and unexpected event at property which if not dealt with quickly would in opinion of claims administrator: render property unsafe or insecure; OR damage or cause further damage to property; OR cause health/safety risk to you and/or others",
+    "Engineer": "A qualified person approved and instructed by claims administrator to assist with emergency",
+    "Excess": "\u00a350.00 of each claim, payable by you to claims administrator before engineer will attend. Payment taken before assistance provided by credit or debit card.",
+    "Initial Exclusion Period": "First 14 days from start of policy during which no claim can be made for any emergency. Only applies at policy start, not at renewal. Does not apply to genuine transfers from like-for-like insurance without gap in cover.",
+    "Nuclear risks": "Ionising radiation or contamination by radioactivity from any nuclear fuel or nuclear waste from combustion of nuclear fuel or radioactive toxic explosive or other hazardous properties of any explosive nuclear assembly or nuclear component",
+    "Period of Insurance": "The period for which insurance is valid as stated in Policy Schedule",
+    "Pest": "Either black or brown rats, field or house mice, and wasps' and hornets' nests (specifically excludes bees, ants, fleas, bedbugs, spiders, flies, squirrels and other animals/insects)",
+    "Policy Schedule": "Document naming you as Policyholder containing property address, period of insurance, premium, and product selected",
+    "Property": "Your Property/Place of residence, which is commercially let from time to time or part let on a short-term basis (including any attached garage and permanent attached outbuilding), as shown on Policy Schedule. If flat, communal or service duct areas excluded.",
+    "Reinstatement": "Work carried out to make good any surface(s) or flooring which has been excavated to provide assistance in event of emergency",
+    "Start Date": "The date insurance cover commences as shown on Policy Schedule",
+    "Terrorism": "An act including but not limited to use or threat of force and/or violence of any person or group(s), whether acting alone or on behalf of or in connection with any organisation(s) or government(s), committed for political, religious, ideological or similar purposes including intention to influence any government and/or put public or any section of public in fear",
+    "Trace and Access": "Investigation or locating of a leak that is not clearly visible and/or identifiable",
+    "Uninhabitable": "In opinion of claims administrator it is not suitable for you to remain in property as result of emergency",
+    "United Kingdom": "England, Scotland, Wales and Northern Ireland",
+    "War": "(a) War, invasion, acts of foreign enemies, hostilities (whether war declared or not), civil war, rebellion, revolution, insurrection, military or usurped power, riot or civil commotion assuming proportions of or amounting to uprising, military or usurped power; OR (b) Any act of terrorism; OR (c) Any act of war or terrorism involving use of or release of threat to use any nuclear weapon or device or chemical or biological agent",
+    "We/Us/Our": "Novus Underwriting Limited on behalf of Millennium Insurance Company Limited",
+    "You/Your/Yourself": "A private individual fulfilling eligibility requirements whose name appears as Policyholder on Policy Schedule"
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "14-day initial exclusion period from start date (waived for genuine transfers from like-for-like insurance without gap in cover)",
+    "notification_deadlines": "Report claims to claims administrator as soon as reasonably possible. Major emergencies should be reported immediately to supply company/emergency services.",
+    "claims_deadlines": "Not specified, but must report 'as soon as reasonably possible'",
+    "cooling_off_period": "14 days from purchase date or receipt of policy documents (whichever is later) for full refund (unless claim made or incident occurred)",
+    "cancellation_notice_requirement": "Contact administrator at least 14 days before renewal date if not wanting auto-renewal or requiring changes",
+    "alternative_heating_timeframe": "\u00a340 benefit payable if spare parts take more than 60 hours from first engineer diagnosis",
+    "alternative_accommodation_timeframe": "Up to \u00a3250 benefit if property uninhabitable for more than 48 hours due to gas supply pipe emergency",
+    "boiler_service_requirement": "Must be serviced within 12 months prior to start date AND within 12 months prior to emergency occurring"
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "Stubben Edge is authorised and regulated by the Financial Conduct Authority, Firm Reference No. 807870",
+      "Millennium Insurance Company Limited is regulated by Gibraltar Financial Services Commission (GFSC) under Financial Services (Insurance Companies) Act. Reg No.82939. Principal office: PO Box 1314, 13 Ragged Staff Wharf, Queensway Quay, Gibraltar, GX11 1AA",
+      "Stubben Edge acts as agent for the Insurer - monies paid to or held by Stubben Edge treated as having been paid to or held by the Insurer",
+      "Scheme reference: B1927GDR0012022/02"
+    ],
+    "ipid_key_info": "This is a Home Emergency Insurance policy designed to provide assistance in event of emergency at property. NOT a maintenance policy. Does not cover routine maintenance, cleaning or servicing.",
+    "fair_treatment_obligations": "Customer must take reasonable care to provide complete and accurate answers to questions when taking out, making changes to, or renewing policy. If information incomplete or inaccurate: insurer may cancel policy and refuse claims, may not pay claims in full, may revise premium, extent of cover may be affected.",
+    "complaints_process": "For sale of policy complaints: Stubben Edge (Risks) Ltd, 75-77 Cornhill, London, EC3V 3QQ, Tel: +44 207 8461 373, Email: Hello@stubbenedge.com. For claims complaints: PMS, Email: escalations@preferredmanagement.co.uk. If unresolved by end of third working day, passed to Novus Underwriting Ltd, 4th Floor, 34 Lime Street, London, EC3M 7AT, Email: complaints@novusunderwriting.com. Right to appeal to Financial Ombudsman Service, Exchange Tower, London, E14 9SR, Tel: 0300 123 9123, Email: complaint.info@financial-ombudsman.org.uk. Can also use EU Online Dispute Resolution Portal at http://ec.europa.eu/consumers/odr/",
+    "regulatory_warnings": [
+      "You must check you are eligible for insurance",
+      "You must check information given is accurate",
+      "You must notify administrator of any inaccuracies or if not eligible",
+      "You must comply with duties detailed in policy",
+      "If conditions not met, claims may be rejected or reduced, policy may be cancelled",
+      "You must take all reasonable precautions to prevent an emergency",
+      "You must ensure normal day-to-day maintenance is undertaken",
+      "This insurance can only be purchased by individuals who meet eligibility requirements",
+      "In all correspondence, state insurance provided by Novus Underwriting Limited and quote scheme reference B1927GDR0012022/02"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Is this a maintenance policy that covers routine repairs and servicing?",
+      "answer": "No. This policy is designed to provide assistance in the event of sudden and unexpected emergencies only. It does NOT provide cover for routine maintenance, cleaning, or servicing of items covered under the policy.",
+      "section_reference": "About Your Insurance, page 1"
+    },
+    {
+      "question": "Can I make a claim in the first 14 days of my policy?",
+      "answer": "No, unless you have transferred from a like-for-like insurance policy with another insurer without any gap in cover. A 14-day initial exclusion period applies meaning no claim can be made for any incident within 14 days from the start of your policy. Proof of previous insurance will be required if claiming within this period as a transfer customer.",
+      "section_reference": "Initial Exclusion Period, page 2"
+    },
+    {
+      "question": "How much excess do I need to pay?",
+      "answer": "You must pay \u00a350.00 excess each time you make a claim. You need to pay the excess to the claims administrator by credit or debit card before an engineer will be dispatched. The excess is not refundable if you cancel the callout after an engineer has already been dispatched.",
+      "section_reference": "Policy Excesses, page 2"
+    },
+    {
+      "question": "Is my 20-year-old boiler covered?",
+      "answer": "No. Your domestic boiler must be 15 years or younger at the start date to be covered by this policy. Boilers over 15 years old are excluded.",
+      "section_reference": "Eligibility, page 2; Definitions - Domestic Boiler, page 4"
+    },
+    {
+      "question": "Do I need to service my boiler to be covered?",
+      "answer": "Yes. To make a valid claim under boiler cover, your domestic boiler must have been: (a) serviced within 12 months prior to the start date, and/or serviced in line with manufacturer's recommendations; AND (b) serviced within the 12-month period prior to an emergency occurring. Proof of servicing may be required.",
+      "section_reference": "Your Duty To Try To Prevent an Emergency, page 3"
+    },
+    {
+      "question": "What pests are covered under the pest infestation section?",
+      "answer": "Only black or brown rats, field or house mice, and wasps' and hornets' nests are covered. Infestation by any other animal or insect (including bees, ants, fleas, bedbugs, spiders, flies, squirrels) is NOT covered under this policy.",
+      "section_reference": "Definitions - Pest, page 4; Section - Security, Roofing, Lost Keys and Pest Infestation Cover, pages 7-8"
+    },
+    {
+      "question": "Can I arrange my own engineer and claim the cost back?",
+      "answer": "No. All requests for assistance must be made through the claims administrator. Do not make any arrangements yourself without prior authorization from the claims administrator. If you do, the insurer will not reimburse any costs you may incur.",
+      "section_reference": "Claims Conditions, page 10"
+    },
+    {
+      "question": "How many claims can I make per year?",
+      "answer": "You can make a maximum of 3 claims during any one period of insurance. Each claim is limited to \u00a31,000 maximum including call out charges, labour, parts, materials and where applicable alternative accommodation costs.",
+      "section_reference": "Definitions - Claim Limit, page 4"
+    },
+    {
+      "question": "What happens if I leave my property empty for two months?",
+      "answer": "There is no cover for claims arising whilst or immediately after the property has been left unoccupied for 60 or more consecutive days. This is a general exclusion that applies to all sections of the policy.",
+      "section_reference": "General Exclusions, page 9"
+    },
+    {
+      "question": "Will the insurer pay for a hotel if my home becomes uninhabitable?",
+      "answer": "Alternative accommodation is only provided in two specific circumstances: (1) For gas supply pipe emergencies - up to \u00a3250 if property uninhabitable for more than 48 hours; (2) For security/roofing/lost keys/pest emergencies - up to \u00a3250 if property uninhabitable for more than 48 hours. Cover is only for hotel room(s) and transport to hotel - NOT food, drink, parking or entertainment. You must pay initially and claim reimbursement with valid receipt. Authorization must be obtained from claims administrator first.",
+      "section_reference": "Section - Emergency Gas Supply Pipe Cover, page 7; Section - Security, Roofing, Lost Keys and Pest Infestation Cover, page 9"
+    },
+    {
+      "question": "Are drains blocked by tree roots covered?",
+      "answer": "This is not explicitly stated. However, drains blocked by leaves or due to build-up of oils, fats or debris are specifically excluded. The policy covers sudden and unexpected failures of drainage systems, so blockages caused by gradual problems (like tree root ingress) would likely be excluded under 'gradual deterioration' or as routine maintenance issues. Contact claims administrator to check specific circumstances.",
+      "section_reference": "Section - Internal and External Drainage, We do not cover, page 6"
+    },
+    {
+      "question": "Can I cancel my policy and get a refund?",
+      "answer": "Within 14 days of purchase or receipt of documents (whichever is later), you can cancel for a full refund unless you have made a claim or there has been an incident likely to result in a claim. This is your cooling off period. If you cancel after 14 days, no refund of premium will be provided.",
+      "section_reference": "Cancellation of the Policy, page 12"
+    },
+    {
+      "question": "What if my boiler is still under manufacturer's warranty?",
+      "answer": "No cover is provided for any repair/replacement while your domestic boiler is still covered by a retailer or manufacturer warranty. If your boiler is under warranty when an emergency occurs, an engineer will not be able to attend and you will need to contact the retailer/manufacturer. Cover only applies after any warranty has expired.",
+      "section_reference": "Section - Emergency Boiler Cover, We do not cover, page 6; Please Note, page 6"
+    },
+    {
+      "question": "Will I get compensation for damage caused by the engineer gaining access?",
+      "answer": "No. Damage caused by the approved engineer in gaining access to: (a) the property due to failure of locks, (b) an appliance or equipment to affect emergency repair, or (c) drains or supply pipes under pathways, drives, patios or decked areas is specifically excluded from cover.",
+      "section_reference": "General Exclusions, page 9; Section - Security, Roofing, Lost Keys and Pest Infestation Cover, We do not cover, page 9"
+    },
+    {
+      "question": "Is my rental property covered?",
+      "answer": "Yes, this specific policy is designed for properties that are 'commercially let from time to time or part let on a short-term basis' as stated in the eligibility requirements. However, the property address must be listed on your PIKL Policy Schedule to be eligible for cover.",
+      "section_reference": "Eligibility, page 2; Definitions - Property, page 4"
+    }
+  ],
+  "source_file": "PIKL Home Emergency - Policy Wording - 2401.pdf",
+  "processed_date": "1762788744.0"
+}

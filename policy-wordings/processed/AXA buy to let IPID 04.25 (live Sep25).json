@@ -1,0 +1,220 @@
+{
+  "insurer_name": "AXA Insurance UK plc",
+  "policy_type": "Landlord's Buildings and Contents Insurance",
+  "policy_version": "04/2025",
+  "coverage_summary": "Landlord's Buildings and Contents Insurance designed to provide cover for loss or damage to rental property, including buildings and landlord's contents, with liability coverage and optional legal expenses.",
+  "key_inclusions": [
+    "Loss or damage by fire, explosion, lightning, earthquake, storm, flood, riot, malicious persons, subsidence",
+    "Escape of water (e.g. burst pipes or tanks) or oil",
+    "Theft, collision by vehicles or animals",
+    "Collapse of aerials and falling trees",
+    "Accidental breakage of mirrors, fixed glass in furniture, ceramic hobs and audio/audio visual equipment",
+    "Accidental damage to underground pipes and cables",
+    "Accidental breakage of fixed glass in windows, fixed ceramic hobs and fixed sanitary ware",
+    "Landlord's contents in gardens and garages/outbuildings",
+    "Debris removal",
+    "Alternative accommodation or loss of rent",
+    "Emergency evacuation alternative accommodation",
+    "Replacement locks",
+    "Accidental loss of metered water and domestic heating oil",
+    "Trace and access coverage",
+    "Loss or damage to carpets, curtains and white goods by causes 1-11",
+    "Property owner's liability",
+    "Public liability",
+    "Employer's liability"
+  ],
+  "key_exclusions": [
+    "Any loss or damage caused gradually or by wear & tear, depreciation, effects of light or atmosphere",
+    "Mould, dry or wet rot or fungus",
+    "Costs from normal use, maintenance and upkeep of buildings and landlord's contents",
+    "Loss or damage after property becomes unoccupied caused by malicious people, escape of water, escape of oil or theft",
+    "Watercraft (e.g. windsurfers and sailboards)",
+    "Electrically or mechanically propelled or assisted vehicles and any liability arising from them",
+    "Accidental damage to landlord's contents by chewing, scratching, tearing, fouling or urinating by domestic animals",
+    "Loss or damage to gates, hedges and fences caused by storm or flood",
+    "Mechanical or electrical breakdown or failure (unless optional cover purchased)",
+    "Damage caused by or in the process of cleaning, maintenance, repair, dismantling, restoring, altering dyeing or washing (unless optional cover purchased)",
+    "Loss or damage caused, or allowed to be caused, deliberately, wilfully, maliciously, illegally or unlawfully by policyholder"
+  ],
+  "coverage_limits": {
+    "landlord_contents_sum_insured": "\u00a35,000 to \u00a360,000 (selectable)",
+    "buildings_sum_insured": "\u00a350,000 to \u00a31,000,000 (selectable)",
+    "property_owners_liability": "\u00a32,000,000",
+    "public_liability": "\u00a32,000,000",
+    "employers_liability": "\u00a310,000,000"
+  },
+  "sub_limits": {
+    "landlord_contents_in_garden": "\u00a3250",
+    "landlord_contents_in_garages_and_outbuildings": "\u00a31,000",
+    "debris_removal": "10% of buildings sum insured",
+    "alternative_accommodation_or_loss_of_rent": "20% of buildings sum insured",
+    "emergency_evacuation_alternative_accommodation": "\u00a32,500",
+    "replacement_locks": "\u00a31,000",
+    "accidental_loss_of_metered_water": "\u00a32,500",
+    "accidental_loss_of_domestic_heating_oil": "\u00a3500",
+    "trace_and_access": "\u00a35,000",
+    "loss_or_damage_to_carpets_curtains_white_goods": "\u00a35,000",
+    "accidental_damage_to_contents_in_garage_or_outbuilding": "\u00a31,000 (optional cover)"
+  },
+  "special_conditions": [
+    "Property must not be unoccupied when damage occurs for certain perils (malicious people, escape of water, escape of oil, theft)",
+    "Property must be maintained in good repair",
+    "Precautions must be taken to avoid injury, loss or damage",
+    "Property must be safeguarded from loss or damage",
+    "Must inform insurer of changes including address changes, structural alterations, change of use, unoccupancy, bankruptcy, or criminal matters",
+    "Premium must be paid on time",
+    "For Legal Expenses: Must notify claims within 180 days of becoming aware of incident",
+    "Must gain consent before incurring legal advisers' costs"
+  ],
+  "excess_deductible": "Excess amounts apply to each claim as listed in policy schedule; amounts vary depending on voluntary excess choices",
+  "geographical_coverage": "United Kingdom for main policy; United Kingdom, Channel Islands, Isle of Man and European Union for Legal Expenses claims",
+  "age_restrictions": "Not specified in this document",
+  "pre_existing_conditions": "Not applicable to property insurance",
+  "cancellation_policy": "14-day cooling-off period from receipt of policy documents (new business or renewal); full refund if cover has not started; pro-rata refund if cover has started and no claims have occurred; can cancel at any time by written notice with pro-rata refund if no claims made; no refund if claims have been made",
+  "endorsements": [
+    {
+      "name": "Additional Accidental Damage to Landlord's Contents",
+      "description": "Extends cover to include: mechanical or electrical breakdown or failure; damage caused by or in the process of cleaning, maintenance, repair, dismantling, restoring, altering, dyeing or washing; accidental damage or loss to landlord's contents while in private residence; accidental damage to landlord's contents in garage or outbuilding up to \u00a31,000",
+      "cost_impact": "Not specified",
+      "coverage_impact": "Removes exclusions for mechanical/electrical breakdown and damage during maintenance/cleaning processes"
+    },
+    {
+      "name": "Additional Accidental Damage to Buildings",
+      "description": "Provides accidental damage to the buildings up to the buildings sum insured; includes damage arising from faulty workmanship or defective design or use of defective materials; damage caused by alteration or extension of the buildings",
+      "cost_impact": "Not specified",
+      "coverage_impact": "Extends buildings cover to include accidental damage and damage from faulty workmanship/defective materials"
+    },
+    {
+      "name": "Legal Expenses",
+      "description": "Provided by Arc Legal Assistance Limited (FCA 305958); covers legal advisers' costs for Property Infringement (nuisance or trespass) and Criminal Prosecution Defence under specific safety regulations (Gas Safety, Furniture Fire Safety, Electrical Equipment Safety)",
+      "cost_impact": "Not specified",
+      "coverage_impact": "Adds legal defense coverage for specific regulatory prosecutions and property rights infringement"
+    }
+  ],
+  "claims_requirements": {
+    "notification_timeframe": "As soon as possible; for Legal Expenses within 180 days of becoming aware of the insured incident",
+    "required_documents": [
+      "All relevant information about the claim to assist in validation",
+      "Information requested by legal adviser (for Legal Expenses)",
+      "Evidence as required by insurer"
+    ],
+    "process_steps": [
+      "Notify AXA of the claim as soon as possible",
+      "Provide all relevant information to assist validation",
+      "Take steps to prevent further damage",
+      "Do not dispose of damaged items",
+      "Do not conduct permanent repairs before inspection",
+      "For Legal Expenses: Supply information at own expense to decide claim acceptance",
+      "For Legal Expenses: Gain consent before incurring legal advisers' costs"
+    ],
+    "evidence_requirements": "Must not dispose of damaged items or conduct permanent repairs as insurer may need to inspect damage; must supply all information requested by adviser and insurer",
+    "claims_contact": "AXA Personal Lines Customer Service, PO Box 7072, Willenhall, WV1 9ZU"
+  },
+  "eligibility_criteria": {
+    "age_limits": "Not specified",
+    "medical_restrictions": "Not applicable",
+    "occupational_restrictions": "Not specified",
+    "residency_requirements": "Property must be private residences in the United Kingdom; must be let for private residential purposes",
+    "other_restrictions": [
+      "Property must not be used for any reason other than private residential purposes",
+      "Must inform if policyholder or family has been declared bankrupt",
+      "Must inform if policyholder or family has received police caution or been convicted or charged with any offence",
+      "Property must not be left unoccupied for extended periods (specific definition in policy booklet)"
+    ]
+  },
+  "policy_definitions": {
+    "unoccupied": "See policy booklet for complete definition; relates to property being empty/vacant for extended period",
+    "vehicles_and_craft": "See policy booklet for complete definition; includes electrically or mechanically propelled or assisted vehicles and watercraft",
+    "private_residence": "Property let for private residential purposes in the United Kingdom",
+    "excess": "Amount policyholder must pay for each claim",
+    "buildings_sum_insured": "Total amount of insurance selected for buildings coverage (\u00a350,000 to \u00a31,000,000)",
+    "landlord_contents_sum_insured": "Total amount of insurance selected for landlord's contents (\u00a35,000 to \u00a360,000)",
+    "causes_1-11": "Specific perils listed in policy booklet covering fire, explosion, lightning, earthquake, storm, flood, riot, malicious persons, subsidence, escape of water/oil, theft, collision, collapse of aerials, falling trees"
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "Nuisance or trespass claims not covered within first 180 days of insurance starting",
+    "notification_deadlines": "Must notify Legal Expenses claims within 180 days of becoming aware of insured incident; general claims should be notified as soon as possible",
+    "claims_deadlines": "Legal Expenses claims must be notified within no more than 180 days of awareness",
+    "cooling_off_period": "14 days from receipt of policy documents (new business or renewal) to cancel with full or pro-rata refund"
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "AXA Insurance UK plc is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority",
+      "Registered number 202312",
+      "Registered address: 20 Gracechurch Street, London, EC3V 0BG, England",
+      "Arc Legal Assistance Limited is authorised and regulated by the Financial Conduct Authority, Firm Reference Number 305958",
+      "This document is a summary and does not form part of the contract; complete pre-contract and contractual information provided in policy documents"
+    ],
+    "ipid_key_info": "This is an Insurance Product Information Document providing summary of key features and exclusions; complete information in policy documents",
+    "fair_treatment_obligations": "Must take reasonable care to provide accurate and complete answers to all questions when taking out, renewing or making changes to policy",
+    "complaints_process": "Contact AXA Personal Lines Customer Service, PO Box 7072, Willenhall, WV1 9ZU",
+    "regulatory_warnings": [
+      "When taking out, renewing or making changes to policy, must take reasonable care to provide accurate and complete answers to all questions",
+      "Failure to provide accurate information may affect validity of policy"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "What is the maximum buildings sum insured I can select?",
+      "answer": "You can select your buildings sum insured between \u00a350,000 and \u00a31,000,000",
+      "section_reference": "What is insured - page 1"
+    },
+    {
+      "question": "What is the maximum landlord's contents sum insured?",
+      "answer": "You can select your landlord's contents sum insured between \u00a35,000 and \u00a360,000",
+      "section_reference": "What is insured - page 1"
+    },
+    {
+      "question": "Am I covered if the property is empty?",
+      "answer": "No, loss or damage occurring after the property has been unoccupied caused by malicious people, escape of water, escape of oil or theft is not covered",
+      "section_reference": "What is not insured - page 1"
+    },
+    {
+      "question": "Is damage by tenants' pets covered?",
+      "answer": "No, accidental damage to landlord's contents by chewing, scratching, tearing, fouling or urinating by domestic animals is excluded",
+      "section_reference": "What is not insured - page 1"
+    },
+    {
+      "question": "Are fences covered for storm damage?",
+      "answer": "No, loss or damage to gates, hedges and fences caused by storm or flood is specifically excluded",
+      "section_reference": "What is not insured - page 1"
+    },
+    {
+      "question": "How much time do I have to cancel after receiving the policy?",
+      "answer": "You have 14 days from receipt of policy documents to cancel, with full refund if cover hasn't started or pro-rata refund if it has (provided no claims)",
+      "section_reference": "How do I cancel the contract - page 3"
+    },
+    {
+      "question": "What liability coverage is included?",
+      "answer": "Property owner's liability up to \u00a32,000,000, public liability up to \u00a32,000,000, and employer's liability up to \u00a310,000,000",
+      "section_reference": "What is insured - page 1"
+    },
+    {
+      "question": "Is alternative accommodation covered if tenants need to move out?",
+      "answer": "Yes, alternative accommodation or loss of rent is covered up to 20% of the buildings sum insured",
+      "section_reference": "What is insured - page 1"
+    },
+    {
+      "question": "Can I get accidental damage cover?",
+      "answer": "Yes, optional covers are available for additional accidental damage to both landlord's contents and buildings",
+      "section_reference": "Optional covers - pages 1-2"
+    },
+    {
+      "question": "How quickly must I report a Legal Expenses claim?",
+      "answer": "You must notify Legal Expenses claims as soon as possible and within no more than 180 days of becoming aware of the insured incident",
+      "section_reference": "What are my obligations - page 2"
+    },
+    {
+      "question": "Will I get a refund if I cancel mid-term?",
+      "answer": "Yes, you will receive a pro-rata refund for the unused period, provided no claims have been made. If claims have been made, no refund is provided",
+      "section_reference": "How do I cancel the contract - page 3"
+    },
+    {
+      "question": "What changes must I notify the insurer about?",
+      "answer": "Change of address, structural alterations, if property will no longer be let, change of use, if property becomes unoccupied, bankruptcy, police cautions or criminal convictions",
+      "section_reference": "What are my obligations - page 2"
+    }
+  ],
+  "source_file": "AXA buy to let IPID 04.25 (live Sep25).pdf",
+  "processed_date": "1762788742.0"
+}

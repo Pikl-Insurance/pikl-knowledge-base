@@ -1,0 +1,384 @@
+{
+  "insurer_name": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+  "policy_type": "Home Insurance (Coverall Policy)",
+  "policy_version": "CVPWUK082023",
+  "coverage_summary": "Comprehensive home insurance providing coverage for buildings, contents, personal possessions, valuables, pedal cycles, and various liability covers. Includes standard cover with optional accidental damage and additional extensions.",
+  "key_inclusions": [
+    "Buildings cover including fixtures, fittings, permanent structures, solar panels, wind turbines",
+    "Contents cover for household goods, personal property, and business equipment (up to \u00a35,000)",
+    "Personal possessions and valuables worldwide",
+    "Pedal cycles (as specified items)",
+    "Property owner's liability (up to \u00a32,000,000)",
+    "Public liability (up to \u00a32,000,000)",
+    "Liability to domestic staff (up to \u00a310,000,000)",
+    "Tenant's liability",
+    "Alternative accommodation/loss of rent (up to 20% of sum insured)",
+    "Trace and access (up to \u00a35,000)",
+    "Emergency access",
+    "Professional fees and expenses",
+    "Subsidence, heave and landslip",
+    "Contents temporarily removed from home (up to 20% for 120 days)",
+    "Contents at university/college/boarding school (up to \u00a35,000)",
+    "Money and credit cards (up to \u00a31,000)",
+    "Fatal injury cover (\u00a35,000-\u00a310,000 depending on age)",
+    "Replacement locks (up to \u00a3500 per claim, \u00a32,500 annual limit)",
+    "Garden plants and shrubs (up to \u00a31,000 annual)",
+    "Claims Preparation Assistance (for claims over \u00a320,000)"
+  ],
+  "key_exclusions": [
+    "Wear and tear, corrosion, damp, mould, dry/wet rot, fungus, gradual deterioration",
+    "Maintenance and normal upkeep costs",
+    "Loss or damage while property is unoccupied (60+ days)",
+    "Terrorism",
+    "War, invasion, civil war, rebellion, revolution, insurrection",
+    "Nuclear contamination and radioactive materials",
+    "Pollution and contamination (except specific circumstances)",
+    "Sonic bangs from aircraft",
+    "Vermin, insects, pets or domesticated animals",
+    "Mechanical or electrical breakdown/failure",
+    "Faulty workmanship, materials or design (except property owner liability)",
+    "Damage from contractors' activities",
+    "Business use (except specified business equipment)",
+    "Motorised vehicles or craft (with specific exceptions)",
+    "Reduction in value after repair",
+    "Confiscation or detention by authorities",
+    "Riot or civil commotion outside United Kingdom",
+    "Subsidence to drives, patios, terraces, walls, gates, fences (unless main building damaged)",
+    "Coastal or riverbank erosion",
+    "Settlement, shrinkage or expansion",
+    "Storm damage to fences and gates",
+    "Frost damage (to underground services and certain circumstances)",
+    "Theft without evidence of forced entry when property is let/sublet",
+    "Loss by deception (except deception solely to enter property)",
+    "Theft from unoccupied property",
+    "Damage from trees being cut down within the home grounds",
+    "Cyber loss (for Section 8 - Claims Preparation Assistance)"
+  ],
+  "coverage_limits": {
+    "buildings_sum_insured": "As shown on Schedule - includes index linking monthly",
+    "contents_sum_insured": "As shown on Schedule - includes index linking monthly",
+    "valuables_within_home": "Up to 33% of Contents sum insured, single article/collection limit 10%",
+    "property_owners_liability": "\u00a32,000,000 per claim",
+    "public_liability": "\u00a32,000,000 per claim",
+    "domestic_staff_liability": "\u00a310,000,000 per claim",
+    "business_equipment": "Up to \u00a35,000 in total",
+    "alternative_accommodation": "Up to 20% of Buildings/Contents sum insured per claim",
+    "trace_and_access": "\u00a35,000 per period of insurance",
+    "loss_of_oil_or_metered_water": "\u00a31,000 per period of insurance (combined Sections 1 and 2)",
+    "personal_possessions_unspecified": "\u00a32,500 per item",
+    "personal_possessions_from_vehicle": "\u00a31,500 per claim",
+    "jewellery_from_hotel": "\u00a32,000 per claim",
+    "money_and_credit_cards": "\u00a31,000 per claim",
+    "fatal_injury_under_16": "\u00a35,000 per person",
+    "fatal_injury_16_and_over": "\u00a310,000 per person"
+  },
+  "sub_limits": {
+    "deeds_and_documents": "\u00a31,500",
+    "stamps_or_coins_collection": "\u00a32,500",
+    "theft_detached_outbuildings": "\u00a35,000 per claim",
+    "theft_attached_outbuildings": "\u00a310,000 per claim",
+    "contents_temporarily_removed": "20% of Contents sum insured for up to 120 days",
+    "contents_in_storage": "20% of Contents sum insured, max 60 days",
+    "contents_at_university": "\u00a35,000 per claim",
+    "replacement_locks_per_claim": "\u00a3500",
+    "replacement_locks_annual": "\u00a32,500 (combined Sections 1 and 2)",
+    "garden_plants_shrubs": "\u00a31,000 per period of insurance",
+    "emergency_access": "\u00a31,000",
+    "domestic_freezer": "\u00a31,000 per claim",
+    "downloadable_data": "\u00a32,500 per claim",
+    "contents_in_open": "\u00a31,500 per period of insurance",
+    "pedal_cycles_unspecified": "\u00a3500",
+    "matching_sets_buildings": "Up to 50% cost of replacing undamaged parts",
+    "matching_sets_contents": "Up to 50% cost of replacing undamaged parts",
+    "accidental_damage_porcelain": "10% of Contents sum insured for porcelain, china, glass, brittle articles"
+  },
+  "special_conditions": [
+    "Home must be maintained in good state of repair",
+    "Must notify insurer of any changes to circumstances",
+    "Must comply with all endorsements on Schedule",
+    "Sums insured must represent full value at all times",
+    "For valuables over \u00a32,500, must hold valuation no more than 3 years old",
+    "Jewellery over \u00a37,500 must be inspected by professional jeweller every 3 years",
+    "When claiming for unattended pedal cycle theft over \u00a31,500, must use 'Sold Secure Gold' standard lock",
+    "Must report theft to police within 24 hours and obtain crime reference",
+    "Must report riot to police within 7 days",
+    "Must not dispose of damaged items before inspection",
+    "Must not admit liability in liability claims",
+    "Cannot abandon property to insurer",
+    "If paying by instalments and claim settled, must continue payments to renewal",
+    "Unoccupied definition: not lived in for 60+ days (must occupy 5 nights/row per month OR 2 nights/row per week)",
+    "Index linking applies monthly to Buildings and Contents",
+    "Policy operates on new-for-old basis (except certain items with wear and tear)",
+    "Minimum refund amount is \u00a310"
+  ],
+  "excess_deductible": "As shown on Schedule - varies by section and claim type. Applied per claim/incident.",
+  "geographical_coverage": {
+    "buildings": "At address shown on Schedule (United Kingdom)",
+    "contents": "At address shown on Schedule (United Kingdom)",
+    "personal_possessions": "Worldwide",
+    "pedal_cycles": "United Kingdom and Europe",
+    "public_liability": "Worldwide",
+    "property_owners_liability": "United Kingdom (including previously owned properties)"
+  },
+  "age_restrictions": {
+    "fatal_injury_under_16": "\u00a35,000 maximum payment",
+    "fatal_injury_16_and_over": "\u00a310,000 maximum payment",
+    "general_coverage": "No specific age restrictions for policyholder mentioned"
+  },
+  "pre_existing_conditions": "Not applicable - this is property/liability insurance, not health insurance",
+  "cancellation_policy": {
+    "cooling_off_period": "14 days from receipt of documents or start date (whichever is later)",
+    "cooling_off_refund": "Full refund if cover not commenced; pro-rata if commenced (no refund if claim made)",
+    "customer_cancellation_after_cooling_off": "Pro-rata refund for unused cover (no refund if claim made/in progress)",
+    "insurer_cancellation": "7 days written notice, pro-rata refund (no refund if claim made/in progress)",
+    "cancellation_reasons": "Non-payment, change of circumstances, non-disclosure, fraud, failure to cooperate, breach of conditions",
+    "instalment_plans": "If claim settled, must continue payments to renewal or amount deducted from settlement"
+  },
+  "endorsements": [
+    {
+      "name": "Security Requirements",
+      "description": "May specify required locks, alarms, or security devices",
+      "cost_impact": "Affects premium; failure to comply may void cover",
+      "coverage_impact": "Non-compliance may result in claim rejection or non-payment"
+    },
+    {
+      "name": "Unoccupied Property",
+      "description": "Additional requirements/restrictions when property unoccupied",
+      "cost_impact": "May increase premium",
+      "coverage_impact": "Significant restrictions on theft, water damage, malicious damage cover"
+    },
+    {
+      "name": "Subsidence Exclusion/Excess",
+      "description": "May exclude or increase excess for subsidence claims",
+      "cost_impact": "May reduce premium if excluded",
+      "coverage_impact": "Removes or limits subsidence cover"
+    },
+    {
+      "name": "Structural Works Exclusion",
+      "description": "Restrictions during building works, extensions, renovations",
+      "cost_impact": "Variable",
+      "coverage_impact": "Must notify before works commence; may exclude certain perils during works"
+    },
+    {
+      "name": "High Value Items",
+      "description": "Specified items listed individually with values",
+      "cost_impact": "Increases premium based on declared value",
+      "coverage_impact": "Increases limit for specified valuable items"
+    },
+    {
+      "name": "Let Property",
+      "description": "Additional terms for properties that are rented/let",
+      "cost_impact": "Increases premium",
+      "coverage_impact": "Modifies theft requirements (need forced entry evidence)"
+    },
+    {
+      "name": "Excess Variations",
+      "description": "Changes to standard excess amounts",
+      "cost_impact": "Higher excess typically reduces premium",
+      "coverage_impact": "Changes amount customer pays per claim"
+    }
+  ],
+  "claims_requirements": {
+    "notification_timeframe": "As soon as possible after discovery; theft/riot/malicious damage within 24 hours (theft to police); riot within 7 days (to police)",
+    "required_documents": [
+      "Completed claim form",
+      "Police crime reference number (for theft, riot, malicious damage, lost property away from home)",
+      "Purchase receipts or proof of ownership",
+      "Instruction manuals, guarantee cards",
+      "Valuations (for items over \u00a32,500)",
+      "Photographs of items/damage",
+      "Utility bills or local authority bills",
+      "Pre-purchase surveys",
+      "Property deeds or plans",
+      "Bank/credit card statements",
+      "Estimates for repair/replacement",
+      "Proof of Sold Secure lock ownership (for cycle claims away from home)",
+      "Evidence of alarm maintenance contract (if required by endorsement)"
+    ],
+    "process_steps": [
+      "1. Check if policy covers the loss/damage by reviewing Schedule",
+      "2. Take immediate steps to prevent further damage",
+      "3. For theft/criminal damage: Report to police within 24 hours and obtain crime reference",
+      "4. For riot: Report to police within 7 days",
+      "5. For credit card theft: Report to police and card company within 24 hours",
+      "6. Contact claims department on 08000 327327 (24/7) or through broker/agent",
+      "7. Do NOT dispose of damaged items before inspection",
+      "8. Do NOT carry out permanent repairs before inspection",
+      "9. Take reasonable steps to recover missing property",
+      "10. Provide all requested documentation and cooperate with investigation",
+      "11. Obtain repair estimates if requested",
+      "12. For liability claims: Send all correspondence immediately without admitting liability",
+      "13. Allow insurer access to damaged property",
+      "14. Claims over \u00a320,000: Claims Preparation Assistance may be offered"
+    ],
+    "evidence_requirements": "Police reports (crime reference number for theft/criminal damage), original receipts, valuations (for items over \u00a32,500, must be within 3 years), photographs, proof of ownership, proof of security measures (locks/alarms), utility bills, repair estimates",
+    "claims_contact": "24 Hour Claim Reporting Line: 08000 327327 (available 24/7, 365 days) OR Prestige Underwriting Services Ltd, 4th Floor, Lanyon Building, North Derby Street, Belfast, BT15 3HL OR through broker/agent shown on Schedule"
+  },
+  "eligibility_criteria": {
+    "age_limits": "No specific age restrictions for policyholder mentioned",
+    "medical_restrictions": "Not applicable (property insurance)",
+    "occupational_restrictions": "Business use restricted to clerical work only (Business Equipment up to \u00a35,000)",
+    "residency_requirements": "Must be private residential property in United Kingdom; persons normally living together qualify as 'You'",
+    "other_restrictions": [
+      "Property must not be used for illegal activities",
+      "Property must be maintained in good state of repair",
+      "Cannot be bankrupt",
+      "Must disclose criminal convictions (other than driving offences)",
+      "Must notify if property becomes unoccupied",
+      "Must notify if property is let/sublet",
+      "Building works over certain thresholds require notification (extensions, load-bearing wall work, roofing 20%+, structural/demolition work, works costing 50%+ of sum insured)",
+      "Not available if previous subsidence claim at the property (for Claims Preparation Assistance section only)"
+    ]
+  },
+  "policy_definitions": {
+    "Accidental Damage": "Sudden, unexpected and unintentional physical damage",
+    "Bodily Injury": "Physical injury, death or disease caused by sudden, unexpected, external and visible event",
+    "Buildings": "The home, fixtures & fittings, permanent structures within boundary including tennis courts, patios, drives, walls, fences, gates, hedges, drains, pipes, cables, tanks, swimming pools, solar panels, wind turbines, ground source heating pumps",
+    "Contents": "Household goods, personal property and Business Equipment within the Home belonging to you or you're legally responsible for. Includes tenant's fixtures, aerials, hot tubs (not permanent), deeds/documents (\u00a31,500 limit), stamps/coins collections (\u00a32,500 limit), Valuables (33% Contents sum insured, 10% single item limit)",
+    "Excess": "The first part of any claim you have to pay as stated on Schedule or Endorsement",
+    "Home": "The private dwelling and domestic outbuildings and garages at the address on Schedule",
+    "Money": "Cash, cheques, postal orders, unused postage stamps (not collections), savings stamps/certificates, share certificates, premium bonds, luncheon vouchers, travellers cheques, travel tickets, season tickets, phone cards, gift tokens - NOT including event tickets or business items",
+    "Motorised Vehicle or Craft": "Mechanically propelled/assisted vehicles including motorcycles, quad bikes, trikes, go karts, trailers, caravans, aircraft, drones, hovercraft, boats, sailboards - EXCLUDING domestic gardening vehicles, mobility scooters/wheelchairs, golf carts, remote-controlled toys",
+    "Personal Possessions": "Items that you wear, use or carry about your person, belonging to you or you're legally responsible for. NOT including contact lenses, dentures, dental work",
+    "Period of Insurance": "Length of time insurance is in force as shown on Schedule, for which premium paid and accepted",
+    "Storm": "Violent weather with: wind 48+ knots (55mph) OR rain 25mm+ per hour OR snow 30cm+ in 24 hours OR hail breaking glass/damaging hard surfaces",
+    "Subsidence": "Downward movement of ground beneath Buildings (other than Settlement)",
+    "Heave": "Upward or sideways movement of ground beneath Buildings caused by soil expanding",
+    "Landslip": "Downward movement of sloping ground",
+    "Settlement": "Downward movement of properties after built, caused by compression of soil",
+    "Tenant": "Occupier of Home when let (including holiday lets) OR leaseholder",
+    "Unoccupied": "a) Furnished but not lived in for 60+ days in a row (must be occupied 5 nights/row each month OR 2 nights/row each week) OR b) Insufficiently furnished for normal habitation",
+    "Valuables": "Jewellery, furs, gold, silver, precious metals, gems, stones, pictures, paintings, works of art",
+    "You/Your": "Person named as policyholder on Schedule and: husband, wife, partner (living as married), civil partner, children, parents, relatives - who normally live with them",
+    "Domestic Staff": "Person employed for private domestic duties at Home, not employed in any trade/profession/employment capacity",
+    "Terrorism": "Use of biological, chemical, nuclear force or contamination by any person/group for political, religious, ideological purposes including influencing government or causing public fear",
+    "Business Equipment": "Computer equipment (including software but excluding data) and office equipment used for clerical purposes in connection with business run from Home"
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "None specified - cover starts from inception date on Schedule",
+    "notification_deadlines": {
+      "general_claims": "As soon as possible after discovery",
+      "theft_to_police": "Within 24 hours (ideally)",
+      "riot_to_police": "Within 7 days",
+      "credit_card_theft": "Within 24 hours to police and card company (ideally)",
+      "changes_to_circumstances": "As soon as possible"
+    },
+    "claims_deadlines": "Not specified, but unreasonable delay may affect settlement",
+    "cooling_off_period": "14 days from receipt of policy documents or start date (whichever is later)",
+    "temporary_removal_limits": "Contents temporarily removed: 120 days; Contents in professional storage: 60 days max; Household removals in storage: 72 hours"
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "Prestige Underwriting Services Ltd FCA number: 307105",
+      "Insurer details shown on Schedule - authorized by PRA, regulated by FCA and PRA",
+      "Details can be checked on Financial Services Register at www.fca.org.uk or 0800 111 6768",
+      "Financial Services Compensation Scheme (FSCS) coverage disclosed",
+      "Duty of fair presentation and disclosure requirements explained",
+      "Right to cancel within 14 days explained",
+      "Sanctions clause included",
+      "Fraud warning and consequences disclosed"
+    ],
+    "ipid_key_info": "Not included in this document - would be separate IPID document",
+    "fair_treatment_obligations": "Clear explanation of policy terms, definitions provided, claims process explained, complaints procedure detailed, premium calculation basis disclosed (index linking), cancellation rights explained, consequences of non-disclosure explained",
+    "complaints_process": {
+      "step_1": "Contact claims department (if claim-related) or Prestige/insurer (if policy-related)",
+      "contact_details": "Prestige Underwriting Services Ltd, 4th Floor, Lanyon Building, North Derby Street, Belfast, BT15 3HL; Phone: 08000 327327; Email: complaints@prestigeunderwriting.co.uk",
+      "information_needed": "Name, address, postcode, phone, email, property address, policy/claim number, policy type, broker name, reason for complaint",
+      "step_2": "If dissatisfied after final response, can refer to Financial Ombudsman Service within 6 months",
+      "FOS_contact": "Exchange Tower, London E14 9SR; Phone: 0300 123 9123 / 0800 023 4567; Email: complaint.info@financial-ombudsman.org.uk; Website: help.financial-ombudsman.org.uk",
+      "alternative": "Can use Alternative Dispute Resolution Provider (ADRP) within 12 months - list at www.tradingstandards.uk/advice/AlternativeDisputeResolution.cfm",
+      "EU_ODR": "Online Dispute Resolution: http://ec.europa.eu/odr",
+      "legal_rights": "Does not affect right to take legal action"
+    },
+    "regulatory_warnings": [
+      "Policy may be cancelled if false information provided",
+      "All claims may be refused if fraud detected",
+      "Premiums may be retained if policy voided for non-disclosure",
+      "Must take reasonable care to provide accurate information",
+      "Failure to disclose changes may result in claim rejection",
+      "Call recording notice for monitoring and quality purposes",
+      "GDPR/Data Protection compliance - full privacy notice provided",
+      "Information may be shared with fraud prevention agencies",
+      "Credit searches may be performed (soft search, doesn't affect credit rating)"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "What happens if my home is unoccupied for more than 60 days?",
+      "answer": "Many covers are suspended including theft, escape of water, malicious damage, oil escape. You must notify insurer immediately if property becomes unoccupied. Cover can be arranged but with restrictions. 'Lived in' means occupied at least 5 nights in a row each month OR 2 nights in a row each week.",
+      "section_reference": "Definition of 'Unoccupied' page 6; Exclusions throughout Sections 1 and 2"
+    },
+    {
+      "question": "Are my valuables covered away from home?",
+      "answer": "Only if you have Section 3 - Personal Possessions and Valuables cover. This provides worldwide cover but with limits: \u00a32,500 per unspecified item, \u00a31,500 from unattended vehicle, \u00a32,000 for jewellery theft from hotel rooms. Items over \u00a32,500 must be specified on Schedule.",
+      "section_reference": "Section 3 - Personal Possessions and Valuables, page 32-33"
+    },
+    {
+      "question": "What security do I need for my pedal cycle when away from home?",
+      "answer": "Cycles must be in a secured locked building OR secured through the frame by a locked security device to an immovable object. For cycles valued over \u00a31,500, must use a 'Sold Secure Gold' standard lock, and you must provide proof of ownership of this lock (receipt, photo, bank statement, or retailer confirmation).",
+      "section_reference": "Section 4 - Pedal Cycles page 34; Claim Conditions page 14-15"
+    },
+    {
+      "question": "Does Buildings cover include my garden walls and fences?",
+      "answer": "Walls and fences ARE included in the Buildings definition, but have limited cover. They are NOT covered for: storm damage, damage from falling trees, subsidence (unless main building damaged at same time). They ARE covered for: fire, flood, impact, theft, malicious damage (if property not unoccupied).",
+      "section_reference": "Definition of Buildings page 4; Section 1 exclusions pages 17-18"
+    },
+    {
+      "question": "What if I need to make a structural change to my property?",
+      "answer": "You must notify insurer before starting any: extensions, work on load-bearing walls, roofing work over 20%, structural works including demolition, or any works costing 50%+ of Buildings sum insured. Failure to notify may result in no cover during works and subsidence claims being excluded.",
+      "section_reference": "General Conditions - Changes you must tell us about, page 8; Section 1 exclusion 10(f), page 18"
+    },
+    {
+      "question": "Am I covered if my tenant damages the property?",
+      "answer": "No - damage by tenants or occupants is excluded. However, if you are a tenant yourself, you have Tenant's Liability cover (Section 2K) which covers your legal liability for damage to the landlord's building, up to 10% of Contents sum insured, excluding fire/lightning/explosion to building structure.",
+      "section_reference": "General Exclusions 8, page 13; Section 2K - Tenant's Liability, page 28"
+    },
+    {
+      "question": "How quickly must I report a theft to the police?",
+      "answer": "Ideally within 24 hours of discovery. You must obtain a crime reference number. For riot, you must inform police within 7 days. Failure to report to police within reasonable time may affect your claim.",
+      "section_reference": "Claim Conditions page 14; Section 1 exclusion 9, page 19; Section 2 exclusion 9, page 24"
+    },
+    {
+      "question": "What is covered for alternative accommodation if I can't live in my home?",
+      "answer": "Up to 20% of your Buildings or Contents sum insured for accommodation of same standard as your existing home, plus storage of contents, for you and domestic pets. Not covered: costs recoverable elsewhere, costs without insurer agreement, costs after property ready for habitation, if property not going to be reinstated.",
+      "section_reference": "Section 1C - Loss of rent/alternative accommodation page 19; Section 2C - Alternative accommodation page 25"
+    },
+    {
+      "question": "Are business items covered in my home?",
+      "answer": "Very limited cover. Business Equipment (computers and office equipment for clerical purposes only) up to \u00a35,000 is covered. No other business property is covered. Professional/trade use beyond clerical work is excluded.",
+      "section_reference": "Definition of Contents page 4; Definition of Business Equipment page 4; General Exclusions 8, page 13"
+    },
+    {
+      "question": "What should I do immediately after discovering damage?",
+      "answer": "1. Take steps to prevent further damage (e.g. turn off water/gas); 2. If theft/criminal damage, report to police within 24 hours for crime reference; 3. Do NOT dispose of damaged items; 4. Do NOT carry out permanent repairs; 5. Take photos if possible; 6. Contact claims line 08000 327327 (24/7) as soon as practical; 7. Keep all receipts for emergency measures.",
+      "section_reference": "Claim Conditions pages 14-16"
+    },
+    {
+      "question": "Is subsidence covered?",
+      "answer": "Yes, subsidence, heave and landslip are covered under Section 1 number 10 and Section 2 number 10. However, there are significant exclusions: damage to drives, patios, walls, fences, fuel tanks, pools (unless main building damaged); damage to solid floors (unless foundations beneath walls damaged); normal settlement; coastal erosion; damage during structural works; compensation available elsewhere. Check Schedule for any subsidence excess or exclusion endorsement.",
+      "section_reference": "Section 1 number 10, page 18; Section 2 number 10, page 24"
+    },
+    {
+      "question": "Can I cancel my policy and get a refund?",
+      "answer": "Yes. Within 14 days (cooling off): full refund if not started, pro-rata if started. After 14 days: pro-rata refund for unused cover. However, NO refund if you have made a claim or are in the process of making a claim in the current period. If paying by instalments and claim is settled, you must continue payments to renewal or amount will be deducted from claim payment. Minimum refund is \u00a310.",
+      "section_reference": "General Conditions 4 - Cancellation, page 9; General Conditions 14 - Refunds, page 11"
+    },
+    {
+      "question": "What are the index linking provisions?",
+      "answer": "Buildings and Contents sums insured are adjusted monthly. Buildings linked to House Rebuilding Cost Index (RICS). Contents linked to Consumer Durable Section of Retail Price Index. Your renewal premium is calculated on the adjusted sum insured. Sums insured continue to increase during claims if you ensure repairs done without undue delay. Valuables and Personal Possessions are NOT index linked - you must ensure adequate cover.",
+      "section_reference": "General Conditions 8 - Index Linking, page 10"
+    },
+    {
+      "question": "What is covered for escape of water?",
+      "answer": "Damage from water escaping from fixed water tanks, apparatus or pipes is covered. Also covers frost damage to these items. However, NOT covered: while unoccupied, taps left on causing overflow (unless you have accidental damage cover), damage to fuel tanks or swimming pools, subsidence (covered separately). Also covered: tracing the leak (up to \u00a35,000) and increased water charges (up to \u00a31,000).",
+      "section_reference": "Section 1 number 4, page 17; Section 1G Trace & access, page 20; Section 1E Loss of water, page 20"
+    },
+    {
+      "question": "Do I need to have valuations for my valuable items?",
+      "answer": "Yes, for all Valuables valued in excess of \u00a32,500 you must hold an appropriate valuation no more than 3 years old, which must be made available if you claim. For jewellery over \u00a37,500, must be inspected by professional jeweller (NAJ member) at least every 3 years with defects remedied. Failure to provide valuation may affect claim payment.",
+      "section_reference": "General Conditions 7 - Proof of value, page 10; Section 3 exclusion (e), page 32"
+    }
+  ],
+  "source_file": "COVERALL PW CVPWUK082023.pdf",
+  "processed_date": "1762788744.0"
+}

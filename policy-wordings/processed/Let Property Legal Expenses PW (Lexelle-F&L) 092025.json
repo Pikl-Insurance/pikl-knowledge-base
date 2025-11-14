@@ -1,0 +1,243 @@
+{
+  "insurer_name": "Financial & Legal Insurance Company Limited",
+  "policy_type": "Let Property Legal Expenses Insurance",
+  "policy_version": "Master Certificate No: F&LLETPROID / 07 / 2025",
+  "coverage_summary": "This policy provides legal expenses insurance for landlords with let properties (excluding their primary residence). It covers legal costs arising from contract disputes, property protection issues, legal defence for prosecutions related to letting, and identity theft. The policy includes a 24/7 free legal advice service and covers professional fees up to \u00a350,000 per policy period.",
+  "key_inclusions": [
+    "24/7 free legal advice service (telephone only)",
+    "Contract disputes for buying/hiring goods or services",
+    "Contract disputes for selling goods you own",
+    "Property protection claims for physical damage to property at let property",
+    "Nuisance or trespass claims relating to let property",
+    "Legal defence against prosecutions arising from letting your let property",
+    "Identity theft costs reimbursement up to \u00a35,000",
+    "Lost wages/salary when attending court or police (up to \u00a3200 per day)",
+    "Professional fees up to \u00a350,000 per policy period",
+    "Defendant's costs if ordered to pay"
+  ],
+  "key_exclusions": [
+    "Where let property is HMO, B&B or hotel",
+    "Any claims related to letting activity or against a tenant",
+    "Claims where you don't own the property without written authority to sub-let",
+    "Divorce, separation, custody, guardianship matters",
+    "Disputes between insured persons or family members",
+    "Patents, copyrights, trademarks, intellectual property",
+    "Business ventures outside employment contracts",
+    "Directorship or partnership disputes",
+    "Verbal contracts",
+    "Small claims (limited to legal advice only)",
+    "Claims without reasonable prospects of success",
+    "Construction/building work (except at let property)",
+    "Motor vehicle contracts or disputes",
+    "Insurance or financial product disputes",
+    "Items sold at auction or through auction websites",
+    "Disputes with government authorities",
+    "Previously repossessed items",
+    "Subsidence, landslip or heave",
+    "Boundary disputes (except at let property after 180 days)",
+    "Prosecutions where advised to plead guilty",
+    "Claims where not acquitted",
+    "Claims where Legal Aid not applied for",
+    "Identity theft relating to business/profession",
+    "Identity theft caused by failure to safeguard personal information",
+    "War, terrorism, nuclear risks",
+    "Computer virus/electronic data loss",
+    "Fraudulent claims"
+  ],
+  "coverage_limits": {
+    "maximum_amount_per_policy_period": "\u00a350,000 total including professional fees and defendants costs for one or more claims",
+    "identity_theft_reimbursement": "\u00a35,000 maximum for costs incurred",
+    "lost_wages_daily_limit": "\u00a3200 per day maximum",
+    "property_protection_excess": "\u00a3250 excess for nuisance or trespass claims",
+    "property_protection_minimum": "No cover for matters where value of loss is less than \u00a3100"
+  },
+  "sub_limits": {
+    "identity_theft_costs": "\u00a3250 maximum without prior approval; must obtain agreement before incurring costs over \u00a3250",
+    "alternative_solicitor_fees": "If you choose your own solicitor (with written agreement), only paid up to \u00a3100+VAT per hour that would have been paid to nominated representative"
+  },
+  "special_conditions": [
+    "This is a 'claims made' policy - only covers claims notified within the period of cover",
+    "Claims must be reported within 180 days of the event",
+    "Must use duty solicitor when interviewed for legal defence claims",
+    "Must report identity theft to police within 24 hours and obtain crime reference number",
+    "Must contact all banks/financial institutions within 24 hours of discovering identity theft",
+    "Must take reasonable steps to minimize loss",
+    "Reasonable prospect of success required throughout claim",
+    "Authorised representative must act under Conditional Fee Agreement where fees likely recoverable",
+    "Where professional fees likely to be recovered, payment not made until conclusion of claim",
+    "Must cooperate with insurer, administrator and authorised representative at all times",
+    "Boundary disputes at let property only covered after first 180 days of cover"
+  ],
+  "excess_deductible": "\u00a3250 excess applies to nuisance or trespass claims under Property Protection section. This is payable as soon as the claim is accepted.",
+  "geographical_coverage": "England, Wales, Scotland, Northern Ireland, Channel Islands and the Isle of Man",
+  "age_restrictions": "Not specifically mentioned in this policy",
+  "pre_existing_conditions": "Not applicable to this type of legal expenses insurance. However, incidents must occur during the period of insurance.",
+  "cancellation_policy": "14-day cooling-off period from purchase date or receipt of policy documents (whichever is later) with full refund if no claims made or pending. After 14 days, no refund available. Insurer can cancel with 14 days' notice for valid reasons including fraud, non-payment, threatening behavior, non-compliance with terms, or inaccurate information provided.",
+  "endorsements": [],
+  "claims_requirements": {
+    "notification_timeframe": "As soon as possible after becoming aware of an event that may give rise to a claim. Full details must be provided within 180 days of the event. Delays may reduce or prevent assistance.",
+    "required_documents": [
+      "Complete and truthful report of facts giving rise to claim",
+      "Details of potential witnesses",
+      "Documentary evidence in support of claim",
+      "For identity theft: police crime reference number",
+      "For identity theft: evidence of costs incurred (bills/invoices)",
+      "For lost wages: wage/salary slips and employment contract",
+      "Any information requested by insurer, administrator or authorised representative"
+    ],
+    "process_steps": [
+      "Contact administrator immediately on 0114 350 4107",
+      "Provide complete report and documentary evidence",
+      "Administrator/insurer makes preliminary assessment of merits and reasonable prospects of success",
+      "If accepted, authorised representative appointed to act on your behalf",
+      "If claim appears not to have reasonable prospects, you will be notified in writing",
+      "You can request alternative authorised representative for second opinion",
+      "If alternative representative also advises no reasonable prospects, no payment made",
+      "Authorised representative must provide assessment within 28 days",
+      "Six-monthly progress reports required from authorised representative",
+      "Written consent required before issuing proceedings, instructing counsel/experts, making appeals, or incurring disbursements"
+    ],
+    "evidence_requirements": "Written contracts required (verbal contracts excluded). Police reports required for identity theft. Complete documentation of incident. Witness details. For property damage: evidence of physical damage. For identity theft: evidence of fraud, crime reference number, evidence of costs incurred.",
+    "claims_contact": "Lexelle Limited, PO Box 4428, Sheffield, S9 9DD. Tel: 0114 350 4107. Email: assist@lexelle.com"
+  },
+  "eligibility_criteria": {
+    "age_limits": "Not specified",
+    "medical_restrictions": "Not applicable to this policy type",
+    "occupational_restrictions": "Policy excludes matters relating to insured's profession, business or employment (including letting activity). No cover for business ventures outside employment contracts.",
+    "residency_requirements": "Must have property in England, Wales, Scotland, Northern Ireland, Channel Islands or Isle of Man. Governed by English law with disputes handled in courts of England or country where insured property is situated.",
+    "other_restrictions": [
+      "Must own the let property OR have written authority from owner to sub-let",
+      "Let property must not be insured's only or principal home",
+      "Let property must be or intended to be let under enforceable residential tenancy agreement or short-term let",
+      "Let property cannot be HMO, B&B or hotel",
+      "Property must not be unoccupied for 30+ consecutive days or 90+ total days in policy period",
+      "Policy is not transferable"
+    ]
+  },
+  "policy_definitions": {
+    "administrator": "Lexelle Limited - the firm appointed to administer insurance on behalf of Financial & Legal Insurance Company Limited",
+    "authorised_representative": "An appropriately qualified professional person or firm appointed by administrator or insurer to act on your behalf when a claim is made",
+    "civil_claim": "A dispute in relation to your contractual, common law and statutory rights for which you are pursuing a remedy",
+    "condition": "An obligation that you must perform. If not performed, insurer might not be liable to pay anything under the policy",
+    "date_of_occurrence": "The date of the event that leads to a claim; if multiple events at different times, the date of the first event",
+    "defendants_costs": "Legal costs and expenses the insured is ordered to pay to another party that can be enforced",
+    "free_legal_advice": "Initial verbal legal advice over telephone relating to possible claim. No correspondence entered into",
+    "legal_advice": "Any advice provided by insurer's or administrator's in-house legal advisors to assist in claim",
+    "legal_assistance": "Actions taken by administrator/authorised representative whilst pursuing accepted claim including professional fees",
+    "let_property": "Property identified in schedule (including static caravans and park homes) that is owned or let to insured, not their only/principal home, let/intended to be let under enforceable residential tenancy or short-term let",
+    "legal_proceedings": "A claim for damages or compensation pursued in a court of law within England, Wales, Scotland, Northern Ireland, Channel Islands and Isle of Man",
+    "maximum_amount": "\u00a350,000 in total, including professional fees and defendants costs, for one or more claims during single period of insurance",
+    "period_of_insurance": "The period stated in the schedule",
+    "professional_fees": "Fees or costs reasonably incurred by authorised representative with prior authority. Includes disbursements if for third party services, distinct from representative's services, and with prior permission",
+    "reasonable_prospect_of_success": "The matter has greater chance than not of being wholly successful at time of reporting and throughout conduct of claim",
+    "small_claim": "Claim for damages/compensation which is or may be allocated to small claims jurisdiction of courts (limited to legal advice only under this policy)",
+    "tenant": "Person or persons you have agreed can reside at let property and their guests",
+    "unoccupied": "Insured property not lived in for 30+ consecutive days or total of 90+ days during period of insurance"
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "Boundary disputes at let property: 180-day waiting period from start of cover",
+    "notification_deadlines": "Must notify of potential claim as soon as possible. Full details within 180 days of event. Delays may invalidate claim or increase costs you must pay.",
+    "claims_deadlines": "180 days from date of occurrence to provide full claim details. Disputes about insurer decisions must be referred to arbitration within 12 months or claim treated as abandoned.",
+    "cooling_off_period": "14 days from purchase or receipt of policy documents (whichever is later) for full refund if no claims made/pending"
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "Financial & Legal Insurance Company Limited is authorised by Prudential Regulation Authority and regulated by Financial Conduct Authority and Prudential Regulation Authority",
+      "Financial Services Register number: 202915",
+      "Lexelle Limited (administrator) is authorised and regulated by FCA, register number 312782",
+      "Policy governed by English law",
+      "Policy non-transferable",
+      "No third-party rights under this contract",
+      "Communications in English language"
+    ],
+    "ipid_key_info": "This is a 'claims made' insurance policy covering legal expenses up to \u00a350,000 per period. Covers contract disputes, property protection, legal defence for letting prosecutions, and identity theft. Main exclusions: tenant disputes, letting activity claims, HMOs, claims without reasonable prospects of success.",
+    "fair_treatment_obligations": "Insurer commits to transparent processing of personal data under data protection legislation. Dedicated complaints procedure in place. Clear explanation of reasonable prospect of success requirement. Written confirmation provided when claims declined.",
+    "complaints_process": "For sale issues: contact your agent. For claims issues: contact Claims Manager at Lexelle Ltd, PO Box 4428, Sheffield, S9 9DD, Tel: 0114 350 4107, Email: assist@lexelle.com. State insurance is with Financial & Legal Insurance Company Limited and quote scheme reference F&LLETPROID/07/2025. If unresolved, appeal to Financial Ombudsman Service, Exchange Tower, London E14 9SR, Tel: 0300 123 9123, Email: complaint.info@financial-ombudsman.org.uk. Also applies to business insureds with annual turnover \u00a36.5m or less and fewer than 50 employees or balance sheet below \u00a35m.",
+    "regulatory_warnings": [
+      "Reporting potential claim will not increase future premiums but failing to report timely may restrict cover",
+      "Must take reasonable care to provide accurate and complete information",
+      "Inaccurate information may invalidate policy or result in claims not being paid",
+      "Fraudulent claims will result in policy cancellation, no refund, and potential legal action",
+      "Financial Services Compensation Scheme covers 90% of claim with no upper limit if insurer cannot meet obligations"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Does this policy cover disputes with my tenants?",
+      "answer": "No. The policy explicitly excludes any claims related to your letting activity or against a tenant. This is stated in the general exceptions.",
+      "section_reference": "General Exceptions"
+    },
+    {
+      "question": "Can I use this policy for issues at my main home?",
+      "answer": "No. The policy only covers the 'let property' which is defined as property that is NOT your only or principal home and which is let out under a residential tenancy agreement.",
+      "section_reference": "Definition of 'Let Property'"
+    },
+    {
+      "question": "Will this policy cover small claims court cases?",
+      "answer": "Only partially. For small claims, the policy is restricted to legal advice only. It will not pay for professional fees or representation in small claims cases.",
+      "section_reference": "Section 2 - Contract Disputes, General Exceptions"
+    },
+    {
+      "question": "How quickly must I report a potential claim?",
+      "answer": "You must notify as soon as possible and provide full details within 180 days of the event. Delays may restrict cover or make you liable for additional costs incurred due to the delay.",
+      "section_reference": "Making a Claim, General Terms and Conditions"
+    },
+    {
+      "question": "Can I choose my own solicitor?",
+      "answer": "You can choose your own solicitor with written agreement from the insurer, but they will only pay fees up to \u00a3100+VAT per hour (what they would have paid their nominated representative). If legal proceedings are needed or mandatory representation required, you need written permission first.",
+      "section_reference": "Making a Claim"
+    },
+    {
+      "question": "What happens if my claim doesn't have reasonable prospects of success?",
+      "answer": "The insurer/administrator will notify you in writing. You can request a second opinion from an alternative authorised representative. If they also say no reasonable prospects, no payment will be made. You can accept this advice (ending cover for that claim) or dispute it through arbitration.",
+      "section_reference": "Making a Claim, Definition of Reasonable Prospect of Success"
+    },
+    {
+      "question": "Does the policy cover boundary disputes?",
+      "answer": "Only for boundary disputes at your let property, and only if they arise after the first 180 days of cover. Boundary disputes at other properties are excluded.",
+      "section_reference": "Section 3 - Property Protection"
+    },
+    {
+      "question": "Am I covered if prosecuted for issues with my let property?",
+      "answer": "Yes, under Section 4 Legal Defence, but only if you use the duty solicitor when interviewed, there are reasonable prospects of being acquitted, you don't plead guilty, you are acquitted, and you have applied for Legal Aid.",
+      "section_reference": "Section 4 - Legal Defence"
+    },
+    {
+      "question": "What should I do if my identity is stolen?",
+      "answer": "Within 24 hours: contact all banks/financial institutions, cancel affected cards, freeze accounts, report to police and get crime reference number, take steps to minimize loss. Then contact the administrator to make a claim. Failure to do these things within 24 hours may result in claim rejection.",
+      "section_reference": "Section 5 - Identity Theft, Conditions Relating to Identity Theft"
+    },
+    {
+      "question": "Can I cancel the policy and get a refund?",
+      "answer": "Yes, within 14 days of purchase or receiving documents (whichever is later) you get a full refund if no claims made/pending. After 14 days, no refund is available. Note: your broker/agent may charge additional cancellation fees.",
+      "section_reference": "Cancellation"
+    },
+    {
+      "question": "What is the maximum the policy will pay out?",
+      "answer": "\u00a350,000 in total for all claims during one policy period, including professional fees and defendant's costs. For identity theft specifically, there is a \u00a35,000 sub-limit for reimbursement of costs.",
+      "section_reference": "Definition of Maximum Amount, Section 5 - Identity Theft"
+    },
+    {
+      "question": "Will the policy pay if I lose my case?",
+      "answer": "No. The policy does not cover professional fees or defendant's costs where your defence to a claim is not wholly successful. You must win completely.",
+      "section_reference": "General Exceptions"
+    },
+    {
+      "question": "Can I use the 24/7 legal advice service instead of making a claim?",
+      "answer": "The 24/7 service provides initial telephone advice only and is separate from making a claim. You must not delay reporting a claim while using the helpline. It provides general advice only and cannot replace making a formal claim.",
+      "section_reference": "Section 1 - 24/7 Free Legal Advice Service"
+    },
+    {
+      "question": "Are verbal agreements covered?",
+      "answer": "No. Verbal contracts are specifically excluded. The contract or agreement must be confirmed in writing.",
+      "section_reference": "Section 2 - Contract Disputes, General Exceptions"
+    },
+    {
+      "question": "What if my let property is a House in Multiple Occupation (HMO)?",
+      "answer": "HMOs, B&Bs and hotels are completely excluded from this policy. The policy will not provide any cover for these types of properties.",
+      "section_reference": "General Exceptions"
+    }
+  ],
+  "source_file": "Let Property Legal Expenses PW (Lexelle-F&L) 092025.pdf",
+  "processed_date": "1762788744.0"
+}

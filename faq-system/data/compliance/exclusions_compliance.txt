@@ -1,0 +1,329 @@
+================================================================================
+EXCLUSIONS COMPLIANCE REVIEW
+Generated: 2025-11-13 14:02:30
+================================================================================
+
+This report highlights exclusions that may require specific disclosure
+or customer communication under FCA guidelines.
+
+
+AXA Insurance UK plc - Home Insurance
+--------------------------------------------------------------------------------
+
+High-Impact Exclusions (Require Clear Disclosure):
+
+  TERRORISM:
+    • War, terrorism, radioactive contamination, sonic bangs
+
+  WAR:
+    • War, terrorism, radioactive contamination, sonic bangs
+    • Computer hacking, viruses, malware, contamination
+
+Total Exclusions: 41
+
+
+AXA Insurance UK plc - Landlord's Buildings and Contents Insurance
+--------------------------------------------------------------------------------
+
+No high-impact exclusions identified.
+
+Total Exclusions: 11
+
+
+Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) - Home Insurance (Coverall Policy)
+--------------------------------------------------------------------------------
+
+High-Impact Exclusions (Require Clear Disclosure):
+
+  TERRORISM:
+    • Terrorism
+
+  WAR:
+    • War, invasion, civil war, rebellion, revolution, insurrection
+
+Total Exclusions: 27
+
+
+Underwritten by Prestige Underwriting Services Limited on behalf of Aviva Insurance Limited (all sections except Legal Expenses). Legal Expenses provided by ARAG plc and underwritten by ARAG Legal Expenses Insurance Company Limited. Arranged and administered by Pikl Insurance Services Ltd. - Property Host Insurance - Short-term rental/hosting insurance (30 Days policy)
+--------------------------------------------------------------------------------
+
+High-Impact Exclusions (Require Clear Disclosure):
+
+  TERRORISM:
+    • Terrorism
+
+  WAR:
+    • War, invasion, civil war
+    • Audio/visual software and packaging
+
+Total Exclusions: 29
+
+
+Aviva Insurance Limited (underwritten by Prestige Underwriting Services Limited on behalf of Aviva Insurance Limited, administered by Pikl Insurance Services Limited) - Property Host Insurance (Short Term Letting/Holiday Rental)
+--------------------------------------------------------------------------------
+
+No high-impact exclusions identified.
+
+Total Exclusions: 12
+
+
+Financial & Legal Insurance Company Limited - Let Property Legal Expenses Insurance
+--------------------------------------------------------------------------------
+
+High-Impact Exclusions (Require Clear Disclosure):
+
+  TERRORISM:
+    • War, terrorism, nuclear risks
+
+  WAR:
+    • War, terrorism, nuclear risks
+
+Total Exclusions: 27
+
+
+AmTrust Specialty Limited - Home Insurance
+--------------------------------------------------------------------------------
+
+High-Impact Exclusions (Require Clear Disclosure):
+
+  TERRORISM:
+    • War, invasion, civil war, terrorism (except domestic employees)
+
+  WAR:
+    • War, invasion, civil war, terrorism (except domestic employees)
+
+Total Exclusions: 23
+
+
+AmTrust (arranged by Arkel Underwriting, a trading style of Arkel Limited) - Home Insurance (Buildings and Contents)
+--------------------------------------------------------------------------------
+
+No high-impact exclusions identified.
+
+Total Exclusions: 19
+
+
+Highway Insurance Company Limited (trading as Allianz) - Home Building and Contents Insurance
+--------------------------------------------------------------------------------
+
+High-Impact Exclusions (Require Clear Disclosure):
+
+  WAR:
+    • Malicious acts, vandalism, theft, escape or loss of water, leakage or loss of oil, breakage of glass or sanitaryware, frost, or contents in the garden if home is unoccupied for more than 60 days
+
+Total Exclusions: 8
+
+
+AXA Insurance UK plc - Home Insurance
+--------------------------------------------------------------------------------
+
+High-Impact Exclusions (Require Clear Disclosure):
+
+  TERRORISM:
+    • War, invasion, terrorism (except riot/civil commotion)
+
+  WAR:
+    • War, invasion, terrorism (except riot/civil commotion)
+    • Data loss from hacking, viruses, malware
+
+Total Exclusions: 49
+
+
+Aviva Insurance Limited - Home Insurance
+--------------------------------------------------------------------------------
+
+No high-impact exclusions identified.
+
+Total Exclusions: 10
+
+
+Financial & Legal Insurance Company Limited (underwriter), administered by Lexelle Limited - Let Property Legal Expenses Insurance
+--------------------------------------------------------------------------------
+
+No high-impact exclusions identified.
+
+Total Exclusions: 18
+
+
+Aviva Insurance Limited (for Sections 1-5), ARAG Legal Expenses Insurance Company Limited (for Section 6 - Legal Expenses). Underwritten by Prestige Underwriting Services Limited. Arranged and administered by Pikl Insurance Services Ltd - Property Host Insurance - Short-term rental/hosting insurance (90 Days policy)
+--------------------------------------------------------------------------------
+
+High-Impact Exclusions (Require Clear Disclosure):
+
+  PRE-EXISTING:
+    • Legal expenses for pre-existing matters
+
+  TERRORISM:
+    • Terrorism
+
+  WAR:
+    • War, invasion, civil war
+    • Valuable items: guns, sports equipment, scuba equipment, audio/visual software, cash, credit cards, vouchers
+
+  ALCOHOL:
+    • Legal expenses for alcohol/drug offenses
+
+Total Exclusions: 51
+
+
+Financial & Legal Insurance Company Limited (underwritten), administered by Lexelle Limited - Residential Property Legal Expenses Insurance
+--------------------------------------------------------------------------------
+
+High-Impact Exclusions (Require Clear Disclosure):
+
+  WAR:
+    • Employment Disputes: Claims not reported within 30 days of dismissal or becoming aware of discrimination
+
+Total Exclusions: 15
+
+
+Prestige Underwriting Services Limited on behalf of Aviva Insurance Limited (all sections except Legal Expenses which is provided by ARAG plc and underwritten by ARAG Legal Expenses Insurance Company Limited) - Property Host Insurance (Short-term rental/hosting insurance)
+--------------------------------------------------------------------------------
+
+High-Impact Exclusions (Require Clear Disclosure):
+
+  PANDEMIC:
+    • Communicable diseases (including COVID-19 and any pandemic)
+
+  TERRORISM:
+    • War, terrorism, radioactive contamination
+
+  WAR:
+    • Audio/visual software, discs, tapes
+    • War, terrorism, radioactive contamination
+
+Total Exclusions: 31
+
+
+Financial & Legal Insurance Company Limited - Hosting Family Legal Expenses Platinum Insurance
+--------------------------------------------------------------------------------
+
+High-Impact Exclusions (Require Clear Disclosure):
+
+  TERRORISM:
+    • War, terrorism, nuclear risks
+
+  WAR:
+    • War, terrorism, nuclear risks
+
+Total Exclusions: 23
+
+
+Financial & Legal Insurance Company Limited (underwritten), administered by Lexelle Limited - Legal Expenses Insurance
+--------------------------------------------------------------------------------
+
+High-Impact Exclusions (Require Clear Disclosure):
+
+  WAR:
+    • Employment Disputes: Claims not reported within 30 days following dismissal or becoming aware of discrimination
+
+  DRUGS:
+    • Criminal Prosecution Defence: Any prosecution relating to a motor vehicle, drugs or violence
+
+Total Exclusions: 20
+
+
+Aviva Insurance Limited - Home Insurance
+--------------------------------------------------------------------------------
+
+High-Impact Exclusions (Require Clear Disclosure):
+
+  TERRORISM:
+    • Terrorism involving nuclear/chemical/biological/radiological means
+
+  WAR:
+    • War, invasion, military action
+
+Total Exclusions: 30
+
+
+Millennium Insurance Company Limited (underwritten by Novus Underwriting Limited on behalf of Millennium Insurance Company Limited) - Home Emergency Insurance
+--------------------------------------------------------------------------------
+
+High-Impact Exclusions (Require Clear Disclosure):
+
+  TERRORISM:
+    • War, terrorism, nuclear risks, active war participation
+
+  WAR:
+    • War, terrorism, nuclear risks, active war participation
+    • Repairs still under manufacturer/retailer warranty
+
+Total Exclusions: 39
+
+
+AXA Insurance UK plc - Landlord Buildings and Contents Insurance (Buy to Let)
+--------------------------------------------------------------------------------
+
+High-Impact Exclusions (Require Clear Disclosure):
+
+  TERRORISM:
+    • War, terrorism, nuclear risks
+
+  WAR:
+    • War, terrorism, nuclear risks
+
+Total Exclusions: 37
+
+
+AXA Insurance UK plc - Home Insurance - Buildings and Contents
+--------------------------------------------------------------------------------
+
+No high-impact exclusions identified.
+
+Total Exclusions: 10
+
+
+Financial & Legal Insurance Company Limited (underwriter), administered by Lexelle Limited (FCA Registration Number 312782) - Legal Expenses Insurance - Second Property (Excluding Let)
+--------------------------------------------------------------------------------
+
+No high-impact exclusions identified.
+
+Total Exclusions: 8
+
+
+Financial & Legal Insurance Company Limited (arranged by Lexelle Limited) - Legal Expenses Insurance - 2nd Property (excluding Let)
+--------------------------------------------------------------------------------
+
+High-Impact Exclusions (Require Clear Disclosure):
+
+  TERRORISM:
+    • War, terrorism, nuclear risks
+
+  WAR:
+    • War, terrorism, nuclear risks
+
+Total Exclusions: 25
+
+
+AXA Insurance UK plc - Home Insurance - Household Buildings and Contents Insurance
+--------------------------------------------------------------------------------
+
+No high-impact exclusions identified.
+
+Total Exclusions: 13
+
+
+Financial & Legal Insurance Company Limited - Residential Property Legal Expenses Insurance
+--------------------------------------------------------------------------------
+
+High-Impact Exclusions (Require Clear Disclosure):
+
+  TERRORISM:
+    • War, civil war, terrorism, nuclear incidents
+
+  WAR:
+    • War, civil war, terrorism, nuclear incidents
+
+Total Exclusions: 27
+
+
+Millennium Insurance Company Limited (underwritten by Novus Underwriting Limited on behalf of Millennium Insurance Company Limited; provided by Stubben Edge) - Home Emergency Insurance
+--------------------------------------------------------------------------------
+
+High-Impact Exclusions (Require Clear Disclosure):
+
+  WAR:
+    • Any repair/replacement whilst your boiler is still covered under a warranty
+
+Total Exclusions: 20

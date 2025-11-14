@@ -1,0 +1,315 @@
+{
+  "insurer_name": "Aviva Insurance Limited",
+  "policy_type": "Home Insurance",
+  "policy_version": "BHHHG15133 07.2024 (Effective July 2024)",
+  "coverage_summary": "Comprehensive home insurance policy covering buildings, contents, personal belongings, legal liabilities, and optional Family Legal Protection. Provides protection for the home structure, household contents, valuables, and legal responsibilities as a homeowner or tenant.",
+  "key_inclusions": [
+    "Buildings cover for structure, fixtures, fittings, decorations",
+    "Contents cover for household items and personal belongings",
+    "Cover for fire, explosion, lightning, earthquake",
+    "Storm and flood damage",
+    "Theft and attempted theft",
+    "Malicious damage and vandalism",
+    "Escape of water from pipes and appliances",
+    "Subsidence, heave and landslip",
+    "Alternative accommodation costs if home uninhabitable",
+    "Loss of rent for landlords",
+    "Occupier's, Personal and Employer's liability cover",
+    "Tenant's liability for rented property",
+    "Accidental damage to fixed glass, sanitary fittings, cables and pipes",
+    "Emergency access cover (no excess)",
+    "Personal money cover",
+    "Food in freezers",
+    "Garden re-landscaping after insured events",
+    "Trace and access costs for finding leaks",
+    "Key replacement cover",
+    "Optional Personal Belongings cover worldwide",
+    "Optional Family Legal Protection",
+    "Optional Accidental Damage cover"
+  ],
+  "key_exclusions": [
+    "Wear and tear, gradual deterioration, depreciation",
+    "Breakdowns and faults (boilers, appliances, etc.)",
+    "Faulty workmanship, design or materials",
+    "Deliberate or criminal acts by policyholder",
+    "Loss in value or indirect losses",
+    "War, invasion, military action",
+    "Terrorism involving nuclear/chemical/biological/radiological means",
+    "Radioactivity and nuclear contamination",
+    "Pollution or contamination (except sudden identifiable accidents)",
+    "Damage by domestic animals (chewing, scratching, fouling)",
+    "Motorised vehicles (except specific exceptions)",
+    "Events known before policy started",
+    "Property left unoccupied for more than 60 days (various restrictions apply)",
+    "Frost damage (except to pipes)",
+    "Wet or dry rot (except directly caused by insured event)",
+    "Rising water table levels",
+    "Settlement, shrinkage or expansion of buildings",
+    "Coastal or riverbank erosion",
+    "Damage to fences, gates, hedges by storm or falling trees",
+    "Theft by deception (with exceptions)",
+    "Theft from non-self-contained flats in communal areas",
+    "Damage caused by failure of grout or sealant around baths/showers",
+    "Damage by paying guests, tenants, lodgers",
+    "Business property (except home office equipment)",
+    "Motorised vehicles, aircraft, boats, caravans (with specific exceptions)",
+    "Documents except money, passports, driving licences, title deeds",
+    "Living creatures",
+    "Claims for unauthorised/malicious access to computer systems or power networks",
+    "Losses covered by other insurance policies",
+    "Sanctions-related exclusions"
+  ],
+  "coverage_limits": {
+    "Buildings sum insured": "As shown on schedule (or \u00a31,000,000 if Aviva-provided)",
+    "Contents sum insured": "As shown on schedule (or \u00a3100,000 if Aviva-provided)",
+    "Loss of rent/alternative accommodation (Buildings)": "\u00a3100,000",
+    "Loss of rent/alternative accommodation (Contents)": "\u00a310,000",
+    "Liability to the public (Buildings)": "\u00a35,000,000",
+    "Occupier's and personal liability": "\u00a35,000,000",
+    "Employer's liability": "\u00a310,000,000",
+    "Tenant's Liability": "\u00a315,000",
+    "Personal belongings": "As shown on schedule",
+    "Family Legal Protection legal costs": "As shown on schedule"
+  },
+  "sub_limits": {
+    "Tracing and accessing leaks": "\u00a35,000",
+    "Loss or theft of keys (Buildings)": "Up to Buildings sum insured",
+    "Loss or theft of keys (Contents)": "Up to Contents sum insured (for theft/attempted theft only)",
+    "Emergency access": "Up to Buildings/Contents sum insured",
+    "Clearing underground pipe blockages": "\u00a31,000",
+    "Contents in the garden": "\u00a35,000 total",
+    "Unspecified valuables": "As shown on schedule (total)",
+    "Unspecified valuables single item": "\u00a35,000",
+    "Specified valuables": "As shown on schedule (per item)",
+    "Personal money in the home": "\u00a3750",
+    "Home office equipment": "\u00a310,000",
+    "Loss of heating fuel": "Up to Contents sum insured",
+    "Loss of metered water": "\u00a32,000",
+    "Theft from outbuildings": "\u00a35,000 total",
+    "Theft from garages": "Up to Contents sum insured",
+    "Garden re-landscaping total": "\u00a35,000",
+    "Garden re-landscaping per plant/tree": "\u00a3500",
+    "Visitors personal belongings": "\u00a31,000",
+    "Pedal cycle theft from garden": "Must be securely locked to immovable object"
+  },
+  "special_conditions": [
+    "Property must be kept in good condition and maintained",
+    "Must take reasonable precautions to prevent loss or damage",
+    "Sealant and grout around baths/showers must be maintained",
+    "Home must be lived in at least 2 nights per week to not be considered unoccupied",
+    "Various covers suspended after 60 consecutive days of being unoccupied",
+    "Must report crimes to police and obtain crime reference number",
+    "Must contact insurer as soon as aware of circumstances likely to lead to claim",
+    "For subsidence claims: subsidence excess applies regardless of underlying cause",
+    "Index linking applies monthly to buildings (House Rebuilding Cost Index) and contents (Retail Price Index)",
+    "If sum insured inadequate, claims may be reduced proportionately",
+    "Water supply must be turned off if leak discovered to prevent further damage",
+    "For storm claims: must prove storm conditions existed using weather data",
+    "Buildings sum insured must cover full rebuilding cost including demolition, debris removal, professional fees",
+    "Contents sum insured must be enough to replace all contents as new",
+    "Valuables over single article limit must be separately specified",
+    "Evidence of ownership/value should be retained (receipts, valuations, photos)",
+    "Cannot abandon damaged property to insurer",
+    "Insurer may take legal proceedings in policyholder's name to recover costs",
+    "For Personal Belongings: must take reasonable care - don't leave items unattended",
+    "Theft from vehicles requires forced entry and items hidden from view",
+    "Pedal cycles must be locked when left unattended (except in immediate custody)"
+  ],
+  "excess_deductible": "As shown on schedule - varies by cover type. Subsidence, heave and landslip excess applies to all subsidence claims regardless of cause. No excess for emergency access cover.",
+  "geographical_coverage": "United Kingdom, Channel Islands, Isle of Man. Personal Belongings cover extends worldwide. Family Legal Protection covers incidents in UK, Channel Islands and Isle of Man, with temporary visits to other countries.",
+  "age_restrictions": "Not explicitly specified for main home insurance. Students living away during term time still considered as 'normally living' at home.",
+  "pre_existing_conditions": "Subsidence: Not covered if you knew about existing subsidence damage when policy started unless you told insurer and they accepted it. Events or circumstances likely to lead to claim known before policy started are not covered.",
+  "cancellation_policy": "14-day statutory cooling off period from purchase/renewal or receipt of documents (whichever later). Full refund if cancelled before cover starts, pro-rata refund after cover starts. Insurer can cancel with 7+ days notice (14 days for non-payment under monthly credit). No refund if cancelled for fraud. Can cancel anytime - may incur charge.",
+  "endorsements": [
+    {
+      "name": "Extra Accidental Damage to Buildings",
+      "description": "Extends cover to all other accidental damage to buildings not already covered by standard Buildings section paragraphs 1-8, including overflow from taps left on",
+      "cost_impact": "Additional premium applies when shown on schedule",
+      "coverage_impact": "Adds broader accidental damage cover but excludes: building work alterations/renovations, vermin/insects/weather damage, damage by tenants/lodgers/paying guests, water entering from outside not due to storm/flood, damage when unoccupied 60+ days"
+    },
+    {
+      "name": "Extra Accidental Damage to Contents",
+      "description": "Extends cover to all other accidental damage to contents in home and garden not already covered by Contents section",
+      "cost_impact": "Additional premium applies when shown on schedule",
+      "coverage_impact": "Adds broader accidental damage cover but excludes: food, moths/vermin/insects/damp/rust/rot/weather, water entering not from storm/flood, cleaning/repair process damage, damage by tenants/lodgers/paying guests, indirect losses"
+    },
+    {
+      "name": "Personal Belongings Cover",
+      "description": "Covers loss or damage to specified personal belongings (clothing, jewellery, watches, gadgets, sports equipment, etc.) anywhere in the world",
+      "cost_impact": "Additional premium with limits shown on schedule",
+      "coverage_impact": "Provides worldwide cover for items taken away from home. Excludes: theft from unattended vehicles unless forced entry and hidden from view, theft by deception, damage by tenants/lodgers, moths/vermin/weather damage, cleaning/repair damage, customs confiscation. Pedal cycles only covered if locked or in immediate custody. Personal money excludes mistakes, unreported losses, credit/debit cards"
+    },
+    {
+      "name": "Family Legal Protection",
+      "description": "Provides legal advice helpline and covers legal costs for disputes in: employment, property, consumer issues, personal injury, medical/cosmetic negligence",
+      "cost_impact": "Additional premium with maximum legal costs shown on schedule",
+      "coverage_impact": "Covers legal costs up to limit for specified dispute types where prospects of success are reasonable. Excludes: known issues before cover started, matrimonial/divorce matters, libel/slander, judicial review, class actions, planning disputes, landlord disputes if you let property. Must use appointed lawyer or costs limited to \u00a3100/hour. Lawyer assesses prospects of success."
+    },
+    {
+      "name": "Specified Valuables",
+      "description": "Individual items of jewellery, watches, or valuables worth more than \u00a35,000 can be separately specified for their full value",
+      "cost_impact": "Premium varies based on item value and type",
+      "coverage_impact": "Removes the \u00a35,000 single item limit for specifically listed valuable items. Each item insured for its specified amount. Same exclusions as general contents apply."
+    }
+  ],
+  "claims_requirements": {
+    "notification_timeframe": "As soon as you become aware of anything likely to lead to a claim. For Family Legal Protection: contact as soon as issue arises as this may improve prospects of success",
+    "required_documents": [
+      "Policy number",
+      "Crime reference number (for theft or malicious damage claims)",
+      "Receipts, quotes, or invoices for damaged/lost items",
+      "Photos of damage or lost items",
+      "Estimated size of area affected",
+      "Proof of ownership and value (receipts, valuations, photos, instruction booklets, guarantee cards)",
+      "Witness details and correspondence (for legal claims)",
+      "Contracts or agreements (for consumer/property disputes)",
+      "Employment documentation (for employment disputes)",
+      "Medical records (for personal injury/medical negligence)"
+    ],
+    "process_steps": [
+      "Report crime to police immediately if theft or malicious damage - obtain crime reference number",
+      "Contact insurer as soon as possible on 0800 012345 (24/7 claims line)",
+      "For Family Legal Protection call 0800 051 1701 for advice",
+      "Do not dispose of damaged property without insurer agreement",
+      "Do not arrange repairs without insurer agreement",
+      "Provide all requested information and documentation",
+      "Cooperate fully with insurer and appointed experts",
+      "Keep insurer updated on claim progress",
+      "For liability claims: do not admit liability or make promises without insurer agreement",
+      "Tell insurer immediately if anyone offers settlement or makes payment into court",
+      "If property returned after theft claim, must notify insurer"
+    ],
+    "evidence_requirements": "Police reports with crime reference number for theft/malicious damage. Receipts and valuations for valuable items. Photos of damage. Weather data may be checked for storm claims. Proof of maintenance for wear and tear disputes. Medical evidence for personal injury. Employment contracts and correspondence for employment disputes. Surveys may be arranged for property damage. Expert assessments for subsidence claims.",
+    "claims_contact": "24-hour claims line: 0800 012345. Family Legal Protection: 0800 051 1701. Calls may be recorded/monitored."
+  },
+  "eligibility_criteria": {
+    "age_limits": "No specific age limits mentioned for main home insurance. Students living away considered as normally living at home if they return outside term time.",
+    "medical_restrictions": "No medical restrictions for home insurance. For Family Legal Protection personal injury claims: excludes gradual illnesses/injuries not caused by identifiable incident (e.g. repetitive strain injury).",
+    "occupational_restrictions": "Home must be used solely for domestic and/or clerical business purposes. Clerical business means computer work, emails, phone calls, administration. No manufacturing or trade businesses allowed. Outbuildings must be for domestic/clerical use only.",
+    "residency_requirements": "Property must be in UK, Channel Islands or Isle of Man. Policyholder must normally live at the property (at least 2 nights per week). Various restrictions apply if property unoccupied 60+ consecutive days.",
+    "other_restrictions": [
+      "Property must be maintained in good condition",
+      "Cannot be used for non-domestic business (except clerical work and home office)",
+      "Dangerous dogs as defined in Dangerous Dogs Act 1991 excluded from liability cover",
+      "No cover for horses, ponies, donkeys or mules liability",
+      "Outbuildings must be permanent, immovable structures on foundations - excludes caravans, mobile homes, canvas structures, open-sided structures, treehouses, pigeon lofts, aviaries",
+      "For landlords: liability for owning property covered under Buildings; for occupying covered under Contents",
+      "Cannot claim if property insured under another policy for same loss"
+    ]
+  },
+  "policy_definitions": {
+    "Accidental Damage": "Damage which has happened suddenly and unexpectedly from an outside force which can be identified. Does NOT include breakdowns, faults, wear and tear, faulty workmanship or design. Example: TV falling off wall due to incorrect bracket installation is NOT covered.",
+    "Buildings": "The home and its walls, fences, gates, hedges, patios, drives, footpaths, terraces, hard courts, car ports, ornamental ponds and fountains, fixed hot tubs and swimming pools, fixed domestic heating/water/sewage tanks, fixed pipes and cables, fixed clean energy installations (solar panels, wind turbines), fixtures, fittings and decorations. Must all be at the address on schedule.",
+    "Contents": "Household items and personal belongings (including personal money), home office equipment and valuables that you own or are legally responsible for (not landlord's property), plus property of domestic employees living with you, and visitors' belongings up to limit. EXCLUDES: business items (except home office equipment), motorised vehicles/aircraft/boats/caravans (with exceptions), documents (except money/passports/driving licences/title deeds), the structure of the home including wallpaper, living creatures.",
+    "Home": "The house or flat and its garages, annexes and outbuildings at the address on schedule, used solely for domestic and/or clerical business purposes. Clerical business means computer work, emails, telephone calls and administration.",
+    "Unoccupied": "Not lived in by you or anyone with your permission. 'Lived in' means normal living activities (bathing, cooking, sleeping overnight) carried out for at least 2 nights each week, and home contains enough furniture for normal living. Students living away during term time still count as normally living at home.",
+    "Personal belongings": "Things you might wear or carry when leaving home - clothing, jewellery, watches, gadgets (mobiles, laptops, tablets), personal money, sports/musical/photographic equipment. Must belong to you or be your responsibility. EXCLUDES: business items, furniture/furnishings/household goods, documents (except driving licences/passports), motorised vehicles/aircraft/boats (with exceptions), living creatures, pedal cycles/snowboards/skis/sub-aqua equipment/riding tack/contact lenses unless specifically shown on schedule.",
+    "Valuables": "Jewellery, watches, items of gold/silver/precious metals, works of art (paintings, etchings, tapestries, statues, sculptures), stamp/coin/medal collections.",
+    "Motorised vehicle": "Any electrically or mechanically powered vehicle including E-scooters and Hoverboards. EXCEPTIONS (not classed as motorised vehicles): domestic gardening equipment in garden, Class 2 mobility scooters/motorised wheelchairs (max 4mph, pavement only), golf carts/trolleys, remotely controlled toys/models by pedestrian, electrically assisted pedal cycles (Ebikes).",
+    "Outbuildings": "Permanent and immovable structures within property boundaries not lived in, used solely for domestic/clerical purposes - sheds, summerhouses, greenhouses. NOT: structures without permanent foundation, treehouses, aviaries, pigeon lofts, inflatable structures, canvas/PVC/non-rigid structures (except greenhouses), open-sided structures, caravans/mobile homes/motor homes.",
+    "Storm": "Extreme weather event with persistent high winds normally exceeding 55mph (48 knots) gusts AND/OR heavy rainfall at least 25mm per hour AND/OR snow at least 30cm depth in 24 hours AND/OR hail intense enough to damage hard surfaces or break glass, according to insurer's weather data. Other factors like property location also considered. Note: Storm can highlight existing defects rather than cause them - damage due to lack of maintenance or gradual deterioration not covered.",
+    "Flood": "A substantial volume of water suddenly entering your buildings from an external source at ground floor level or below.",
+    "Subsidence": "Downward movement of the land beneath the buildings that is not as a result of settlement.",
+    "Settlement": "Downward movement of the land beneath the buildings as a result of compaction due to the weight of the buildings.",
+    "Heave": "Expansion or swelling of the land beneath the buildings resulting in upwards movement.",
+    "Fire": "Accidental combustion caused by an external heat source, such as a spark or candle. Does NOT include scorching, melting, or heat distortion unless as direct result of combustion. (Single events causing scorching without combustion may be covered under accidental damage if that cover is included.)",
+    "Domestic employee": "A person directly employed by you solely to carry out domestic tasks such as cleaning, gardening and childcare in the home.",
+    "Period of insurance": "The period covered by this policy as shown on schedule or until cancelled.",
+    "Personal money": "Cash, unused postage stamps, gift vouchers, season tickets, travel tickets, phone cards and pre-paid cash cards, all held for social, domestic or charitable purposes.",
+    "You, your": "The person (or people) named on schedule and their partner(s) and members of their family (or families) and foster children who normally live with them. Students count as normally living at home if they live there outside term time.",
+    "Reasonable costs": "Costs for goods and services which are competitive in the relevant marketplace."
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "30 days for Family Legal Protection employment disputes (unless had similar policy immediately before). 60 days before unoccupied restrictions apply (various covers suspended).",
+    "notification_deadlines": "Tell police straight away for crimes. Contact insurer as soon as reasonably possible after becoming aware of claim. For Family Legal Protection: contact as soon as issue arises to improve prospects of success.",
+    "claims_deadlines": "Must report to insurer as soon as aware of circumstances likely to lead to claim. Crime must be reported to police immediately. No specific time limit stated but unreasonable delay could affect claim.",
+    "cooling_off_period": "14 days statutory cancellation right from date of purchase/renewal or receipt of documents (whichever is later). Full refund if before cover starts, pro-rata refund if after cover starts."
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "Aviva Insurance Limited authorised by Prudential Regulation Authority and regulated by Financial Conduct Authority and Prudential Regulation Authority",
+      "Registered in Scotland, No. 2116. Registered Office: Pitheavlis, Perth PH2 0NH",
+      "Calls may be recorded and/or monitored for joint protection",
+      "Policy will not provide cover or pay claims if doing so would expose insurer to sanctions under UN resolutions or EU/UK/US trade/economic sanctions",
+      "Consumer Insurance (Disclosure and Representations) Act 2012 applies - insurer may keep premium if policy voided due to fraud/dishonesty"
+    ],
+    "ipid_key_info": "Policy document references Important Information document for key information. Must give complete and correct information to questions asked. Failure to do so may result in changed cover, premium, excess, claims not paid in full/at all, policy cancellation or policy declared void.",
+    "fair_treatment_obligations": "Must be given opportunity to check details are correct. Must be told about changes needed. Index linking explained. Claims process clearly outlined. Alternative accommodation assistance offered. Right to choose own lawyer explained with limitations. Proportionality considered in legal claims. Clear explanation of prospects of success assessment.",
+    "complaints_process": "If you want to complain, see Important Information document for complaints procedure. For Family Legal Protection disputes about lawyer's opinion: can request independent review by jointly chosen lawyer (or law society appointed), insurer will abide by decision and pay review cost. Right to refer to Financial Ombudsman Service after internal complaints process exhausted.",
+    "regulatory_warnings": [
+      "You must give complete and correct information - failure may result in claim denial or policy voidness",
+      "Keep property in good condition - policy doesn't cover wear and tear or lack of maintenance",
+      "Various covers suspended after 60 consecutive days unoccupied",
+      "It is your responsibility to prove any loss - keep receipts, valuations, photos",
+      "Check your sum insured is adequate - underpayment may result in proportionate claim reduction",
+      "Subsidence excess applies regardless of underlying cause of subsidence damage",
+      "For legal expenses: if you use non-appointed lawyer, costs limited to \u00a3100/hour and may lose percentage of compensation",
+      "Must report crimes to police and get crime reference number",
+      "Storm can highlight defects rather than cause them - maintenance failures not covered"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "What happens if my home is unoccupied for more than 60 days?",
+      "answer": "Various covers are suspended: malicious damage/vandalism, escape of water or heating fuel, theft or attempted theft, accidental damage to fixed glass (if that cover applies), and any loss/damage to contents in the garden. These covers will not apply during the period of being unoccupied beyond 60 consecutive days.",
+      "section_reference": "Buildings - what's not covered, Contents - what's not covered"
+    },
+    {
+      "question": "Am I covered for subsidence?",
+      "answer": "Yes, subsidence, heave and landslip are covered under both Buildings and Contents sections. However, damage to boundary walls, patios, etc. is only covered if the main home is also damaged at the same time by the same cause. If you knew about existing subsidence damage when the policy started, it's not covered unless you told the insurer and they accepted it. The subsidence excess shown on your schedule applies to all subsidence claims regardless of the underlying cause.",
+      "section_reference": "Buildings paragraph 8, Buildings conditions, Buildings - what's not covered"
+    },
+    {
+      "question": "What counts as a 'storm' for claims purposes?",
+      "answer": "Storm is an extreme weather event with persistent high winds normally exceeding 55mph (48 knots) gusts AND/OR heavy rainfall at least 25mm per hour AND/OR snow at least 30cm depth in 24 hours AND/OR hail intense enough to damage hard surfaces or break glass, according to the insurer's weather data. Other factors like where your property is located are also considered. The insurer will check weather data and may request pictures or send an expert to assess if storm conditions existed and that damage wasn't due to lack of maintenance.",
+      "section_reference": "Words with special meanings - Storm, Buildings conditions - How we deal with claims for storm damage"
+    },
+    {
+      "question": "If I rent out my property, am I still covered?",
+      "answer": "You cannot claim under Family Legal Protection for disputes between you as landlord and your tenant. You also cannot claim for damage caused by your tenant under Contents (or theft/malicious damage by paying guests, tenants or lodgers). However, if you have Buildings cover, your liability as owner of the property is covered. If you have Contents cover and are also the occupier, you have occupier's liability cover. You should check whether you need landlord-specific insurance.",
+      "section_reference": "Your legal liabilities, Contents - what's not covered, Property disputes - what's not covered, General exclusions"
+    },
+    {
+      "question": "Are my belongings covered when I take them away from home?",
+      "answer": "Standard Contents cover only applies at your home and in the garden. To cover belongings away from home, you need to add Personal Belongings cover (shown on your schedule). This provides worldwide cover for things you wear or carry like clothing, jewellery, watches, gadgets, sports equipment, and personal money. There are specific conditions such as theft from vehicles requiring forced entry and items hidden from view, and pedal cycles must be locked when unattended.",
+      "section_reference": "Personal belongings section, Words with special meanings - Personal belongings"
+    },
+    {
+      "question": "What if I need alternative accommodation while repairs are done?",
+      "answer": "If your home can't be lived in because it's been damaged by an insured event (listed in Buildings paragraphs 1-8 or Contents paragraphs 1-8), the insurer will pay reasonable costs for alternative accommodation for you and your pets until it's fit to live in, up to \u00a3100,000 (Buildings) or \u00a310,000 (Contents). The insurer will try to keep you in your home if possible and aims to get you back home in the shortest time, likely while repairs are ongoing. They'll consider how many people live there, how long you need accommodation, what's available locally and the cost.",
+      "section_reference": "Buildings - Loss of rent and cost of alternative accommodation, Contents - Loss of rent and cost of alternative accommodation"
+    },
+    {
+      "question": "Is accidental damage covered?",
+      "answer": "Standard cover includes accidental damage to: fixed glass in the building, sanitary fittings, underground pipes/cables/drains serving the building, non-portable home entertainment equipment, mirrors and glass furniture, and receiving aerials/dishes. For broader accidental damage cover to buildings or contents, you need to add the optional 'Extra accidental damage' covers which will be shown on your schedule. Even with this, there are exclusions such as wear and tear, breakdowns, vermin, and damage during building work.",
+      "section_reference": "Buildings - Accidental damage to services fixed glass and sanitary fittings, Contents - Accidental damage to non-portable home entertainment equipment mirrors and glass, Buildings optional covers, Contents optional covers"
+    },
+    {
+      "question": "What should I do immediately after discovering damage or loss?",
+      "answer": "1) If it's a crime (theft, malicious damage), report to police immediately and get a crime reference number. 2) Take reasonable steps to prevent further damage (e.g., turn off water if there's a leak). 3) Do NOT dispose of damaged property or arrange repairs without insurer's agreement. 4) Contact the insurer as soon as reasonably possible on 0800 012345 (available 24/7). 5) Gather evidence: take photos, keep receipts/valuations, get witness details. 6) Provide all information the insurer requests to prove your loss.",
+      "section_reference": "General conditions - Claims, Getting in touch - To make a home claim, Claims requirements"
+    },
+    {
+      "question": "How much should I insure my buildings for?",
+      "answer": "Your buildings sum insured must be high enough to cover the FULL cost of rebuilding your home to the same specification, including demolition, debris removal, and architects'/surveyors' fees. It's NOT the market value of your home. If the sum insured is too low and you provided it (rather than Aviva providing \u00a31,000,000), your claim may be reduced proportionately. For example, if you only paid 70% of the premium you should have paid, you'd only get 70% of your claim. Contact the insurer if you don't think the sum insured is enough. The sum insured is index-linked monthly using the House Rebuilding Cost Index.",
+      "section_reference": "Buildings conditions - Your sum insured, Buildings conditions - Settling claims, General conditions - Index linking"
+    },
+    {
+      "question": "Are there any items I need to specify separately?",
+      "answer": "Yes. Individual valuable items (jewellery, watches, gold/silver items, art, collections) worth more than \u00a35,000 should be specified separately and insured for their full replacement value. These are called 'specified valuables' and will be listed on your schedule with individual values. The total value of all your unspecified valuables (items individually worth less than \u00a35,000) should fit within the unspecified valuables limit on your schedule. You should get updated valuations regularly as values can increase.",
+      "section_reference": "Contents conditions - Your sum insured, Words with special meanings - Valuables, Schedule of Limits"
+    },
+    {
+      "question": "What is the Family Legal Protection and when can I use it?",
+      "answer": "Family Legal Protection provides a 24/7 legal advice helpline (0800 051 1701) and covers legal costs (up to the limit on your schedule) for disputes in: employment (unfair dismissal, discrimination, unpaid wages), property (boundaries, nuisance, damage, sale/purchase, landlord disputes as tenant), consumer (faulty goods/services), personal injury, and medical/cosmetic negligence. A lawyer will assess if your case has reasonable prospects of success (more likely than not to win) and whether costs are proportionate to the claim value. You must contact them as soon as an issue arises. Not covered: matrimonial/divorce matters, libel/slander, judicial review, planning, disputes if you let property out as landlord.",
+      "section_reference": "Family Legal Protection section, Your Cover and Insured Events"
+    },
+    {
+      "question": "Can I use my own repairer or do I have to use one chosen by the insurer?",
+      "answer": "The insurer can choose to settle your claim by repairing, rebuilding, replacing or making a payment. They may appoint their own contractors. If you want to use your own repairer, discuss this with the claims handler. However, you must not arrange repairs without the insurer's agreement first, as this could affect your claim. If the insurer is able to repair/replace but agrees to cash settlement, they'll only pay what it would have cost them to do the work.",
+      "section_reference": "Buildings conditions - Settling claims, Contents conditions - Settling claims, General conditions - Claims"
+    }
+  ],
+  "source_file": "Aviva Your House PW (BHHHG15133) 0724.pdf",
+  "processed_date": "1762788742.0"
+}

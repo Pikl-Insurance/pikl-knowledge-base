@@ -1,0 +1,359 @@
+{
+  "insurer_name": "Underwritten by Prestige Underwriting Services Limited on behalf of Aviva Insurance Limited (all sections except Legal Expenses). Legal Expenses provided by ARAG plc and underwritten by ARAG Legal Expenses Insurance Company Limited. Arranged and administered by Pikl Insurance Services Ltd.",
+  "policy_type": "Property Host Insurance - Short-term rental/hosting insurance (30 Days policy)",
+  "policy_version": "PHOHA/POL/006/21.10.25",
+  "coverage_summary": "Insurance for property hosts renting their property to guests for short-term stays (up to 30 days). Covers damage to buildings and contents caused by guests or visitors during valid bookings, including accidental damage, malicious damage, theft, fire, water escape, and liability to others. Also covers loss of income following a claim, electric vehicle charging points, and legal expenses.",
+  "key_inclusions": [
+    "Accidental damage to buildings and contents by guests/visitors",
+    "Malicious damage by guests/visitors",
+    "Theft or attempted theft by guests/visitors",
+    "Fire, smoke and explosion damage",
+    "Escape of water or heating oil from tanks, equipment or pipework",
+    "Emergency services damage to property",
+    "Loss or theft of keys and lock replacement",
+    "Alternative accommodation if property uninhabitable (up to \u00a3200/day)",
+    "Kennelling costs for host's animals (up to \u00a350/day)",
+    "Alternative accommodation for guests if property uninhabitable (up to \u00a3150/day)",
+    "Cancellation charges for subsequent bookings",
+    "Loss of income following a claim (up to \u00a310,000)",
+    "Electric and hybrid vehicle charging unit damage",
+    "Host liability to third parties (up to \u00a35,000,000)",
+    "Legal expenses cover (up to \u00a350,000)",
+    "Pest infestation fumigation costs due to guests",
+    "Fatal bodily injury to host at premises (up to \u00a310,000)",
+    "24-hour legal and tax advice helpline"
+  ],
+  "key_exclusions": [
+    "Communicable disease (including COVID-19)",
+    "Computer virus/electronic data corruption",
+    "Cosmetic damage (scratches, marks, dents not affecting functionality)",
+    "Damage caused by the host themselves",
+    "Domestic pet damage (chewing, scratching, tearing, fouling)",
+    "External walls or roofs of flats/apartments and communal areas",
+    "Fraud or dishonest claims",
+    "Motorised vehicle damage",
+    "Professional/domestic cleaning damage",
+    "Radioactive contamination",
+    "Terrorism",
+    "Vermin damage",
+    "Wear and tear, gradual damage",
+    "War, invasion, civil war",
+    "Sewage pipe blockages",
+    "Claims where deposit exceeds or equals the claim value",
+    "Claims without a Valid Booking",
+    "Claims from bookings made after the host knew of potential claim",
+    "Non-Hosting Activity claims",
+    "Claims where Property Policy would cover",
+    "Theft without police report and crime reference number",
+    "Malicious damage without police report",
+    "Valuables and electrical valuables over \u00a35,000 per item",
+    "Theft of valuables not kept in locked safe/locked room",
+    "Laptops, tablets, phones not kept locked when unattended",
+    "Cash, credit cards, vouchers",
+    "Guns, sports equipment, scuba diving equipment",
+    "Audio/visual software and packaging",
+    "Any claims over policy limits specified per section"
+  ],
+  "coverage_limits": {
+    "Buildings - Fire, Smoke, Explosion (Insured Property)": "\u00a31,000,000 per claim",
+    "Buildings - Fire, Smoke, Explosion (Flat/Apartment)": "\u00a350,000 per claim",
+    "Buildings - Accidental/Malicious Damage (Insured Property)": "\u00a380,000 per claim",
+    "Buildings - Accidental/Malicious Damage (Flat/Apartment)": "\u00a350,000 per claim",
+    "Buildings - Escape of Water/Heating Oil (Insured Property)": "\u00a31,000,000 per claim",
+    "Buildings - Escape of Water/Heating Oil (Flat/Apartment)": "\u00a350,000 per claim",
+    "Buildings - Theft": "\u00a320,000 per claim",
+    "Buildings - Emergency Services Damage": "\u00a35,000 per claim",
+    "Buildings - Key Loss and Lock Replacement": "\u00a31,000 per claim",
+    "Buildings - Alternative Accommodation for Host": "\u00a3200 per day, \u00a320,000 total per claim",
+    "Buildings - Kennelling Costs": "\u00a350 per day, \u00a35,000 total per claim",
+    "Buildings - Alternative Accommodation for Guests": "\u00a3150 per day, \u00a35,000 total per claim",
+    "Buildings - Cancellation Charges": "\u00a3200 per claim",
+    "Contents - Fire, Smoke, Explosion": "\u00a3100,000 per claim",
+    "Contents - Accidental/Malicious Damage": "\u00a340,000 per claim",
+    "Contents - Escape of Water/Heating Oil": "\u00a3100,000 per claim",
+    "Contents - Theft": "\u00a320,000 per claim",
+    "Contents - Emergency Services Damage": "\u00a35,000 per claim",
+    "Contents - Pest Infestation Fumigation": "\u00a31,000 per claim",
+    "Contents - Fatal Bodily Injury": "\u00a310,000 per insured person",
+    "Loss of Income": "\u00a310,000 per claim",
+    "Electric Vehicle Charging Points": "\u00a31,500 per claim",
+    "Liability to Others": "\u00a35,000,000 including legal costs per claim",
+    "Legal Expenses": "\u00a350,000 including appeals per claim"
+  },
+  "sub_limits": {
+    "Valuables and Electrical Valuables (Fire/Smoke/Explosion)": "\u00a320,000 total per claim",
+    "Valuables and Electrical Valuables (Accidental/Malicious Damage)": "\u00a320,000 total per claim",
+    "Valuables and Electrical Valuables (Theft)": "\u00a320,000 total per claim",
+    "Single Valuable or Electrical Valuable Item": "\u00a35,000 maximum per item",
+    "Alternative Accommodation - Food and Drinks": "Not covered",
+    "Loss of Income - First 14 Days": "Not covered (14-day waiting period)"
+  },
+  "special_conditions": [
+    "Must have existing valid annual Property Policy in place",
+    "Property Policy provider must be informed of hosting activity within 30 days",
+    "Cover must be in place before guests arrive",
+    "Must have written agreement with guest (or verbal agreement for family/friends)",
+    "Maximum 20 people (10 adults/10 children) at any one time",
+    "Must operate in compliance with local authority regulations and laws",
+    "Must provide adequate instruction to guests on property use",
+    "Property must be well maintained and in good repair",
+    "Property must be equipped with essential items (curtains, beds, furniture)",
+    "No renovations or structural alterations during guest stays",
+    "Valid gas safety certificate required if applicable",
+    "Must comply with fire safety regulations",
+    "Host must take reasonable precautions to prevent loss",
+    "Property must be free of tripping/slipping hazards",
+    "Must report theft/malicious damage to police immediately",
+    "Must obtain crime reference number for theft/malicious damage claims",
+    "Claims must be reported within 30 days of discovery",
+    "Must retain full guest deposit",
+    "Multiple incidents during one Valid Booking treated as single claim with single excess",
+    "Valuables must be kept in locked safe or locked room inaccessible to guests",
+    "Laptops, tablets, phones must be locked away when unattended"
+  ],
+  "excess_deductible": "\u00a3100 excess applies to most claims. Specific excess amounts: Fire/Smoke/Explosion - \u00a3100; Accidental/Malicious Damage - \u00a3100; Theft - \u00a3100; Emergency Services - \u00a3100; Key Loss - \u00a3100; Contents claims - \u00a3100; EV Charging Points - none specified; Liability - \u00a3100. First amount payable on every claim for which the insured is responsible.",
+  "geographical_coverage": "United Kingdom (including Northern Ireland), excluding Channel Islands. Legal Expenses also covers Isle of Man and Channel Islands for legal advice.",
+  "age_restrictions": "Not explicitly stated in the document",
+  "pre_existing_conditions": "Not applicable for this property insurance type",
+  "cancellation_policy": "14-day cooling-off period from date of purchase or receipt of documents (whichever is later) for full refund unless claim made or incident likely to result in claim. After 14 days: no refund and all outstanding premiums become due. Insurer can cancel with 14 days' notice for valid reasons (non-payment, threatening behavior, failure to provide documents, non-compliance with terms). If insurer cancels, refund provided less charge for cover already provided (except fraud cases).",
+  "endorsements": [
+    {
+      "name": "Section 1a - Buildings - Insured Property",
+      "description": "For properties that are NOT flats/apartments. Covers full building structure including fixtures, fittings, garages, outbuildings, driveways, gardens, swimming pools, solar panels, wind turbines.",
+      "cost_impact": "Not specified",
+      "coverage_impact": "Provides higher limits than Section 1b: \u00a31,000,000 for fire/water escape vs \u00a350,000 for flats; \u00a380,000 for accidental/malicious damage vs \u00a350,000 for flats"
+    },
+    {
+      "name": "Section 1b - Buildings - Flat/Apartment Structures",
+      "description": "For flat/apartment properties. Covers fixtures, fittings, internal walls and doors (including entrance door from communal area). Does NOT cover external walls, roofs, or communal areas.",
+      "cost_impact": "Not specified",
+      "coverage_impact": "Lower coverage limits than Section 1a. Excludes external walls, roofs, and communal areas which are building management responsibility"
+    },
+    {
+      "name": "Section 2 - Contents",
+      "description": "Covers household items, valuables, electrical valuables and personal belongings inside the property, garages, outbuildings and gardens. Excludes motorised vehicles, charging points, documents, domestic pets.",
+      "cost_impact": "Not specified",
+      "coverage_impact": "Adds coverage for movable property. Sub-limits apply for valuables (\u00a320,000 total, \u00a35,000 per item)"
+    },
+    {
+      "name": "Section 3 - Loss of Income",
+      "description": "Covers loss of hosting income if property uninhabitable due to repairs from successful claim under Sections 1a, 1b or 2.",
+      "cost_impact": "Not specified",
+      "coverage_impact": "Up to \u00a310,000 per claim. Excludes first 14 complete days after insured event. Only covers bookings made before the insured event."
+    },
+    {
+      "name": "Section 4 - Electric and Hybrid Home Charging Units",
+      "description": "Covers damage to EV charging points at the insured premises caused by guests/visitors or hosting activity.",
+      "cost_impact": "Not specified",
+      "coverage_impact": "Up to \u00a31,500 per claim. Excludes incorrect use by host, improper installation/maintenance, non-compliance with regulations"
+    },
+    {
+      "name": "Section 5 - Your Liability to Others",
+      "description": "Covers legal liability for accidental property damage or bodily injury to third parties/guests/visitors arising from hosting activity including charging point use.",
+      "cost_impact": "Not specified",
+      "coverage_impact": "Up to \u00a35,000,000 including legal costs. Major exclusions: host/family/employees/permanent residents injury, professional business liability, certain animals, vehicles, pollution, food/drink provision, theft/damage to guest property, sporting equipment, swimming pools"
+    },
+    {
+      "name": "Section 6 - Legal Expenses",
+      "description": "Covers legal costs for contract disputes, repossession of guests, personal injury by guests/visitors, and tax enquiries related to hosting activity.",
+      "cost_impact": "Not specified",
+      "coverage_impact": "Up to \u00a350,000 per claim. Includes 24/7 legal and tax advice helpline. Must have reasonable prospects of success. Minimum \u00a3100 claim value. Covers: contract disputes, guest eviction, personal injury, HMRC tax enquiries"
+    }
+  ],
+  "claims_requirements": {
+    "notification_timeframe": "Must contact insurer as soon as reasonably possible and in any event no later than 30 days from discovery of incident or event that might lead to claim. For theft/malicious damage: must inform police immediately upon discovery.",
+    "required_documents": [
+      "Fully completed claim form",
+      "Policy number",
+      "Full details of loss or damage",
+      "Evidence of ownership (receipts, purchase documents, instruction manuals, guarantee cards, valuations, photographs)",
+      "Proof that guest/visitor damage occurred during Valid Booking",
+      "Letting history",
+      "Inventories",
+      "Pre and post letting inspection reports",
+      "Utility and/or local authority bills",
+      "Pre-purchase surveys, plans or deeds",
+      "Police crime reference number (for theft/malicious damage)",
+      "Estimates for replacement or repair",
+      "Booking confirmation/written agreement with guest",
+      "Evidence of deposit retained from guest",
+      "Proof of payment received from guest for the booking",
+      "For Legal Expenses: any claim forms, application notices, legal documents, correspondence from other parties"
+    ],
+    "process_steps": [
+      "Contact insurer within 30 days of discovery",
+      "For theft/malicious damage: report to police immediately and obtain crime reference number",
+      "Provide policy name and number when notifying claim",
+      "Complete claim form with full details",
+      "Take reasonable steps to minimize loss and prevent further damage",
+      "Do not dispose of damaged items or carry out permanent repairs until instructed",
+      "Do not abandon property to insurer",
+      "Obtain estimates for repair/replacement if requested",
+      "Allow insurer access to damaged property for inspection",
+      "Cooperate fully with insurer and provide requested information",
+      "For liability claims: send all claim forms, legal documents, correspondence immediately",
+      "For liability claims: do not admit/deny responsibility or make agreements with third parties",
+      "Retain full deposit paid by guest",
+      "Provide evidence guest has paid for the booking",
+      "For Legal Expenses: report claim as soon as aware of circumstances that could lead to claim"
+    ],
+    "evidence_requirements": "Proof of ownership via receipts; proof that guest/visitor damage occurred during Valid Booking (booking records, letting history, inspection reports); police crime reference number for theft/malicious damage; estimates for repairs; photographs of damage; deposit retention evidence; proof of guest payment; booking agreement documentation",
+    "claims_contact": "24 Hour Claims Line: 0800 032 7327; Online (non-urgent): www.prestigeunderwriting.co.uk/claims; Post: Prestige Underwriting, 4th Floor, Lanyon Building, North Derby Street, Belfast, BT15 3HL. For Legal Expenses claims: ARAG Tel: 0117 917 1698 or download claim form at www.arag.co.uk/newclaims"
+  },
+  "eligibility_criteria": {
+    "age_limits": "Not explicitly stated",
+    "medical_restrictions": "Host or permanent residents must never have been cautioned for, convicted of, or charged with any criminal offences (other than spent convictions and motoring offences)",
+    "occupational_restrictions": "Not specified",
+    "residency_requirements": "Must be UK or Isle of Man resident (excludes Channel Islands). Property must be located within UK (including Northern Ireland).",
+    "other_restrictions": [
+      "Must be property owner or have legal responsibility for the property",
+      "If tenant: must have written permission from landlord to act as host",
+      "No more than 2 property/host insurance claims in last 12 months",
+      "No more than 3 property/host insurance claims in last 5 years",
+      "Property must be well maintained in good repair and not undergoing renovation",
+      "Property not Grade 1 listed (England/Wales) or Grade A listed (Scotland/NI)",
+      "Property must not have thatched or part-thatched roof",
+      "Property rebuild value must be less than \u00a31,000,000",
+      "Maximum 20 people (10 adults/10 children) at property at any one time",
+      "Must have existing Property Policy in place",
+      "Must inform existing property insurer within 30 days about hosting activity",
+      "Must operate in compliance with local authority regulations and laws",
+      "Must agree to provide/permit access to letting history including Platform data",
+      "No building/renovation works during guest stays",
+      "Valid gas safety certificate required if applicable"
+    ]
+  },
+  "policy_definitions": {
+    "Valid Booking": "A property rental booking for a Guest for an agreed period of time",
+    "Guest": "(a) Person(s) including their family/travelling companions who the host has agreed may stay at the insured premises for agreed period as set out in written short let agreement; (b) Family or friends who the host has agreed may stay without charge",
+    "Visitor": "Person(s) present at insured premises due to invitation/actions of Guest and not included in the written short let agreement",
+    "Host": "Person(s) or company named on policy schedule who have agreed to allow Guests onto their property",
+    "Hosting Activity": "Any activity performed to fulfil host's legal obligations under terms of written short let agreement, or verbal agreement for family/friends, for agreed period at insured premises",
+    "Insured Premises": "The Insured Property or Flat/Apartment Structure owned by policyholder or for which they are legally responsible and let with landlord's permission by host and registered with insurer under policy",
+    "Contents": "Household items including valuables, electrical valuables and personal belongings inside insured premises (including garages, outbuildings, gardens) which policyholder legally owns or is responsible for. Excludes motorised vehicles, charging points, documents, domestic pets",
+    "Valuables": "Jewellery and watches, precious gems, stones, bullion, gold and silver plated articles, precious metals, furs, pictures, paintings, works of art",
+    "Electrical Valuables": "Tablets, laptops, phones, home computers, monitors, satellite decoders, audio and video equipment",
+    "Deposit": "Amount collected by host from guest intended to cover potential loss or damage caused by guest during their Valid Booking",
+    "Accidental Damage": "Accidental sudden and unintentional loss or destruction of or damage to the host's property",
+    "Malicious Damage": "Any act of intended damage to the insured premises or its contents",
+    "Theft": "Any act of fraud or dishonesty committed with clear intent of obtaining improper financial gain",
+    "Bodily Injury": "Death or physical injury caused by sudden and unexpected external visible event",
+    "Charging Point": "Hybrid or electric vehicle charging unit (including connections and cables) at insured premises",
+    "Loss of Income": "Amount of monetary benefit host would have received from guest for hosting activity excluding amounts payable to third parties such as fees or commission",
+    "Property Policy": "Property insurance policy including cover for damage when not used for hosting activity, covering perils such as: flood, storm, landslip, heave, subsidence, escape of water, fire, smoke, theft, together with liability to others cover",
+    "Reasonable Costs": "Costs for goods and services which are competitive in the relevant marketplace",
+    "Excess": "The first amount of each and every claim for which policyholder is responsible",
+    "Family": "Husband, wife, partner, civil partner (person living with them as though married), children (including adopted and foster children), and any other immediate family",
+    "Period of Insurance": "The period shown on policy schedule as Period of Insurance",
+    "Platform": "Any website which connects the guest with the host",
+    "Communicable Disease": "Any disease transmissible by any substance/agent from any organism to another where: (1) substance/agent includes virus, bacterium, parasite or other organism or variation thereof; (2) transmission method includes airborne, bodily fluid, surface/object, solid/liquid/gas, or between organisms; (3) disease can cause/threaten damage to human health/welfare or property. Includes Covid-19, any coronavirus strain, and any pandemic or non-pandemic disease"
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "Loss of Income: 14 complete days after insured event (no cover for first 14 days)",
+    "notification_deadlines": "Claims must be reported within 30 days of discovery. Theft/malicious damage must be reported to police immediately upon discovery",
+    "claims_deadlines": "Must report within 30 days of discovery. Later reporting may result in claim rejection or reduced settlement",
+    "cooling_off_period": "14 days from date of purchase or receipt of policy documents (whichever is later). Full refund unless claim made or incident likely to result in claim occurred"
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "Pikl Insurance Services Ltd is authorised and regulated by the Financial Conduct Authority (FRN 773457)",
+      "Prestige Underwriting Services Limited is authorised and regulated by FCA (FRN 307105)",
+      "ARAG plc is authorised by FCA",
+      "Aviva Insurance Limited is authorised by PRA and regulated by FCA and PRA (FRN 202153)",
+      "Financial Services register can be checked at https://register.fca.org.uk/",
+      "Policy arranged by Pikl Insurance Services Ltd and underwritten by Prestige Underwriting Services Limited on behalf of Aviva Insurance Limited (except Legal Expenses by ARAG)",
+      "Pikl Insurance Services Limited are appointed Agents of Prestige Underwriting Services Limited and ARAG plc"
+    ],
+    "ipid_key_info": "Not included in this document (would be separate IPID document)",
+    "fair_treatment_obligations": "Must take reasonable care to provide accurate and complete answers to questions; must answer honestly and to best of knowledge; providing fraudulent or incorrect information could affect price, result in cancellation, or claims rejection; must inform insurer of changes to information provided",
+    "complaints_process": "For sale/service complaints: contact Pikl Insurance Services (complaints@pikl.com, Tel 0800 254 5272, Suite B, 2nd Floor, The Atrium, St Georges Street, Norwich, NR3 1AB). For claims handling complaints (except Legal Expenses): contact department dealing with claim. For Legal Expenses complaints: contact Customer Relations Department, ARAG plc (customerrelations@arag.co.uk, Tel +44 (0)117 917 1561, Unit 4a, Greenway Court, Bedwas, Caerphilly, CF83 8DW). If unresolved within 8 weeks or unsatisfied with response: refer to Financial Ombudsman Service within 6 months of Final Response Letter (0800 023 4567, www.financial-ombudsman.org.uk, Exchange Tower, London, E14 9SR). Following complaints procedure does not affect legal rights.",
+    "regulatory_warnings": [
+      "This policy is designed to work alongside existing Property Policy as additional insurance",
+      "Must have valid annual Property Policy in place",
+      "If fraudulent claim made: insurer not liable to pay claim; may recover sums already paid; may treat contract as terminated from time of fraudulent act; will not refund premiums; information may be shared with police and other insurers",
+      "No claim paid until premium monies owing are paid",
+      "Claims may be rejected or payment reduced if policy conditions not met",
+      "Insurer can cancel policy with 14 days notice for valid reasons",
+      "Policy or sections may be underwritten by more than one insurer - each insurer solely responsible for their own percentage"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Do I need another property insurance policy to have this cover?",
+      "answer": "Yes, you must have a valid annual Property Policy in place during the period of insurance. This policy is designed to work alongside your existing property policy as additional insurance for hosting activities. You must inform your property policy provider within 30 days about hosting activity.",
+      "section_reference": "Eligibility section and General Policy Conditions"
+    },
+    {
+      "question": "What is a Valid Booking and why is it important?",
+      "answer": "A Valid Booking is a property rental booking for a guest for an agreed period of time. This is critical because cover must be in place before guests arrive, and at the time of any loss/claim the property must be subject to a Valid Booking. Without a Valid Booking, claims will not be covered.",
+      "section_reference": "Definitions and General Claims Conditions"
+    },
+    {
+      "question": "Will my claim be covered if the guest paid a deposit?",
+      "answer": "Claims are not covered where the deposit paid by the guest is greater than or equal to the value of the claim. You must have retained the full deposit paid by the guest. If the deposit exceeds the policy excess, the amount exceeding the excess will be deducted from the claim settlement.",
+      "section_reference": "General Claims Exclusions and How much we will pay"
+    },
+    {
+      "question": "What do I do if a guest steals something or causes malicious damage?",
+      "answer": "You must immediately report the theft or malicious damage to the police and obtain a crime reference number. Then report the claim to the insurer within 30 days. Claims for theft or malicious damage without a police report and crime reference number will not be covered.",
+      "section_reference": "General Claims Conditions and What is not Covered sections"
+    },
+    {
+      "question": "Are there limits on valuable items?",
+      "answer": "Yes. Individual valuables and electrical valuables are limited to \u00a35,000 per item. The total for all valuables and electrical valuables is limited to \u00a320,000 per claim. Valuables must be kept in a locked safe or locked room inaccessible to guests, or theft claims won't be covered.",
+      "section_reference": "Section 2 - Contents, What is not Covered"
+    },
+    {
+      "question": "Does this cover COVID-19 related claims?",
+      "answer": "No. The policy explicitly excludes any loss, damage, claim, liability, cost or expense arising from or relating to Communicable Disease, which is specifically defined to include Covid-19, any other type or strain of coronavirus, and any other pandemic.",
+      "section_reference": "General Policy Exclusions - Communicable Disease"
+    },
+    {
+      "question": "What if my property is uninhabitable after a claim - will this policy help?",
+      "answer": "Yes. The policy will pay for reasonable costs of alternative accommodation for you and your family (up to \u00a3200/day, max \u00a320,000), kennelling of your animals (up to \u00a350/day, max \u00a35,000), and alternative accommodation for guests who were staying (up to \u00a3150/day, max \u00a35,000). It will also cover cancellation charges up to \u00a3200 for subsequent bookings.",
+      "section_reference": "Section 1a/1b - Buildings, What is Covered"
+    },
+    {
+      "question": "Will I be compensated for lost rental income?",
+      "answer": "Yes, under Section 3 if the property is uninhabitable due to repairs following a successful claim. However, there's a 14-day waiting period (no cover for first 14 complete days), and only bookings made before the insured event are covered, up to \u00a310,000 total.",
+      "section_reference": "Section 3 - Loss of income following a claim"
+    },
+    {
+      "question": "What's the difference between the buildings cover for houses versus flats?",
+      "answer": "Section 1a covers Insured Property (houses) with higher limits: \u00a31m for fire/water, \u00a380k for accidental/malicious damage. Section 1b covers Flat/Apartment Structures with lower limits: \u00a350k for fire/water and accidental/malicious damage. Importantly, for flats, external walls, roofs, and communal areas are NOT covered.",
+      "section_reference": "Section 1a vs Section 1b - Buildings"
+    },
+    {
+      "question": "Am I covered if a guest injures themselves at my property?",
+      "answer": "Yes, Section 5 provides liability cover up to \u00a35,000,000 for accidental bodily injury to guests, visitors or third parties arising from hosting activity. However, there are significant exclusions including injury from certain animals, vehicles, swimming pools, food/drink provision, and criminal/violent acts.",
+      "section_reference": "Section 5 - Your Liability to Others"
+    },
+    {
+      "question": "What if a guest damages my electric vehicle charging point?",
+      "answer": "Section 4 covers damage to charging points caused by guests/visitors or hosting activity up to \u00a31,500. However, it doesn't cover damage from incorrect use by you, improper installation/maintenance, or non-compliance with regulations.",
+      "section_reference": "Section 4 - Electric and Hybrid Home Charging Units"
+    },
+    {
+      "question": "Can I cancel this policy and get a refund?",
+      "answer": "You have 14 days from purchase or receipt of documents (whichever is later) to cancel for a full refund, unless you've made a claim or had an incident. After 14 days, there's no refund and all outstanding premiums become due.",
+      "section_reference": "General Policy Conditions - Cancellation"
+    },
+    {
+      "question": "What is NOT covered under this policy?",
+      "answer": "Major exclusions include: cosmetic damage; wear and tear; damage by domestic pets or vermin; damage during professional cleaning; damage you cause; renovations; sewage blockages; communicable disease; terrorism; war; computer viruses; claims without Valid Booking; claims where deposit equals/exceeds claim value; claims over specified limits; claims not reported to police (theft/malicious damage).",
+      "section_reference": "General Policy Exclusions and section-specific What is not Covered"
+    },
+    {
+      "question": "Who can I contact for legal advice about my hosting activity?",
+      "answer": "The policy includes a 24/7 Legal and Tax Advice helpline on 0344 571 7978. Legal advice is available 24/7, tax advice 9am-5pm weekdays. This covers personal legal matters including hosting activity within UK, Isle of Man, Channel Islands and EU law, plus personal tax matters within UK.",
+      "section_reference": "Section 6 - Legal Expenses, Helplines"
+    },
+    {
+      "question": "How quickly do I need to report a claim?",
+      "answer": "You must contact the insurer as soon as reasonably possible and in any event no later than 30 days from discovery of any incident or event that might lead to a claim. For theft or malicious damage, you must report to police immediately. Late reporting may result in claim rejection or reduced settlement.",
+      "section_reference": "How to Make a Claim and General Claims Conditions"
+    }
+  ],
+  "source_file": "Property Host Insurance - 30 Day Property PW (PHOHA_POL_006_21.10.25).pdf",
+  "processed_date": "1762788744.0"
+}

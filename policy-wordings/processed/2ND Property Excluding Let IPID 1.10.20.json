@@ -1,0 +1,144 @@
+{
+  "insurer_name": "Financial & Legal Insurance Company Limited (underwriter), administered by Lexelle Limited (FCA Registration Number 312782)",
+  "policy_type": "Legal Expenses Insurance - Second Property (Excluding Let)",
+  "policy_version": "Not specified in document",
+  "coverage_summary": "Legal expenses insurance that reimburses policyholders for legal costs up to \u00a350,000 for insured incidents related to a Second Property (including Static Caravans and Park Homes) which are not let out. Covers contract disputes and property protection claims.",
+  "key_inclusions": [
+    "24x7 Free Legal Advice Line for personal legal matters covered under the policy sections",
+    "Contract Disputes - negotiation of legal rights from disputes arising from agreements including buying, selling or hiring goods or services",
+    "Property Protection - civil actions relating to the land, building or contents of the 2nd property"
+  ],
+  "key_exclusions": [
+    "Contract disputes relating to purchase or sale of land or buildings other than the 2nd property",
+    "Contracts relating to profession, business or employment (other than letting out 2nd property)",
+    "Leases, licences or tenancies of land or buildings including the 2nd property",
+    "Construction work/building or home extension other than the 2nd property",
+    "Disputes relating to ownership of land including boundary disputes other than the 2nd property",
+    "Claims relating to a building or land other than the 2nd property",
+    "Claims relating to motorised vehicles or mining subsidence",
+    "Ownership disputes including boundary disputes at the 2nd property that predate the period of insurance or within first 180 days of cover"
+  ],
+  "coverage_limits": {
+    "maximum_per_policy_period": "\u00a350,000 maximum payout during the Duration of Cover"
+  },
+  "sub_limits": {
+    "property_protection_excess": "First \u00a3250 of legal costs incurred in accepted claims relating to trespass or nuisance"
+  },
+  "special_conditions": [
+    "Policy expires one calendar year from date of issue",
+    "Claims must be pursued within jurisdiction of courts of England & Wales, Scotland and Northern Ireland",
+    "Must use representative or solicitor nominated and appointed by insurer prior to any proceedings",
+    "Claims must occur within the policy period",
+    "180-day waiting period for ownership disputes including boundary disputes at the 2nd property"
+  ],
+  "excess_deductible": "\u00a3250 excess applies to legal costs for accepted claims relating to trespass or nuisance under Property Protection",
+  "geographical_coverage": "United Kingdom of Great Britain and Northern Ireland. Claims must be pursued within jurisdiction of courts of England & Wales, Scotland and Northern Ireland",
+  "age_restrictions": "Not specified in document",
+  "pre_existing_conditions": "Ownership disputes including boundary disputes at the 2nd property that predate the period of insurance are excluded. 180-day waiting period applies to such disputes from start of cover.",
+  "cancellation_policy": "14-day cooling off period from date of purchase or receipt of policy documentation (whichever is later) - full premium refund provided no claims made or pending. After 14 days, no refund of premium. Contact organisation from whom policy was purchased to cancel.",
+  "endorsements": [],
+  "claims_requirements": {
+    "notification_timeframe": "Must inform insurer as soon as possible if information given is inaccurate or has changed. Specific claims notification timeframe not detailed in this document.",
+    "required_documents": [
+      "Not specified in this summary document - refer to full policy documentation"
+    ],
+    "process_steps": [
+      "Must use representative or solicitor nominated and appointed by insurer prior to any proceedings",
+      "Refer to full policy documentation for complete claims process"
+    ],
+    "evidence_requirements": "Not specified in this summary document - refer to full policy documentation",
+    "claims_contact": "Not specified in this summary document - refer to full policy documentation or policy schedule"
+  },
+  "eligibility_criteria": {
+    "age_limits": "Not specified in document",
+    "medical_restrictions": "Not applicable to this policy type",
+    "occupational_restrictions": "Not specified in document",
+    "residency_requirements": "Coverage is within the United Kingdom of Great Britain and Northern Ireland",
+    "other_restrictions": [
+      "Must own a second property (including Static Caravans and Park Homes)",
+      "Second property must not be let out",
+      "Policy specifically excludes properties used for business letting purposes"
+    ]
+  },
+  "policy_definitions": {
+    "2nd property": "The insured's second property including Static Caravans and Park Homes which are not let",
+    "Duration of Cover": "One calendar year from the date the policy was issued",
+    "Property Protection": "Civil actions relating to the land, building or contents of the 2nd property",
+    "Contract Disputes": "Disputes arising from agreements including buying, selling or hiring goods or services"
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "180 days waiting period for ownership disputes including boundary disputes at the 2nd property from start of cover",
+    "notification_deadlines": "Must inform insurer as soon as possible if information provided is inaccurate or has changed",
+    "claims_deadlines": "Claims must occur within the policy period",
+    "cooling_off_period": "14 days from date of purchase or receipt of policy documentation (whichever is later) for full premium refund, provided no claims made or pending"
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "Lexelle Limited is authorised and regulated by the Financial Conduct Authority (FCA Registration Number 312782)",
+      "Financial & Legal Insurance Company Limited is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and Prudential Regulation Authority (FCA Registration Number 202915)",
+      "This is an Insurance Product Information Document (IPID) providing summary of key information",
+      "Complete pre-contractual and contractual information on the product is provided in full policy documentation"
+    ],
+    "ipid_key_info": "This document is an IPID providing summary key information. It includes what is insured, what is not insured, restrictions on cover, geographical coverage, obligations, payment details, coverage period, and cancellation policy.",
+    "fair_treatment_obligations": "Customers must provide full and accurate information to all questions asked. Answers must be true to best of knowledge and belief. Must inform insurer if information becomes inaccurate or changes. Failure may invalidate policy and claims may not be paid.",
+    "complaints_process": "Not specified in this summary document - refer to full policy documentation",
+    "regulatory_warnings": [
+      "Failure to provide accurate information or notify of changes may invalidate policy and claims may not be paid",
+      "This document provides summary only - complete information is in full policy documentation"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "What is the maximum amount I can claim under this policy?",
+      "answer": "The maximum payout is \u00a350,000 during the Duration of Cover (one calendar year)",
+      "section_reference": "Are there any restrictions on cover?"
+    },
+    {
+      "question": "Does this policy cover my rental property?",
+      "answer": "No, this policy specifically covers second properties that are NOT let out. Rental/let properties are excluded.",
+      "section_reference": "What is this type of Insurance?"
+    },
+    {
+      "question": "Can I get a refund if I cancel after 2 weeks?",
+      "answer": "No, if you cancel after the 14-day cooling off period, no refund of premium will be due.",
+      "section_reference": "How do I cancel the contract?"
+    },
+    {
+      "question": "Are boundary disputes covered?",
+      "answer": "Boundary disputes at your 2nd property are covered, but only after a 180-day waiting period from the start of cover, and pre-existing disputes are excluded.",
+      "section_reference": "What is not insured? - Property Protection"
+    },
+    {
+      "question": "Can I use my own solicitor?",
+      "answer": "No, prior to any proceedings you must use the representative or solicitor nominated and appointed by the insurer.",
+      "section_reference": "Are there any restrictions on cover?"
+    },
+    {
+      "question": "Is there an excess on claims?",
+      "answer": "Yes, there is a \u00a3250 excess on legal costs for accepted claims relating to trespass or nuisance under Property Protection.",
+      "section_reference": "What is not insured? - Property Protection"
+    },
+    {
+      "question": "Does this cover disputes about building work on my second property?",
+      "answer": "Construction work/building or home extension disputes other than your 2nd property are excluded. Coverage for the 2nd property itself may apply under Property Protection.",
+      "section_reference": "What is not insured? - Contract Disputes"
+    },
+    {
+      "question": "What types of properties are covered?",
+      "answer": "Second properties including Static Caravans and Park Homes which are not let out.",
+      "section_reference": "What is this type of Insurance?"
+    },
+    {
+      "question": "Can I make a claim for something that happened before I bought the policy?",
+      "answer": "No, claims must occur within the policy period. Additionally, ownership disputes including boundary disputes that predate the insurance or occur within the first 180 days are excluded.",
+      "section_reference": "What is not insured? and Are there any restrictions on cover?"
+    },
+    {
+      "question": "Is the legal advice line free?",
+      "answer": "Yes, there is a 24x7 Free Legal Advice Line for personal legal matters falling under the sections of cover provided by the policy.",
+      "section_reference": "What is insured?"
+    }
+  ],
+  "source_file": "2ND Property Excluding Let IPID 1.10.20.pdf",
+  "processed_date": "1762788744.0"
+}

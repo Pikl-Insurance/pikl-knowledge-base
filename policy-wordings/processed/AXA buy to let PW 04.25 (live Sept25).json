@@ -1,0 +1,314 @@
+{
+  "insurer_name": "AXA Insurance UK plc",
+  "policy_type": "Landlord Buildings and Contents Insurance (Buy to Let)",
+  "policy_version": "April 2025",
+  "coverage_summary": "Insurance policy designed for landlords covering buildings and contents of residential rental properties. Provides protection against various risks including fire, flood, theft, malicious damage, and legal liabilities. Includes optional accidental damage cover and legal expenses insurance for landlord-related legal matters.",
+  "key_inclusions": [
+    "Fire, smoke, explosion, lightning or earthquake damage",
+    "Storm or flood damage",
+    "Riot and civil commotion",
+    "Malicious damage",
+    "Subsidence, ground heave or landslip",
+    "Escape of water or frost damage",
+    "Escape of oil",
+    "Theft or attempted theft",
+    "Collision by vehicles, aircraft or animals",
+    "Falling trees or branches",
+    "Glass and sanitaryware breakage",
+    "Property owner's liability up to \u00a32,000,000",
+    "Public liability up to \u00a32,000,000",
+    "Employer's liability up to \u00a310,000,000",
+    "Loss of rent/alternative accommodation costs (up to 20% of buildings sum insured)",
+    "Emergency evacuation alternative accommodation (up to \u00a32,500)",
+    "Debris removal and building fees (up to 10% of buildings sum insured)",
+    "Trace and access costs (up to \u00a35,000)",
+    "Keys and locks replacement (up to \u00a31,000)",
+    "Domestic heating oil loss (up to \u00a3500)",
+    "Metered water loss (up to \u00a32,500)",
+    "Carpets, curtains and white goods (up to \u00a35,000)",
+    "Contents in garden (up to \u00a3250)",
+    "Contents in garages and outbuildings (up to \u00a31,000)",
+    "Entertainment equipment accidental damage",
+    "Mirrors and glass accidental damage",
+    "Legal expenses cover (up to \u00a350,000)",
+    "24/7 legal helpline",
+    "Landlord's legal document service",
+    "Inflation protection on sums insured"
+  ],
+  "key_exclusions": [
+    "Damage while property unoccupied for more than 60 days",
+    "Gradual damage, deterioration, wear and tear",
+    "Maintenance costs and normal upkeep",
+    "Mechanical or electrical breakdown",
+    "Deliberate or malicious damage by the policyholder",
+    "Damage from faulty workmanship, defective design or defective materials",
+    "Damage by domestic animals (for most sections)",
+    "Damage to property in the open (storm/flood)",
+    "Damage by frost (except escape of water)",
+    "Settlement or shrinkage of buildings",
+    "Coastal or river bank erosion",
+    "Motor vehicles and craft",
+    "Computers and computer equipment (contents)",
+    "Jewellery, watches, furs, paintings, collections",
+    "Money, cheques, tickets, vouchers",
+    "Personal items and clothing",
+    "Tenant's property",
+    "Documents",
+    "Living creatures",
+    "Damage caused by failure of sealant or grout",
+    "Damage by vermin, insects, rot or fungus",
+    "Loss or damage arising from construction, structural alteration, repair or demolition",
+    "Pollution and contamination (unless sudden and unforeseen)",
+    "War, terrorism, nuclear risks",
+    "Sonic bangs",
+    "Riot/civil commotion outside UK, Isle of Man, Channel Islands",
+    "Reduction in market value following repair",
+    "Confiscation by authorities",
+    "Virtual currencies",
+    "Cyber attacks (for legal expenses section)",
+    "Planning law disputes",
+    "Defamation claims",
+    "Divorce or family matters",
+    "Business ventures unrelated to landlord activities",
+    "Disputes with managing agents or mortgage lenders",
+    "Claims from vehicle-related incidents requiring motor insurance",
+    "Damage from sinks/baths overflowing due to taps left on (unless accidental damage cover purchased)"
+  ],
+  "coverage_limits": {
+    "buildings_sum_insured": "As shown in schedule - covers causes 1-13 and cover 24",
+    "landlords_contents_sum_insured": "As shown in schedule per private residence - covers causes 1-11",
+    "property_owners_liability": "\u00a32,000,000 per claim or series of claims from one event",
+    "public_liability": "\u00a32,000,000 per claim or series of claims from one event",
+    "employers_liability": "\u00a310,000,000 per claim or series of claims from one event",
+    "legal_expenses": "\u00a350,000 per insured incident"
+  },
+  "sub_limits": {
+    "loss_of_rent_alternative_accommodation": "Up to 20% of buildings sum insured",
+    "emergency_evacuation_accommodation": "\u00a32,500 per claim",
+    "debris_removal_and_building_fees": "Up to 10% of buildings sum insured",
+    "trace_and_access": "\u00a35,000 per claim",
+    "keys_and_locks": "\u00a31,000 per claim",
+    "domestic_heating_oil": "\u00a3500 per claim",
+    "metered_water": "\u00a32,500 per claim",
+    "lawns_and_gardens": "\u00a31,000 per claim",
+    "carpets_curtains_white_goods": "\u00a35,000 per claim (if Buildings cover selected)",
+    "contents_in_garden": "\u00a3250 per claim",
+    "contents_in_garages_outbuildings": "\u00a31,000 per claim for landlord's contents accidental damage",
+    "matching_sets_undamaged_items": "Up to 50% of cost of undamaged companion pieces"
+  },
+  "special_conditions": [
+    "Property must be let as private residential accommodation only",
+    "Property must not be unoccupied for more than 60 consecutive days",
+    "For unoccupied properties 7+ days between tenancies: gas, electricity and water must be turned off and system drained OR heating maintained at 10\u00b0C minimum AND property visited every 7 days",
+    "Buildings and contents must be maintained in good repair",
+    "Must notify AXA if full rebuilding cost exceeds buildings sum insured",
+    "Must notify AXA if full replacement value of contents exceeds contents sum insured",
+    "Passenger lifts must have maintenance contracts with safety recommendations carried out immediately",
+    "Must take reasonable precautions to avoid injury, loss or damage",
+    "For subsidence cover: nuisance or trespass must have commenced at least 180 days after policy purchase",
+    "Must comply with Gas Safety Regulations 1994, Furniture and Furnishings Fire Safety 1993, and Electrical Equipment Safety Regulations 1994",
+    "For legal expenses: must have 51% or higher prospect of success",
+    "Legal expenses claims must be reported within 180 days of insured incident",
+    "Underinsurance applies proportionately if sums insured are inadequate"
+  ],
+  "excess_deductible": "Policy excess amounts are shown in the schedule and apply to each claim. A separate subsidence excess applies to subsidence, heave and landslip claims. No excess applies to liability sections.",
+  "geographical_coverage": "United Kingdom, Isle of Man, and Channel Islands. Legal expenses proceedings must take place in the United Kingdom.",
+  "age_restrictions": "Not specifically mentioned for this landlord policy type",
+  "pre_existing_conditions": "Not applicable for property insurance. However, damage or incidents that existed or you should have known about before purchasing the policy are not covered.",
+  "cancellation_policy": "Statutory 14-day cooling off period from receipt of policy documents. Full refund if cover not started, pro-rata refund if started (unless claims made). Can cancel anytime after cooling off period with pro-rata refund if no claims and refund exceeds \u00a315. If paying by instalments and claim made, must continue payments until renewal or outstanding amount deducted from claim. AXA can cancel with 14 days written notice for valid reasons including non-payment, misrepresentation, fraud, or threatening/abusive behavior.",
+  "endorsements": [
+    {
+      "name": "Buildings Accidental Damage",
+      "description": "Extends buildings cover to include accidental damage to the buildings structure beyond the specific causes listed in standard cover. Covers sudden, unexpected damage from external force.",
+      "cost_impact": "Additional premium applies - shown in schedule if selected",
+      "coverage_impact": "Adds broad accidental damage protection but excludes: frost damage, damage during construction/alteration, damage by vermin/insects, water ingress other than from specified sources, settlement/shrinkage, damage by domestic animals, mechanical/electrical breakdown, damage while unoccupied, and damage specifically covered elsewhere"
+    },
+    {
+      "name": "Landlord's Contents Accidental Damage",
+      "description": "Extends contents cover to include accidental damage to landlord's contents and furnishings. Also covers up to \u00a31,000 for contents in garages/outbuildings.",
+      "cost_impact": "Additional premium applies - shown in schedule if selected",
+      "coverage_impact": "Provides broad accidental damage cover but excludes: mechanical/electrical breakdown, damage during cleaning/maintenance/repair, water damage other than specified perils, damage by domestic animals or vermin, depreciation, damage while unoccupied"
+    }
+  ],
+  "claims_requirements": {
+    "notification_timeframe": "As soon as possible. Legal expenses claims must be reported within 180 days of the insured incident.",
+    "required_documents": [
+      "Completed claim form",
+      "Policy number",
+      "Details of the loss or damage",
+      "Police crime reference number (for theft, malicious damage, or lost property)",
+      "Original purchase receipts for contents claims",
+      "Invoices and bank/credit card statements",
+      "Instruction booklets and photographs of damaged items",
+      "Proof of authenticity for valuable items",
+      "Utility bills",
+      "Pre-purchase surveys, plans and deeds (for building claims)",
+      "Estimates for replacement or repair",
+      "Written details within 30 days if requested",
+      "Writs, summons, letters of claim (for liability claims)"
+    ],
+    "process_steps": [
+      "Contact claims team immediately on 0330 024 6842",
+      "Have policy number and loss details ready",
+      "For emergencies: take steps to prevent further damage (turn off utilities)",
+      "Can call 24-hour emergency helpline 0370 646 4952 (you pay contractor costs)",
+      "DO NOT dispose of damaged items before inspection",
+      "Complete and return claim form with supporting documents",
+      "AXA/approved supplier/loss adjuster may inspect damage",
+      "Provide estimates if requested",
+      "AXA will assess claim and advise on settlement approach",
+      "For liability claims: do not admit liability or make agreements with third parties",
+      "For legal expenses: call legal helpline 0330 024 8694, complete claim form within 5 days"
+    ],
+    "evidence_requirements": "Police reports for theft/malicious damage, receipts proving ownership and value, photographs of damage, repair estimates from contractors, evidence of maintenance for subsidence claims, evidence of compliance with safety regulations for criminal prosecution defence",
+    "claims_contact": "Buildings and Landlords contents claims: 0330 024 6842. Legal expenses claims: 0330 024 8694. Emergency helpline: 0370 646 4952. Legal helpline: 0330 024 8694 (24/7)"
+  },
+  "eligibility_criteria": {
+    "age_limits": "Not specified for landlord insurance",
+    "medical_restrictions": "Not applicable for property insurance",
+    "occupational_restrictions": "Policy designed specifically for landlords letting residential property. Not for owner-occupiers. Property must be let for private residential purposes only.",
+    "residency_requirements": "Policyholder must be the landlord as defined in the tenancy agreement. Property must be in UK, Isle of Man or Channel Islands.",
+    "other_restrictions": [
+      "Property must not be unoccupied for more than 60 consecutive days",
+      "Property must be let as private residence (not commercial use)",
+      "Property must be maintained in good repair",
+      "No cover for properties with more than the specified number of units (check schedule)",
+      "Excludes properties used for holiday lets or short-term rentals (policy is for buy-to-let residential tenancies)",
+      "Must not have been declared bankrupt or subject to bankruptcy proceedings (must notify if this changes)",
+      "Must not have police cautions or convictions other than driving offences (must notify if this changes)"
+    ]
+  },
+  "policy_definitions": {
+    "accidental_damage": "Sudden, unexpected damage caused by an external force, and not caused deliberately",
+    "buildings": "The structure including fixtures and fittings, plus oil/gas tanks, cesspits, pools, walls, fences, paths, drives, patios, garages, outbuildings, external lighting, solar heating, alarm systems. Excludes carports, garages and outbuildings for the definition of private residence. Also includes laminated/vinyl flooring that cannot be removed and re-used.",
+    "business": "Ownership of the buildings belonging to the private residence(s) shown in the schedule",
+    "employee": "Any person employed under contract of service to carry out domestic duties associated with the business",
+    "excess": "The amount you pay as the first part of each and every claim",
+    "flood": "An invasion of the property by a large volume of water caused by rapid build-up or sudden release of water from outside the buildings",
+    "heave": "Upward or sideways movement of the site on which buildings are situated (not settlement) caused by swelling of the ground",
+    "landlords_contents": "Furniture, carpets, furnishings and household goods belonging to you or for which you are legally responsible, contained within the private residence. EXCLUDES: vehicles/craft, tenant's property, living creatures, documents, personal clothing/items, jewellery, money/vouchers/tickets, computers, property used for trade other than the landlord business",
+    "landslip": "Sudden movement of soil on a slope or gradual creep of a slope over time (not settlement)",
+    "outbuildings": "Sheds, greenhouses, summer houses and other buildings (not caravans/mobile homes) not forming part of main structure, used for domestic purposes",
+    "period_of_insurance": "The dates shown in your policy schedule",
+    "policy": "Your policy booklet and most recent schedule, including any endorsements",
+    "private_residence": "A self-contained private dwelling house, maisonette or flat within a block as shown in schedule. Does NOT include car ports, garages and outbuildings for this definition.",
+    "settlement": "The natural movement of new properties in months/years after they are built",
+    "storm": "Period of violent weather defined as: wind speeds with gusts of at least 48 knots (55mph) OR torrential rainfall at least 25mm per hour OR snow depth of at least 30cm in 24 hours OR hail of intensity causing damage to hard surfaces or breaking glass (equivalent to storm force 10 on Beaufort Scale)",
+    "subsidence": "Downward movement of the site on which buildings are situated by a cause other than settlement or the weight of the buildings themselves",
+    "unoccupied": "Not lived in for 60 or more consecutive days",
+    "vehicles_or_craft": "Mechanically/electrically propelled vehicles including plant machinery, motorcycles, e-scooters, quad bikes; aircraft, drones, boats, hovercraft, sailboards; trailers, caravans, horse boxes; and their parts, accessories, keys. Lawnmowers for domestic use within property boundaries are NOT included in this definition.",
+    "vermin": "Rats, mice, squirrels, owls, pigeons, foxes, bees, wasps or hornets",
+    "you/your": "The person or people named in schedule as policyholder and defined in tenancy agreement as the Landlord",
+    "we/us/our": "AXA Insurance UK plc (except for Legal Expenses section where it means AmTrust Specialty Limited)"
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "Legal expenses: nuisance or trespass must have commenced at least 180 days after policy purchase",
+    "notification_deadlines": "Claims must be reported as soon as possible. Legal expenses claims must be reported within 180 days of the insured incident. Police must be notified urgently if property stolen or malicious damage suspected.",
+    "claims_deadlines": "Written details must be provided within 30 days if requested by AXA. Legal expenses claims must be notified within 180 days of insured incident.",
+    "cooling_off_period": "14 days from receipt of policy documents. Full refund if cover not started, pro-rata refund (less claims) if cover started.",
+    "unoccupancy_requirements": "If property unoccupied 7+ days between tenancies: must turn off utilities and drain system OR maintain 10\u00b0C heating AND visit every 7 days. Cover ceases after 60 consecutive days unoccupied.",
+    "changes_notification": "Must notify AXA as soon as reasonably possible if circumstances change during period of insurance"
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "AXA Insurance UK plc is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and Prudential Regulation Authority under Financial Services Register number 202312",
+      "AmTrust Specialty Limited (Legal Expenses insurer) is authorised by the Prudential Regulation Authority and regulated by the FCA and PRA, financial services number: 202189",
+      "Arc Legal Assistance Limited (Legal Expenses administrator) details provided",
+      "This can be checked on the Financial Services Register at www.fca.org.uk/register or by calling FCA on 0800 111 6768",
+      "Telephone calls may be monitored and recorded",
+      "Law of England and Wales applies unless agreed otherwise",
+      "Contracts (Rights of Third Parties) Act 1999 disclosure included"
+    ],
+    "ipid_key_info": "Not included in this policy booklet document but would be provided separately as Insurance Product Information Document",
+    "fair_treatment_obligations": "Policy includes clear explanations of cover, exclusions, claims process, and customer rights. Information provided on treating customers fairly including vulnerable customers and accessibility (Braille, large print, audio versions available).",
+    "complaints_process": "Complaints should be addressed to: Head of Complaints, AXA Insurance, PO Box 2796, Bolton BL6 9LZ. Phone: 0330 024 5518. Email: customercare@axa-insurance.co.uk. AXA will acknowledge promptly, investigate thoroughly, and keep customer informed. If unresolved, can refer to Financial Ombudsman Service within 6 months of AXA's final response. FOS contact: 0300 123 9123 or 0800 023 4567, complaint.info@financial-ombudsman.org.uk. For Legal Expenses complaints: Arc Legal Assistance Ltd, PO Box 8921, Colchester CO4 5YD, 01206 615000.",
+    "regulatory_warnings": [
+      "Sanction limitation and exclusion clause: No cover provided if doing so would expose insurer to UN, EU, UK or US sanctions",
+      "Financial Services Compensation Scheme (FSCS) disclosure: AXA and AmTrust are FSCS members. Customers may be entitled to compensation if insurer cannot meet obligations. Details at www.fscs.org.uk or 0800 678 1100",
+      "Data Protection Notice provided explaining how personal information is collected, used, shared and protected under UK data protection legislation",
+      "Right to cancel within 14-day cooling off period",
+      "Duty to provide accurate and complete information when taking out, renewing or making changes to policy",
+      "Must notify changes in circumstances",
+      "Fraud warning: If fraudulent claim made, policy may be voided from date of fraud, no payment for fraudulent claims, may recover fraudulent claims already paid, may not return premium, may inform police"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "What happens if my property is empty between tenants?",
+      "answer": "If the property is not lived in for 7 consecutive days or more between tenancies, you must: (a) turn off gas, electricity and water at the mains and drain the water/heating system, OR (b) maintain the property at a temperature of at least 10\u00b0C, AND (c) the premises must be visited at least once every 7 days. Cover completely ceases after the property has been unoccupied for more than 60 consecutive days.",
+      "section_reference": "General Conditions, section 7 'Unoccupancy between tenancy agreements' and Definition of 'Unoccupied'"
+    },
+    {
+      "question": "Am I covered if my tenant deliberately damages the property?",
+      "answer": "Yes, malicious damage is covered under Cause 4 (Buildings) and Cause 4 (Landlord's Contents), subject to the policy excess. However, there is no cover while the property is unoccupied, and malicious damage caused by you (the policyholder) is excluded.",
+      "section_reference": "Buildings Cause 4 - Malicious people; Landlord's Contents Cause 4 - Malicious people"
+    },
+    {
+      "question": "What is the difference between Buildings standard cover and Buildings accidental damage?",
+      "answer": "Buildings standard cover protects against specific named perils (causes 1-13) such as fire, flood, storm, theft, escape of water, etc. Buildings accidental damage is an optional extension that provides broader cover for sudden, unexpected damage from external forces that aren't specifically listed. However, it still has exclusions including frost, vermin, domestic animals, settlement, and damage while unoccupied.",
+      "section_reference": "Buildings standard cover (pages 24-30) vs Buildings - accidental damage (page 31)"
+    },
+    {
+      "question": "If my tenant's belongings are damaged, are they covered under this policy?",
+      "answer": "No. This policy covers only landlord's contents (furniture, appliances and furnishings that you own as the landlord). Tenant's personal belongings are specifically excluded and the tenant would need their own contents insurance.",
+      "section_reference": "Definition of 'Landlord's contents' - excludes 'Tenant's property'"
+    },
+    {
+      "question": "What should I do immediately after discovering damage?",
+      "answer": "(1) Take steps to prevent further damage (e.g., turn off utilities); (2) For emergencies, call the 24-hour domestic helpline 0370 646 4952 (you pay contractor costs); (3) If theft or malicious damage, urgently inform police and get crime reference number; (4) Contact AXA claims team on 0330 024 6842 as soon as possible; (5) Do NOT dispose of damaged items as they may need to be inspected; (6) Take photos and gather evidence/receipts.",
+      "section_reference": "Claims Conditions pages 18-19 and Making a Claim page 20"
+    },
+    {
+      "question": "Am I covered for subsidence?",
+      "answer": "Yes, subsidence, ground heave and landslip are covered under Buildings Cause 5, subject to a separate subsidence excess. However, there are significant exclusions including: damage to boundary walls/fences/paths unless main building also damaged, settlement/shrinkage, damage from construction/alterations, coastal erosion, defective materials/design. You must report subsidence as soon as you notice signs (e.g., diagonal cracks).",
+      "section_reference": "Buildings Cause 5 - Subsidence, ground heave or landslip, pages 24-25 and Important Information page 7"
+    },
+    {
+      "question": "What if my buildings or contents sum insured is too low?",
+      "answer": "If your sum insured is less than 100% of the full rebuilding cost (for buildings) or full replacement value (for contents), we will settle claims proportionately based on the percentage of premium you paid versus what you should have paid. For example, if you're insured for \u00a3600,000 but should be insured for \u00a3700,000 (you paid only 86% of correct premium), we'll pay only 86% of valid claims. You must notify AXA if values exceed your sums insured.",
+      "section_reference": "General Conditions 3 'Maximum limits' pages 12-13 and How we settle claims page 21"
+    },
+    {
+      "question": "Does the policy cover water damage from a burst pipe?",
+      "answer": "Yes, escape of water from fixed water, drainage or heating installations is covered under Cause 6 (Buildings and Landlord's Contents). However, there is no cover while the property is unoccupied, no cover for damage caused by failure of sealant/grout, and the pipe itself is only covered if damaged by an insured cause. You pay for the pipe repair itself, but damage caused by the leaking water is covered.",
+      "section_reference": "Buildings Cause 6 and Landlord's Contents Cause 6, pages 25 and 33, plus Important Information page 7"
+    },
+    {
+      "question": "Am I covered if someone is injured at the property?",
+      "answer": "Yes, property owner's liability (if buildings cover purchased) and public liability (if contents cover purchased) both provide \u00a32,000,000 cover for compensation you become legally liable to pay for death/injury or property damage. This covers your legal liability as property owner or arising from landlord's contents, but excludes liability from tenant occupation, vehicle use, employee injury (covered separately under employer's liability), and deliberate acts.",
+      "section_reference": "Buildings Cover 21 - Property owner's liability (pages 29-30) and Landlord's Contents Cover 16 - Public liability (pages 36-37)"
+    },
+    {
+      "question": "What legal protection do I have?",
+      "answer": "Legal expenses cover (up to \u00a350,000) is included if shown on your schedule. It covers: (1) Nuisance or trespass proceedings relating to the insured property (must have started 180+ days after policy purchased); (2) Defence of criminal prosecutions under Gas Safety Regulations, Furniture Fire Safety Regulations, and Electrical Equipment Safety Regulations. You must comply with regulations and keep evidence. There's a 24/7 legal helpline (0330 024 8694) and landlord's legal document service. Legal expenses claims must be reported within 180 days.",
+      "section_reference": "Legal Expenses section pages 40-46"
+    },
+    {
+      "question": "Can I cancel my policy?",
+      "answer": "Yes. You have 14 days from receipt of policy documents (cooling-off period) to cancel. If cover hasn't started, you get a full refund. If it has started, you get a pro-rata refund (unless claims made). After the cooling-off period, you can cancel anytime with pro-rata refund if no claims and refund exceeds \u00a315. If paying by instalments and you've claimed, you must continue payments until renewal or outstanding amount is deducted from claim payment.",
+      "section_reference": "General Conditions 9 'Cancelling the policy' pages 14-15"
+    },
+    {
+      "question": "What is NOT covered under storm damage?",
+      "answer": "Storm exclusions include: (1) Damage to gates, hedges and fences (buildings); (2) Storm damage to aerials/satellite dishes (buildings); (3) Property in the open (contents); (4) Damage by frost. Also, storm is strictly defined (48 knot winds OR 25mm/hour rainfall OR 30cm snow in 24 hours OR damaging hail), but AXA considers other factors beyond just the definition when assessing claims.",
+      "section_reference": "Buildings Cause 2 and Landlord's Contents Cause 2, plus 'Storm damage claims' explanation on page 22 and Important Information page 8"
+    },
+    {
+      "question": "What happens if I don't maintain the property properly?",
+      "answer": "You must maintain the property in good repair (General Condition 4). Damage caused by gradual deterioration, wear and tear, or lack of maintenance is excluded throughout the policy (General Exclusion 9). For example, if a pipe bursts due to wear and tear, the water damage may be covered but not the pipe replacement. Poor maintenance can also result in claims being declined, particularly for storm, escape of water, and subsidence claims.",
+      "section_reference": "General Condition 4 page 13, General Exclusion 9 page 17, and Important Information pages 6-8"
+    },
+    {
+      "question": "How does the inflation protection work?",
+      "answer": "Sums insured for buildings and landlord's contents are automatically reviewed and adjusted monthly based on official indices (House Rebuilding Cost Index for buildings, Consumer Durables RPI for contents). We won't reduce sums insured if indices fall. No extra charge until renewal, when premium is recalculated on revised sums insured. However, you should not rely solely on this - you must ensure sums insured are adequate, especially after extensions or major purchases.",
+      "section_reference": "Inflation Protection section page 23"
+    },
+    {
+      "question": "What should tenants do in an emergency?",
+      "answer": "Tenants should: (1) Take immediate steps to prevent further damage (turn off water/gas/electricity at mains); (2) Call the 24-hour emergency helpline 0370 646 4952 for urgent tradesperson assistance (tenant/landlord pays contractor costs); (3) Do not conduct permanent repairs before inspection; (4) Inform you (the landlord) immediately so you can contact AXA claims team on 0330 024 6842. For alternative accommodation needs, AXA will discuss reasonable options considering the circumstances.",
+      "section_reference": "Making a claim page 20 and Buildings Cover 15/16 pages 27-28"
+    }
+  ],
+  "source_file": "AXA buy to let PW 04.25 (live Sept25).pdf",
+  "processed_date": "1762788742.0"
+}

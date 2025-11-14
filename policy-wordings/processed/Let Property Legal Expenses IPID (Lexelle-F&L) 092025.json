@@ -1,0 +1,168 @@
+{
+  "insurer_name": "Financial & Legal Insurance Company Limited (underwriter), administered by Lexelle Limited",
+  "policy_type": "Let Property Legal Expenses Insurance",
+  "policy_version": "F&LLETPROPID0725 (July 2025)",
+  "coverage_summary": "Legal expenses insurance covering costs up to \u00a350,000 for legal issues relating to the insured's second property (including static caravans and park homes) used for short-term lets. Covers contract disputes, property protection, legal defence, and identity theft matters.",
+  "key_inclusions": [
+    "24x7 Free Legal Advice Line for personal legal matters within covered sections",
+    "Contract Disputes - negotiation of legal rights arising from agreements for buying, selling or hiring goods/services",
+    "Property Protection - civil actions relating to land, building or contents of let property",
+    "Legal Defence - defence against prosecutions arising from letting the property",
+    "Identity Theft - reimbursement for costs incurred from identity theft that wrongly affects credit rating or debt responsibility"
+  ],
+  "key_exclusions": [
+    "Contracts relating to profession, business or employment including letting out the let property",
+    "Lease, licence or tenancy of land or buildings including the let property",
+    "Construction work/building or home extension for let property where dispute is \u00a310,000 or less",
+    "First \u00a3250 of legal costs for trespass or nuisance claims",
+    "Ownership or boundary disputes other than at let property",
+    "Claims relating to buildings or land other than let property",
+    "Claims relating to motorised vehicles, mining or subsidence",
+    "Boundary disputes predating policy or within first 180 days",
+    "Legal defence where advised to plead guilty",
+    "Legal defence without reasonable prospects of acquittal",
+    "Legal defence where not acquitted",
+    "Claims not arising from letting the let property",
+    "Identity theft not affecting credit rating or debt responsibility",
+    "Claims where policyholder doesn't own property and lacks written authority to sub-let",
+    "Claims relating to or caused by letting property or against tenant/guest",
+    "Properties operated as HMO (Home of Multiple Occupation), B&B or hotel",
+    "Claims outside policy period",
+    "Claims pursued outside England & Wales, Scotland and Northern Ireland jurisdiction"
+  ],
+  "coverage_limits": {
+    "maximum_legal_costs": "\u00a350,000 during Duration of Cover (aggregate limit)"
+  },
+  "sub_limits": {
+    "property_protection_excess": "\u00a3250 excess for trespass or nuisance claims"
+  },
+  "special_conditions": [
+    "Must use representative or solicitor nominated and appointed by insurer prior to proceedings",
+    "Must provide full and accurate information; failure may invalidate policy",
+    "Must inform insurer if information becomes inaccurate or changes",
+    "Property must be second property (not primary residence)",
+    "Property can include static caravans and park homes",
+    "Short period lets are permitted",
+    "Must own the let property or have written authority from owner to sub-let",
+    "180-day waiting period for boundary disputes",
+    "No claims can be made or pending to qualify for cancellation refund"
+  ],
+  "excess_deductible": "\u00a3250 excess applies to legal costs for Property Protection claims relating to trespass or nuisance only",
+  "geographical_coverage": "United Kingdom of Great Britain and Northern Ireland. Claims must be pursued within jurisdiction of courts of England & Wales, Scotland and Northern Ireland",
+  "age_restrictions": "Not specified in this document",
+  "pre_existing_conditions": "Boundary disputes and ownership disputes predating the period of insurance or within first 180 days are excluded",
+  "cancellation_policy": "14-day cooling off period from date of purchase or receipt of documentation (whichever is later) for full premium refund if no claims made or pending. After 14 days, pro-rata refund available if no claims made or pending. Contact organisation from whom policy was purchased to cancel.",
+  "endorsements": [],
+  "claims_requirements": {
+    "notification_timeframe": "Not specified in this document - refer to full policy documentation",
+    "required_documents": [
+      "Not specified in this IPID - full documentation requirements in complete policy documents"
+    ],
+    "process_steps": [
+      "Contact insurer to report claim",
+      "Insurer will assess reasonable prospects of success",
+      "Use nominated representative or solicitor appointed by insurer",
+      "Proceed with legal action if approved"
+    ],
+    "evidence_requirements": "Must demonstrate reasonable prospects of success for Legal Defence claims. Must show wrongful effect on credit rating or debt responsibility for Identity Theft claims",
+    "claims_contact": "Contact details not provided in IPID - refer to policy schedule"
+  },
+  "eligibility_criteria": {
+    "age_limits": "Not specified",
+    "medical_restrictions": "Not applicable",
+    "occupational_restrictions": "Not specified, but contracts relating to profession, business or employment (including letting) are excluded from Contract Disputes cover",
+    "residency_requirements": "Must be within United Kingdom of Great Britain and Northern Ireland",
+    "other_restrictions": [
+      "Must own the let property or have written authority from owner to sub-let",
+      "Property must be a second property (not primary residence)",
+      "Property cannot be operated as HMO, B&B or hotel",
+      "Property can be static caravan or park home",
+      "Property must be used for short period lets",
+      "Cannot make claims relating to or against tenants or their guests"
+    ]
+  },
+  "policy_definitions": {
+    "let_property": "The insured's second property including static caravans and park homes used for short period lets",
+    "HMO": "Home of Multiple Occupation - excluded from coverage",
+    "Duration of Cover": "One calendar year from date policy was issued",
+    "reasonable prospects": "Used to assess Legal Defence claims - must have reasonable prospects of being acquitted of all charges",
+    "statement of facts": "Information provided by policyholder that forms the basis of the policy",
+    "identity theft": "Another party stealing and using identity that wrongly affects credit rating or creates wrongful debt responsibility"
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "180 days for boundary disputes and ownership disputes at let property",
+    "notification_deadlines": "Must inform insurer as soon as possible if information becomes inaccurate or changes",
+    "claims_deadlines": "Claims must occur within policy period",
+    "cooling_off_period": "14 days from date of purchase or receipt of policy documentation (whichever is later) for full refund"
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "Lexelle Limited is authorised and regulated by the Financial Conduct Authority (FCA Registration Number 312782)",
+      "Financial & Legal Insurance Company Limited is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and Prudential Regulation Authority (FCA Registration Number 202915)",
+      "This is an Insurance Product Information Document (IPID) providing summary information",
+      "Complete pre-contractual and contractual information provided in full policy documentation"
+    ],
+    "ipid_key_info": "This IPID provides summary of key information. Complete information available in full policy documentation. Maximum cover \u00a350,000. One year policy term. UK coverage only. Must use nominated solicitors. 180-day waiting period for certain property disputes.",
+    "fair_treatment_obligations": "Must provide full and accurate information. Insurer must be notified of any changes. Failure to provide accurate information may invalidate policy and claims may not be paid",
+    "complaints_process": "Not detailed in this IPID - refer to full policy documentation",
+    "regulatory_warnings": [
+      "Your answers must be true to the best of your knowledge and belief",
+      "Your answers will form part of the statement of facts on which your policy will be based",
+      "Failure to provide accurate information or notify changes may invalidate your policy and claims may not be paid"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Can I use this policy for disputes with my tenants?",
+      "answer": "No. Claims relating to or caused by letting the let property or against a tenant or their guests are specifically excluded.",
+      "section_reference": "What is not insured - General exclusions"
+    },
+    {
+      "question": "Does this cover my main home?",
+      "answer": "No. This policy is specifically for second properties (including static caravans and park homes) used for short period lets.",
+      "section_reference": "What is this type of Insurance?"
+    },
+    {
+      "question": "Can I use my own solicitor?",
+      "answer": "No. Prior to any proceedings you must use the representative or solicitor nominated and appointed by the insurer.",
+      "section_reference": "Are there any restrictions on cover?"
+    },
+    {
+      "question": "Is there a waiting period before I can claim?",
+      "answer": "Yes, for boundary disputes and ownership disputes at your let property, there is a 180-day waiting period from the start of cover.",
+      "section_reference": "What is not insured - Property Protection"
+    },
+    {
+      "question": "What is the maximum the policy will pay out?",
+      "answer": "\u00a350,000 maximum during the entire duration of cover (aggregate limit for all claims combined).",
+      "section_reference": "Are there any restrictions on cover?"
+    },
+    {
+      "question": "Can I use this for an Airbnb property?",
+      "answer": "Yes, short period lets are covered, but the property cannot be operated as an HMO, B&B or hotel.",
+      "section_reference": "What is this type of Insurance? and What is not insured - General"
+    },
+    {
+      "question": "Does this cover tenancy agreement disputes?",
+      "answer": "No. Leases, licences or tenancies of land or buildings including your let property are excluded from Contract Disputes coverage.",
+      "section_reference": "What is not insured - Contract Disputes"
+    },
+    {
+      "question": "What if I'm sub-letting someone else's property?",
+      "answer": "You must have written authority from the owner to sub-let the property, otherwise claims are excluded.",
+      "section_reference": "What is not insured - General"
+    },
+    {
+      "question": "Is there an excess I need to pay?",
+      "answer": "Yes, there is a \u00a3250 excess for legal costs relating to trespass or nuisance claims under Property Protection.",
+      "section_reference": "What is not insured - Property Protection"
+    },
+    {
+      "question": "Can I get a refund if I cancel?",
+      "answer": "Yes. Full refund within 14 days of purchase/receipt of documents if no claims made or pending. Pro-rata refund after 14 days if no claims made or pending.",
+      "section_reference": "How do I cancel the contract?"
+    }
+  ],
+  "source_file": "Let Property Legal Expenses IPID (Lexelle-F&L) 092025.pdf",
+  "processed_date": "1762788744.0"
+}

@@ -1,0 +1,94 @@
+{
+  "product_categories": {
+    "standard_insurance": {
+      "description": "Standard home insurance policies",
+      "insurers": ["Arkel", "Prestige", "Allianz", "Aviva", "AXA"],
+      "policies": {
+        "Arkel": [
+          "ArkelAmTrust Adapt Home InsuranceIPID V4 February 2025.pdf",
+          "ArkelAmTrustAdaptPolicyWording V4 February 25.pdf"
+        ],
+        "Prestige": [
+          "COVERALL IPID ATEBECIPID.5032024.PDF",
+          "COVERALL PW CVPWUK082023.pdf"
+        ],
+        "Allianz": [
+          "AZ Rainbow Home IPID_0037386-2024.pdf",
+          "AZ Rainbow Home PW_0039360-2024.pdf"
+        ],
+        "Aviva": [
+          "Aviva Your House IPID (BHHHG15264) 0724.pdf",
+          "Aviva Your House PW (BHHHG15133) 0724.pdf"
+        ],
+        "AXA": {
+          "Extra": [
+            "AXA Extra IPID 04.25 (live Sep25).pdf",
+            "AXA Extra PW 04.25 (live Sep25).pdf"
+          ],
+          "Advanced": [
+            "AXA Advanced IPID 04.25 (live Sep25).pdf",
+            "AXA Advanced PW 04.25 (live Sep25).pdf"
+          ],
+          "Buy To Let": [
+            "AXA buy to let IPID 04.25 (live Sep25).pdf",
+            "AXA buy to let PW 04.25 (live Sept25).pdf"
+          ]
+        }
+      }
+    },
+    "pikl_top_up": {
+      "description": "Pikl Property Host top-up insurance",
+      "insurers": ["Pikl"],
+      "policies": {
+        "Pikl Property Host": [
+          "Property Host Insurance - 30 Day Property PW (PHOHA_POL_006_21.10.25).pdf",
+          "Property Host Insurance - 90 Day Property PW (PHOHB_POL_006_21.10.25).pdf",
+          "Property Host Insurance - Annual Property PW (PHOHC_POL_006_21.10.25).pdf",
+          "Property Host Insurance - IPID (PHO_IPID_007_21.10.25).pdf"
+        ]
+      }
+    },
+    "home_emergency": {
+      "description": "Home emergency cover",
+      "insurers": ["Stubben Edge"],
+      "policies": {
+        "Stubben Edge": [
+          "PIKL Home Emergency - IPID - 2401.pdf",
+          "PIKL Home Emergency - Policy Wording - 2401.pdf"
+        ]
+      }
+    },
+    "legal_cover_abs": {
+      "description": "Legal expenses insurance through ABS",
+      "insurers": ["ABS"],
+      "effective_dates": {
+        "current": "Before 01/12/2025",
+        "new": "From 01/12/2025"
+      },
+      "policies": {
+        "Family Legal (Current)": [
+          "2ND Property Excluding Let IPID 1.10.20.pdf",
+          "2nd Property Legal Expenses PW ex let 092020.pdf"
+        ],
+        "Family Legal (New - WEF 01/12/2025)": [
+          "Hosting Family Legal Expenses IPID (Lexelle-F&L) 092025.pdf",
+          "Hosting Family Legal Expenses PW (Lexelle-F&L) 092025.pdf"
+        ],
+        "Let Property Legal (New - WEF 01/12/2025)": [
+          "Let Property Legal Expenses IPID (Lexelle-F&L) 092025.pdf",
+          "Let Property Legal Expenses PW (Lexelle-F&L) 092025.pdf"
+        ],
+        "Residential Property LEI Silver (New - WEF 01/12/2025)": [
+          "Residential Property Legal Expenses Silver PW (Lexelle-F&L) 092025.pdf",
+          "Residential Property LEI Silver - IPID 1510.pdf"
+        ]
+      }
+    }
+  },
+  "notes": {
+    "source": "Email from Max - Policy wordings categorization",
+    "ipid_files": "IPID = Insurance Product Information Document (FCA requirement)",
+    "policy_wording_files": "PW = Policy Wording (full terms and conditions)",
+    "legal_cover_transition": "Legal cover policies have date-based versions - new policies effective 01/12/2025"
+  }
+}

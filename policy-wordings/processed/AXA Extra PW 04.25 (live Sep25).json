@@ -1,0 +1,407 @@
+{
+  "insurer_name": "AXA Insurance UK plc",
+  "policy_type": "Home Insurance",
+  "policy_version": "AXA Extra - April 2025",
+  "coverage_summary": "Comprehensive home insurance covering buildings and contents against specified perils including fire, theft, storm, flood, escape of water, and subsidence. Optional accidental damage cover available. Includes public and occupiers liability, alternative accommodation, and various additional covers.",
+  "key_inclusions": [
+    "Fire, explosion, smoke, lightning, earthquake",
+    "Storm or flood damage",
+    "Theft or attempted theft",
+    "Escape of water from fixed installations",
+    "Escape of oil from heating systems",
+    "Malicious damage",
+    "Subsidence, ground heave or landslip",
+    "Collision by vehicles, aircraft or animals",
+    "Falling trees or branches",
+    "Alternative accommodation up to \u00a315,000 (contents) or \u00a3200,000 (buildings)",
+    "Occupiers and public liability up to \u00a32,000,000",
+    "Property owner's liability up to \u00a32,000,000",
+    "Liability to domestic staff up to \u00a310,000,000",
+    "Entertainment equipment accidental damage",
+    "Mirrors and glass accidental breakage",
+    "Keys and locks replacement up to \u00a31,000",
+    "Credit card liability up to \u00a31,000",
+    "Personal possessions worldwide cover (if selected)",
+    "Legal expenses for debris removal and professional fees up to \u00a3100,000",
+    "Trace and access costs up to \u00a35,000",
+    "Emergency entry damage cover",
+    "Frozen food spoilage",
+    "Downloaded audio/visual files up to \u00a31,000",
+    "Garden plants up to \u00a3500",
+    "Contents in garden up to \u00a31,000",
+    "Temporary removal of contents",
+    "Domestic helpline service (24/7)",
+    "Fatal accident benefit \u00a35,000",
+    "Help to reduce flooding up to \u00a310,000"
+  ],
+  "key_exclusions": [
+    "Gradual damage, deterioration, wear and tear",
+    "Damage arising from normal maintenance and upkeep",
+    "Loss or damage while home is unoccupied for more than 30 days (most covers)",
+    "Loss or damage while home is unfurnished for more than 30 days",
+    "Mechanical or electrical breakdown or failure",
+    "Damage caused by cleaning, maintenance, repair, dismantling or altering",
+    "Damage by domestic animals (chewing, scratching, fouling, urinating)",
+    "Damage by vermin or insects",
+    "Settlement of new buildings",
+    "Frost damage (under storm/flood)",
+    "Damage to gates, hedges and fences (storm and subsidence)",
+    "Coastal or river bank erosion",
+    "Damage from faulty workmanship, defective design or materials",
+    "Damage while property under construction or structural alteration",
+    "Loss from failed online purchases or transactions",
+    "Loss where payment proves counterfeit, false or fraudulent",
+    "War, terrorism, radioactive contamination, sonic bangs",
+    "Riot or civil commotion outside UK, Isle of Man or Channel Islands",
+    "Reduction in market value following repair",
+    "Confiscation by authorities",
+    "Pollution/contamination (unless sudden and unforeseen)",
+    "Deliberate or malicious acts by policyholder or family",
+    "Loss or damage to virtual currencies",
+    "Business use (except limited home office equipment)",
+    "Vehicles or craft (with specific exceptions)",
+    "Smoke damage arising gradually",
+    "Damage caused by failure or lack of sealant/grout",
+    "Loss or damage to pitch fibre drains from inherent defects",
+    "Computer hacking, viruses, malware, contamination",
+    "Unattended vehicle theft (unless items hidden and locked)",
+    "Theft from unlocked hotel rooms",
+    "Pedal cycle theft unless locked or in locked building",
+    "Mobile phones (under entertainment equipment)",
+    "Lottery and raffle tickets",
+    "Plants and living creatures (most sections)",
+    "Documents (except specific \u00a3500 cover)",
+    "Dangerous dogs as listed under Dangerous Dogs Act 1991",
+    "Horses, ponies, donkeys and mules",
+    "Non-domesticated animal species",
+    "Drones and aerial devices",
+    "Transmission of contagious disease or virus"
+  ],
+  "coverage_limits": {
+    "contents_sum_insured": "As shown in schedule - must equal 100% of full replacement value",
+    "buildings_sum_insured": "As shown in schedule - must equal 100% of full rebuilding cost",
+    "alternative_accommodation_contents": "\u00a315,000 per claim",
+    "alternative_accommodation_buildings": "\u00a3200,000 per claim",
+    "emergency_evacuation_accommodation": "\u00a32,500 per claim",
+    "occupiers_public_liability": "\u00a32,000,000 per claim or series of claims",
+    "property_owners_liability": "\u00a32,000,000 per claim or series of claims",
+    "domestic_staff_liability": "\u00a310,000,000 per claim or series of claims",
+    "unrecovered_damages": "\u00a32,000,000 per award",
+    "debris_removal_and_fees": "\u00a3100,000 per claim (buildings)",
+    "trace_and_access": "\u00a35,000 per claim"
+  },
+  "sub_limits": {
+    "single_valuable_item": "\u00a315,000",
+    "total_valuables_per_claim": "\u00a330,000",
+    "money": "\u00a3750",
+    "business_equipment": "\u00a35,000 (including \u00a3500 for stock)",
+    "keys_and_locks": "\u00a31,000 per claim",
+    "credit_card_liability": "\u00a31,000 per claim",
+    "domestic_heating_oil": "\u00a31,000 per claim",
+    "metered_water": "\u00a31,000 per claim",
+    "contents_in_garden": "\u00a31,000 per claim",
+    "documents": "\u00a3500 per claim",
+    "special_events_increase": "\u00a37,500 additional for gifts/food/provisions",
+    "visitors_personal_effects": "\u00a31,000 per visitor per claim",
+    "domestic_staff_personal_effects": "\u00a31,000 per staff member per claim",
+    "garden_plants": "\u00a3500 per claim",
+    "downloaded_files": "\u00a31,000 per claim",
+    "lawns_and_gardens": "\u00a3500 per claim",
+    "help_to_reduce_flooding": "\u00a310,000",
+    "temporary_removal_theft_school": "\u00a32,500 per claim (student accommodation)",
+    "personal_possessions_unspecified": "Sum insured or \u00a310,000 whichever is lower per item",
+    "personal_possessions_vehicle_theft": "\u00a31,000 per claim (excluding pedal cycles)"
+  },
+  "special_conditions": [
+    "Must maintain buildings and contents in good repair",
+    "Must take reasonable precautions to avoid injury, loss or damage",
+    "Must notify insurer if circumstances change",
+    "Contents sum insured must represent 100% of full replacement value",
+    "Buildings sum insured must represent 100% of full rebuilding cost",
+    "Security requirements may apply as shown in schedule",
+    "When away from home, must keep heating on low or drain system and turn off water",
+    "Must inform police of theft/malicious damage and obtain crime reference",
+    "Must take steps to prevent further damage after an incident",
+    "Must not admit liability or make agreements with third parties without insurer consent",
+    "Must not dispose of damaged items before inspection",
+    "Pedal cycles must be locked or in locked building when unattended",
+    "Vehicle contents must be hidden from view in locked boot/glove compartment",
+    "Hotel rooms must be locked",
+    "Professional customer representatives may be used but insurer entitled to direct contact",
+    "Must comply with Government or local authority requirements",
+    "Unoccupied means not lived in for more than 30 consecutive days",
+    "Unfurnished means not containing enough furniture for normal living for more than 30 days",
+    "During winter, if heating off, must drain central heating and turn off water at mains",
+    "No cover for escape of water after 30 days unoccupancy",
+    "Matching sets - will pay for damaged items and up to 50% towards undamaged companion pieces",
+    "Floor coverings - only damaged area replaced, not adjoining rooms"
+  ],
+  "excess_deductible": "Amount shown in schedule applies to each claim. Specific excesses may apply to certain covers (e.g. subsidence, theft if security requirements not met). Policy excess deducted from all claims unless specifically stated.",
+  "geographical_coverage": "United Kingdom, Isle of Man, and Channel Islands (some covers extend worldwide, particularly Personal Possessions and liability sections where specified)",
+  "age_restrictions": "No specific age restrictions mentioned for policyholders. Fatal accident benefit applies to policyholder and spouse/civil partner/domestic partner.",
+  "pre_existing_conditions": "Not applicable for home insurance",
+  "cancellation_policy": "14-day cooling off period from receipt of documents. Full refund if cover not started, pro-rata refund if started (provided no claims). Outside cooling off period: can cancel anytime with pro-rata refund if no claims and refund exceeds \u00a315. If paying by instalments and claim made, must continue payments or outstanding amount deducted from claim. Insurer can cancel on 14 days notice for valid reasons including: inaccurate information, non-payment, fraud, threatening/abusive behaviour, change making risk unacceptable.",
+  "endorsements": [
+    {
+      "name": "Contents Plus Accidental Damage Cover",
+      "description": "Extends standard contents cover to include accidental damage or loss to contents while in the home",
+      "cost_impact": "Additional premium applies (shown in schedule)",
+      "coverage_impact": "Adds accidental damage cover. Still excludes: mechanical/electrical breakdown, damage during cleaning/maintenance/repair, damage by pets, vermin, gradual causes, wear and tear, computer hacking/viruses, damage while unoccupied/unfurnished, items specifically excluded elsewhere. Also adds: accidental damage to contents in garden up to \u00a31,000, house removal cover during professional removal to new UK/Channel Islands/Isle of Man residence"
+    },
+    {
+      "name": "Buildings Plus Accidental Damage Cover",
+      "description": "Extends standard buildings cover to include accidental damage or loss to the buildings",
+      "cost_impact": "Additional premium applies (shown in schedule)",
+      "coverage_impact": "Adds accidental damage to buildings. Still excludes: frost, water damage other than insured perils, vermin/insect damage, settlement/shrinkage, pet damage, mechanical/electrical breakdown, damage during alteration/extension, faulty workmanship/defective design, damage while unoccupied/unfurnished"
+    },
+    {
+      "name": "Personal Possessions Cover",
+      "description": "Covers personal effects, valuables and money belonging to you and your family anywhere in the world",
+      "cost_impact": "Additional premium applies (shown in schedule with sum insured)",
+      "coverage_impact": "Provides worldwide cover for personal items. Limits: \u00a3750 for money, \u00a310,000 or sum insured (whichever lower) per unspecified item, \u00a31,000 for theft from unattended vehicle (except pedal cycles). Excludes: vehicles/craft, business equipment, plants, living creatures, items obtained by fraudulent payment, failed online transactions, mechanical/electrical breakdown, damage during cleaning/repair, computer hacking/viruses, theft from unlocked hotel room, unattended pedal cycles unless locked, unattended vehicle unless items locked out of sight. Includes credit card liability up to \u00a31,000"
+    },
+    {
+      "name": "Increased Valuables Limits",
+      "description": "Increases the standard limits for valuable items",
+      "cost_impact": "Additional premium applies",
+      "coverage_impact": "New limits shown in schedule replace standard \u00a315,000 per item and \u00a330,000 per claim limits"
+    },
+    {
+      "name": "Increased Money Limit",
+      "description": "Increases the standard \u00a3750 limit for money",
+      "cost_impact": "Additional premium applies",
+      "coverage_impact": "New money limit shown in schedule"
+    },
+    {
+      "name": "Increased Business Equipment Limit",
+      "description": "Increases the standard \u00a35,000 business equipment limit",
+      "cost_impact": "Additional premium applies",
+      "coverage_impact": "New business equipment limit shown in schedule (including proportion for stock up to \u00a3500)"
+    },
+    {
+      "name": "Security Requirements Endorsement",
+      "description": "Specifies mandatory security measures (locks, alarms) that must be in place",
+      "cost_impact": "May reduce premium if security enhanced, or may be required for acceptance",
+      "coverage_impact": "Failure to meet security requirements may result in increased excess for theft claims or denial of claim. Requirements shown in schedule and must be complied with"
+    },
+    {
+      "name": "Specific Item Endorsement",
+      "description": "Increases limit for a specifically named valuable item beyond standard limits",
+      "cost_impact": "Additional premium for each specified item",
+      "coverage_impact": "Named item covered up to specified value shown in schedule"
+    }
+  ],
+  "claims_requirements": {
+    "notification_timeframe": "As soon as possible. Must contact Police urgently for theft/malicious damage and obtain crime/lost property reference number. Must send written details within 30 days if requested.",
+    "required_documents": [
+      "Policy number",
+      "Details of the loss or damage",
+      "Police crime reference number (for theft/malicious damage)",
+      "Original purchase receipts",
+      "Invoices",
+      "Bank or credit card statements",
+      "Instruction booklets",
+      "Photographs",
+      "Proof of authenticity",
+      "Utility bills",
+      "Pre-purchase surveys",
+      "Plans and deeds of property",
+      "Other documents reasonably required to prove claim and its value",
+      "Estimates for replacement or repair (if requested)",
+      "Details of third party if applicable (name, address, vehicle registration, contact details)",
+      "Further information and/or documentation if requested to verify information provided"
+    ],
+    "process_steps": [
+      "Take immediate steps to prevent further damage (switch off gas, electricity, water)",
+      "For emergencies, call Domestic Helpline 0330 024 6849 for vetted tradesperson (you pay call-out, parts, labour)",
+      "Contact Police urgently for theft/malicious damage - obtain crime reference",
+      "Take reasonable steps to recover missing property",
+      "Do NOT dispose of damaged items (may need inspection)",
+      "Do NOT conduct permanent repairs without approval",
+      "Do NOT admit liability or make agreements with third parties",
+      "Call claims team on 0330 024 6842 with policy number and loss details",
+      "Claims team will take details and instruct approved supplier/loss adjuster if needed",
+      "Allow access for inspection if requested",
+      "Provide written details within 30 days if requested",
+      "Obtain estimates if requested",
+      "Provide all required documentation to prove claim",
+      "Send any writ, summons, letter of claim or legal document immediately",
+      "Cooperate with investigation",
+      "Insurer may repair/replace or pay cash/cash alternative (including vouchers/store cards)",
+      "If cash settlement given instead of approved supplier repair, payment limited to supplier cost",
+      "Insurer entitled to take over defence/settlement and take proceedings in your name",
+      "Insurer may take possession of damaged property and deal with salvage"
+    ],
+    "evidence_requirements": "Police report and crime reference for theft/malicious damage. Original receipts, invoices, bank statements, photographs for proof of ownership and value. Pre-purchase surveys, deeds, plans for property damage. Weather reports may be obtained by insurer for storm claims. Professional valuations or proof of authenticity for valuable items. Must provide any documentation reasonably required - insurer will pay reasonable expenses for obtaining this.",
+    "claims_contact": "Contents, Personal Possessions and Buildings claims: 0330 024 6842. Have policy number and loss details ready. Available 365 days/year."
+  },
+  "eligibility_criteria": {
+    "age_limits": "No specific age restrictions for policyholders mentioned. Fatal accident benefit applies to policyholder and spouse/civil partner/domestic partner.",
+    "medical_restrictions": "Not applicable for home insurance",
+    "occupational_restrictions": "Business use restrictions - home must be used for private residential purposes. Limited business equipment cover available (\u00a35,000). Liability excludes claims arising from business, trade, profession or employment (except domestic staff employment and defective work on disposed properties).",
+    "residency_requirements": "Property must be located in United Kingdom, Isle of Man or Channel Islands. Policyholder must be UK resident. Home must be private residence. Not available for commercial properties.",
+    "other_restrictions": [
+      "Property must not be unoccupied for more than 30 consecutive days for most covers to remain valid",
+      "Property must not be unfurnished for more than 30 consecutive days",
+      "Property must be maintained in good repair",
+      "Security requirements (if specified in schedule) must be met",
+      "Cannot be used for properties used for business purposes (beyond limited home office)",
+      "Not available if policyholder or family member has been declared bankrupt or subject to bankruptcy proceedings (must notify)",
+      "Not available if policyholder or family has police caution, conviction or charges (other than driving offences - must notify)",
+      "Property must not be undergoing construction or structural alteration (affects subsidence cover)",
+      "If property is rented out, tenant's liability cover applies but owner needs specific property owner's liability",
+      "Cannot own dangerous dogs as listed under Dangerous Dogs Act 1991 or NI Order 1983",
+      "Cannot own horses, ponies, donkeys, mules or non-UK domesticated animal species for liability cover",
+      "Must not use threatening, aggressive or abusive behaviour toward staff or suppliers"
+    ]
+  },
+  "policy_definitions": {
+    "accidental_damage": "Sudden, unexpected damage caused by an external force, and not caused deliberately",
+    "buildings": "The structure of the home including fixtures and fittings, oil/gas tanks, cesspits, septic tanks, swimming pools, hot tubs, ponds, fountains, tennis courts, walls, gates, fences, hedges, terraces, patios, drives, paths, artificial lawns, statues, decking, railings, gazebos, pergolas, car ports, garages (including on nearby sites), external lighting, alarm systems, surveillance equipment, solar heating, wind turbines, heat pumps, recreational toys, brick BBQs, laminated/vinyl flooring, inspection hatches and covers, outbuildings",
+    "contents": "Household goods (including tenant's fixtures/fittings/decorations), frozen foods, personal effects, office equipment, valuables, business equipment, money - belonging to you/family or for which you're legally responsible, mainly used for private purposes. EXCLUDES: vehicles/craft, living creatures, documents, lottery/raffle tickets, building structure (unless tenant's fixtures/fittings)",
+    "family": "Your spouse, domestic partner, civil partner, children, domestic staff, and any other person permanently living with you and not paying for accommodation",
+    "home": "The private residence shown in schedule including garages and outbuildings",
+    "outbuildings": "Sheds, greenhouses, summer houses, other buildings (not caravans, mobile homes, motor homes, or structures of canvas/PVC/non-rigid material) not forming part of main building",
+    "unoccupied": "Not lived in and not occupied overnight by you, family or authorised person for more than 30 consecutive days",
+    "unfurnished": "Has not contained enough furniture and furnishings for normal living purposes for more than 30 consecutive days",
+    "valuables": "Jewellery (including costume jewellery), articles of/containing gold/silver/precious metals, cameras, camera lenses, binoculars, watches, furs, paintings, other works of art, collections of stamps/coins/medals",
+    "personal_effects": "Clothes and items of personal nature likely to be worn, used or carried - e.g. portable radios/TVs, handheld games consoles, MP3 players, mobile phones, sports equipment",
+    "money": "Coins and bank notes in current use, cheques, postal orders, postage stamps (not collections), trading stamps, premium bonds, saving stamps/certificates, luncheon vouchers, money orders, travel tickets including season tickets, petrol coupons, gift vouchers/cards, phone cards, pre-booked event/entertainment tickets, electronic money cards. EXCLUDES credit cards, cheque cards, cash dispenser cards",
+    "business_equipment": "Items/equipment including computing equipment (excluding data) used mainly for business/trade/professional/employment purposes, including stock but excluding business money and documents",
+    "domestic_staff": "Person employed to carry out domestic duties associated with your home, not employed in connection with business/trade/profession/employment",
+    "vehicles_or_craft": "Electrically/mechanically propelled vehicles including plant machinery, mini diggers, fork lifts, powered transporters (e-scooters, segways), motorcycles, quad bikes; aircraft (including gliders), drones, aerial toys/models, boats, hovercraft, water craft including hand/foot propelled, sailboards, windsurfers; trailers, carts, wagons, caravans, horse boxes; parts, accessories, keys, fobs, tools, fitted electronics. EXCLUDES: domestic lawnmowers, wheelchairs, mobility scooters (used properly), surfboards, water-skis, snowboards, skis, toys, models, pedal cycles, electrically assisted pedal cycles (250W max, 15.5mph max), foot-controlled golf trolleys, portable GPS devices",
+    "storm": "Period of violent weather defined as: wind gusts at least 48 knots (55mph) OR torrential rain at least 25mm per hour OR snow at least one foot (30cms) in 24 hours OR hail of intensity causing damage to hard surfaces or breaking glass (equivalent to storm force 10 Beaufort Scale)",
+    "flood": "Invasion of the property by large volume of water caused by rapid build-up or sudden release of water from outside the buildings",
+    "subsidence": "Downward movement of the site on which buildings are situated by a cause other than settlement or the weight of buildings themselves",
+    "heave": "Upward or sideways movement of the site on which buildings are situated other than settlement, caused by swelling of ground",
+    "landslip": "Sudden movement of soil on a slope or gradual creep of slope over time other than settlement",
+    "settlement": "Natural movement of new properties in months and years after they are built - NOT COVERED",
+    "vermin": "Rats, mice, squirrels, owls, pigeons, foxes, bees, wasps, hornets",
+    "excess": "The amount you must pay as the first part of each and every claim made",
+    "period_of_insurance": "The period shown in your schedule for which premium has been paid and accepted",
+    "endorsement": "A change to the terms of the policy shown under endorsements in your schedule",
+    "policy": "Your policy booklet and most recent schedule, including any endorsements"
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "No standard waiting period - cover starts from policy start date. However, settlement is not covered (only subsidence/heave/landslip)",
+    "notification_deadlines": "Must notify insurer AS SOON AS POSSIBLE of: any claim, changes in circumstances, theft/malicious damage (also notify Police URGENTLY). Must send written details within 30 days if requested. Must send any writ/summons/letter of claim/legal document AS SOON AS POSSIBLE.",
+    "claims_deadlines": "Must report claims as soon as possible. No specific time limit stated but unreasonable delay may prejudice claim. Police must be notified urgently for theft/malicious damage. Written details must be provided within 30 days if requested.",
+    "cooling_off_period": "14 days from receipt of policy documents. Full refund if cover not started, pro-rata refund (minus claims) if started. Outside this period, can still cancel anytime but different refund rules apply.",
+    "unrecovered_damages_time_limit": "Award must be still outstanding six months after date made and not being appealed",
+    "fatal_accident_time_limit": "Death must occur within 12 months of the injury",
+    "change_notification_requirement": "Must tell insurer as soon as reasonably possible if circumstances change",
+    "coverage_cessation": "Escape of water cover ceases after 30 days unoccupancy. Most covers cease after 30 days unoccupied or unfurnished.",
+    "special_events_period": "Automatic contents increase applies 30 days before and 30 days after special event (60 day total window)"
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "AXA Insurance UK plc authorised by Prudential Regulation Authority and regulated by Financial Conduct Authority and Prudential Regulation Authority under Financial Services Register number 202312",
+      "FCA register can be checked at www.fca.org.uk/register",
+      "Law of England and Wales applies unless otherwise agreed",
+      "Right to cancel within 14 days with full or pro-rata refund",
+      "Telephone calls may be recorded and monitored",
+      "Financial Services Compensation Scheme (FSCS) protection available - details at www.FSCS.org.uk or 0800 678 1100",
+      "Sanctions clause: No cover where doing so would expose insurer to UN sanctions or EU/UK/US trade sanctions",
+      "Must provide accurate and complete information when taking out, renewing or making changes to policy",
+      "Failure to provide accurate information may result in policy cancellation, voidance, terms change, or claim refusal/reduction",
+      "May request further information/documentation to verify information provided",
+      "Customer vulnerable circumstances considerations in alternative accommodation assessment"
+    ],
+    "ipid_key_info": "This is a comprehensive home insurance policy providing cover for buildings and/or contents against specified perils. Key features: covers fire, theft, storm, flood, escape of water, malicious damage, subsidence, liability. Optional accidental damage cover available. Excess applies to each claim. Main exclusions: gradual damage, wear and tear, poor maintenance, unoccupied properties beyond 30 days, deliberate damage, business use. Cover valid in UK, Isle of Man, Channel Islands; some sections extend worldwide.",
+    "fair_treatment_obligations": "AXA aims to provide highest standard of service to every customer. Reasonable cost of alternative accommodation assessment takes into account: claim circumstances, needs of customer/family/pets, duration required, availability and location. Will communicate with customer even if professional representative appointed (where necessary). Entitled to assess claims based on own/approved supplier/loss adjuster view even where customer has loss assessor. Will pay reasonable expenses for documentation required for claims. Makes documents available in Braille, large print, audio format on request.",
+    "complaints_process": "If complaint about claim: contact department dealing with claim on 0330 024 6841. If complaint about policy: contact Insurance Agent or AXA office or Head of Complaints, AXA Insurance, PO Box 2796, Bolton BL6 9LZ, Phone 0330 024 6841, Email customercare@axa-insurance.co.uk. Mark correspondence 'COMPLAINT'. Provide: name, address, postcode, phone, email, policy/claim number, policy type, agent name, reason for complaint. If dissatisfied after final response, can refer to Financial Ombudsman Service within 6 months: Exchange Tower, Harbour Exchange Square, London E14 9SR, Phone 0300 123 9123 or 0800 023 4567, Email complaint.info@financial-ombudsman.org.uk, Web help.financial-ombudsman.org.uk. Does not affect right to take legal action.",
+    "regulatory_warnings": [
+      "Throughout your dealings with us we expect you to act honestly",
+      "Making fraudulent or exaggerated claims may result in policy being voided, no payment, recovery of amounts paid, non-return of premium, and Police notification",
+      "You and your family must comply with policy conditions to have full protection",
+      "Failure to comply with conditions may result in: policy cancellation, policy voidance, terms change, claim refusal or reduction",
+      "This policy is not designed to protect against losses from gradual deterioration or poor maintenance",
+      "You must maintain property in good repair and take reasonable precautions to avoid injury, loss or damage",
+      "Contents sum insured must equal 100% of full replacement value - if less, you will only be paid up to sum insured",
+      "Buildings sum insured must equal 100% of full rebuilding cost - if less, you will only be paid up to sum insured",
+      "You must tell us as soon as reasonably possible if circumstances change",
+      "Security requirements (if any) shown in schedule must be complied with",
+      "Cover for escape of water ceases after 30 days unoccupied",
+      "Most cover ceases or is restricted if property unoccupied or unfurnished for more than 30 days"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "What does 'unoccupied' mean and why does it matter?",
+      "answer": "Unoccupied means not lived in and not occupied overnight by you, your family or an authorised person for more than 30 consecutive days. This matters because many covers cease or are restricted when the home is unoccupied - particularly theft, malicious damage, escape of water, and escape of oil. If planning to be away for more than 30 days, contact insurer to discuss options.",
+      "section_reference": "Meanings of defined terms page 12, General exclusions, Specific cause exclusions throughout"
+    },
+    {
+      "question": "Am I covered for accidental damage?",
+      "answer": "Standard AXA Extra policies include LIMITED accidental damage: (Contents) entertainment equipment, mirrors, fixed glass, glass furniture tops; (Buildings) pipes, cables, sanitary ware, fixed glass in windows/doors/fanlights. For FULL accidental damage cover to contents and/or buildings, you need to purchase the optional 'Plus Accidental Damage' cover which will be shown in your schedule. Even with full accidental damage, there are exclusions including gradual damage, wear and tear, poor maintenance, mechanical breakdown, and damage during repairs/cleaning.",
+      "section_reference": "Contents Cover 12-13, Buildings Cover 21-22, Contents Plus Accidental Damage Cover page 37, Buildings Plus Accidental Damage Cover page 49"
+    },
+    {
+      "question": "What happens if my contents/buildings sum insured is too low?",
+      "answer": "Your contents sum insured must equal 100% of the full replacement cost of all your contents as new. Your buildings sum insured must equal 100% of the full rebuilding cost (not market value). If the sum insured is less than 100% of the full value, you will only be paid up to the sum insured shown in your schedule, NOT the full cost to replace/rebuild. It's essential to regularly review and update your sum insured to ensure adequate cover.",
+      "section_reference": "General Conditions page 14-15, How we settle claims pages 23-24"
+    },
+    {
+      "question": "What should I do if my home will be empty for more than 30 days?",
+      "answer": "Contact your insurer BEFORE the 30 day period expires. Cover for escape of water ceases after 30 days unoccupied. Theft, malicious damage, and escape of oil are also excluded while unoccupied. You must either: keep central heating on low to prevent freezing, OR drain the central heating system and turn off water at mains. Consider whether you need specialist unoccupied property insurance if absence will be prolonged.",
+      "section_reference": "Important Information pages 7-8, Escape of water exclusions, Various cause exclusions throughout policy"
+    },
+    {
+      "question": "Am I covered for storm damage to my fence/gate?",
+      "answer": "No. Loss or damage to gates, hedges and fences is specifically excluded under storm cover. Gates, hedges and fences are only covered if damaged by other insured perils such as fire, theft, malicious damage, riot, or collision by vehicles/aircraft/animals. They are also excluded from subsidence cover unless the main building is damaged at the same time by the same cause.",
+      "section_reference": "Buildings Cause 1 - Storm or flood, page 41"
+    },
+    {
+      "question": "What is the difference between 'occupiers liability' and 'property owners liability'?",
+      "answer": "OCCUPIERS AND PUBLIC LIABILITY (Contents section, up to \u00a32m) covers your liability arising from OCCUPATION of the home and private pursuits - i.e. you living there and day-to-day activities. PROPERTY OWNER'S LIABILITY (Buildings section, up to \u00a32m) covers your liability arising from OWNERSHIP of the buildings (but not occupation) and defective work on properties you've sold. If you both own and occupy your home, you need both covers. If you're a tenant, you need occupiers liability. If you're a landlord not living there, you need property owner's liability.",
+      "section_reference": "Contents Cover 28 pages 33-34, Buildings Cover 19 pages 46, Important notes in both sections"
+    },
+    {
+      "question": "My washing machine pipe burst and caused water damage - am I covered?",
+      "answer": "Yes, this is covered under Escape of Water. The policy covers water leaking from washing machines, dishwashers, water beds, fridges and freezers. However, the excess applies. Note: damage to the washing machine itself is only covered if caused by an insured peril. The cost to repair/replace the burst pipe itself is not covered - you pay for this. The policy covers the CONSEQUENTIAL damage the escaping water caused to your home and contents. If the home has been unoccupied for more than 30 days, there is NO cover.",
+      "section_reference": "Contents Cause 4 page 26, Buildings Cause 2 page 41"
+    },
+    {
+      "question": "I left my bath running and it overflowed causing damage - am I covered?",
+      "answer": "Not under standard cover. Damage caused by sinks and baths overflowing as a result of taps being left on is specifically excluded from the Escape of Water cover. However, IF you have purchased the optional 'Plus Accidental Damage' cover for contents and/or buildings, this type of damage may be covered under that section (subject to accidental damage exclusions and excess).",
+      "section_reference": "Contents Cause 4 page 26, Buildings Cause 2 page 41, Accidental damage sections"
+    },
+    {
+      "question": "Are my belongings covered when I take them outside the home?",
+      "answer": "LIMITED cover under standard policy: Contents can be temporarily removed to (1) bank/safe deposit (2) other private occupied/furnished dwelling (3) place where you're working/temporarily living worldwide. Limits apply including \u00a32,500 max for theft from student accommodation. For COMPREHENSIVE away-from-home cover, you need to purchase optional PERSONAL POSSESSIONS cover which provides worldwide cover up to the sum insured shown in your schedule. This covers items anywhere in the world but has specific exclusions (unattended vehicles, unlocked hotel rooms, etc.).",
+      "section_reference": "Contents Cover 19 pages 30-31, Personal Possessions section pages 39-40"
+    },
+    {
+      "question": "What is covered under 'subsidence' and what's excluded?",
+      "answer": "COVERED: Downward movement of the site caused by subsidence, or upward/sideways movement caused by heave, or landslip. EXCLUDED: Settlement (natural movement of new buildings), damage to boundaries/gardens/drives/pools unless main building damaged at same time, damage due to construction/alteration/demolition, coastal or river bank erosion, damage from defective materials/design/workmanship, damage to solid floor slabs and non-loadbearing walls unless foundations beneath external walls damaged at same time. A specific excess applies (shown in schedule). These claims can be complex - report as soon as you notice cracking or movement.",
+      "section_reference": "Buildings Cause 4 pages 42, Important Information page 7"
+    },
+    {
+      "question": "Will you pay the full cost to replace my damaged carpet/floor covering?",
+      "answer": "Only for the damaged area. If a floor covering is damaged beyond repair, the policy will only pay to replace the damaged floor covering in that room. It will NOT pay for undamaged floor covering in adjoining rooms, even if the replacement doesn't match. This is stated in the 'Matching sets, suites and carpets' section of How we settle claims.",
+      "section_reference": "How we settle claims pages 23-24"
+    },
+    {
+      "question": "My laptop was stolen from my car - am I covered?",
+      "answer": "Depends on circumstances and what cover you have. Under CONTENTS 'Temporary Removal' cover: only covered if stolen from unattended vehicle when items were HIDDEN FROM VIEW in locked boot or glove compartment AND all doors including boot were LOCKED. If these conditions not met, no cover. Under PERSONAL POSSESSIONS cover (if purchased): max \u00a31,000 for theft from unattended vehicle (excluding pedal cycles) and same conditions apply about items being locked out of sight. Laptops in plain view are NOT covered.",
+      "section_reference": "Contents Cover 18 page 30, Contents Cover 19 page 31, Personal Possessions Cover 1 page 39"
+    },
+    {
+      "question": "Does the policy cover gradual damage and wear and tear?",
+      "answer": "NO. This is a key exclusion. The policy specifically excludes 'loss or damage caused gradually or by wear and tear, depreciation, effects of light or atmosphere, mould, dry or wet rot or fungus and costs that arise from the normal use, maintenance and upkeep of buildings and contents.' Home insurance covers sudden, unexpected insured events - not deterioration over time or lack of maintenance. You are required to maintain your property in good repair. Damage that would have been prevented by proper maintenance is not covered.",
+      "section_reference": "General Exclusions page 19, Important Information pages 6-7, Throughout policy exclusions"
+    },
+    {
+      "question": "How long do I have to report a claim?",
+      "answer": "You must report claims AS SOON AS POSSIBLE. For theft or malicious damage, you must contact the Police URGENTLY and obtain a crime or lost property reference number. Unreasonable delay in reporting may prejudice your claim. If requested, you must send written details within 30 days. Any writ, summons, letter of claim or other legal document must be sent to the insurer AS SOON AS POSSIBLE. Early reporting allows insurer to investigate properly, arrange emergency action if needed, and preserve evidence.",
+      "section_reference": "Claims Conditions pages 20-21, Making a claim page 22"
+    },
+    {
+      "question": "Can I use my own builder/repairer or do I have to use yours?",
+      "answer": "The insurer may appoint an approved supplier to validate your claim and arrange quotation, repair or replacement. Permanent repairs by approved suppliers are guaranteed. However, you have a choice: If the insurer offers repair/replacement through a preferred supplier but you choose cash settlement instead, payment will NOT EXCEED the amount the insurer would have paid the preferred supplier. This could be less than the cost of using your own builder. If no equivalent replacement is available, full replacement cost will be paid with no discount. The insurer may also repair/reinstate/replace directly or pay cash/cash alternative (including vouchers/store cards).",
+      "section_reference": "How we settle claims page 23, Claims conditions page 21"
+    }
+  ],
+  "source_file": "AXA Extra PW 04.25 (live Sep25).pdf",
+  "processed_date": "1762788742.0"
+}

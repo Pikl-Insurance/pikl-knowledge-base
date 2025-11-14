@@ -1,0 +1,397 @@
+================================================================================
+ELIGIBILITY & DISCRIMINATION COMPLIANCE REVIEW
+Generated: 2025-11-13 14:02:30
+================================================================================
+
+Review eligibility criteria for potential discrimination or fairness issues
+under FCA fair treatment requirements.
+
+
+AXA Insurance UK plc - Home Insurance
+--------------------------------------------------------------------------------
+
+Age Restrictions: No specific age restrictions for policyholders mentioned. Fatal accident benefit applies to policyholder and spouse/civil partner/domestic partner.
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Not applicable for home insurance
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Business use restrictions - home must be used for private residential purposes. Limited business equipment cover available (£5,000). Liability excludes claims arising from business, trade, profession or employment (except domestic staff employment and defective work on disposed properties).
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Property must be located in United Kingdom, Isle of Man or Channel Islands. Policyholder must be UK resident. Home must be private residence. Not available for commercial properties.
+
+
+AXA Insurance UK plc - Landlord's Buildings and Contents Insurance
+--------------------------------------------------------------------------------
+
+Age Restrictions: Not specified
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Not applicable
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Not specified
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Property must be private residences in the United Kingdom; must be let for private residential purposes
+
+
+Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) - Home Insurance (Coverall Policy)
+--------------------------------------------------------------------------------
+
+Age Restrictions: No specific age restrictions for policyholder mentioned
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Not applicable (property insurance)
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Business use restricted to clerical work only (Business Equipment up to £5,000)
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Must be private residential property in United Kingdom; persons normally living together qualify as 'You'
+
+
+Underwritten by Prestige Underwriting Services Limited on behalf of Aviva Insurance Limited (all sections except Legal Expenses). Legal Expenses provided by ARAG plc and underwritten by ARAG Legal Expenses Insurance Company Limited. Arranged and administered by Pikl Insurance Services Ltd. - Property Host Insurance - Short-term rental/hosting insurance (30 Days policy)
+--------------------------------------------------------------------------------
+
+Age Restrictions: Not explicitly stated
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Host or permanent residents must never have been cautioned for, convicted of, or charged with any criminal offences (other than spent convictions and motoring offences)
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Not specified
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Must be UK or Isle of Man resident (excludes Channel Islands). Property must be located within UK (including Northern Ireland).
+
+
+Aviva Insurance Limited (underwritten by Prestige Underwriting Services Limited on behalf of Aviva Insurance Limited, administered by Pikl Insurance Services Limited) - Property Host Insurance (Short Term Letting/Holiday Rental)
+--------------------------------------------------------------------------------
+
+Age Restrictions: Not specified in this document
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Not applicable to property insurance
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Not specified in this document
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Property must be within the United Kingdom (including Northern Ireland)
+
+
+Financial & Legal Insurance Company Limited - Let Property Legal Expenses Insurance
+--------------------------------------------------------------------------------
+
+Age Restrictions: Not specified
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Not applicable to this policy type
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Policy excludes matters relating to insured's profession, business or employment (including letting activity). No cover for business ventures outside employment contracts.
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Must have property in England, Wales, Scotland, Northern Ireland, Channel Islands or Isle of Man. Governed by English law with disputes handled in courts of England or country where insured property is situated.
+
+
+AmTrust Specialty Limited - Home Insurance
+--------------------------------------------------------------------------------
+
+Age Restrictions: No specific age limits for taking out policy. Fatal accident benefit not payable over age 75.
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: None specified for property insurance
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Property must not be used primarily for business or trade purposes (home office use accepted). Tools/equipment for business use have limited or no cover.
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Property must be in England, Scotland, Wales, Northern Ireland, Isle of Man, or Channel Islands. Insured person(s) must permanently reside at the property or be named on schedule.
+
+
+AmTrust (arranged by Arkel Underwriting, a trading style of Arkel Limited) - Home Insurance (Buildings and Contents)
+--------------------------------------------------------------------------------
+
+Age Restrictions: Not specified in this document
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Not applicable for home insurance
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Must notify if home used for business purposes other than clerical
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Must be main private residence of policyholder in England, Scotland, Wales, Northern Ireland, Isle of Man or Channel Islands
+
+
+Highway Insurance Company Limited (trading as Allianz) - Home Building and Contents Insurance
+--------------------------------------------------------------------------------
+
+Age Restrictions: Not specified in this document
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Not applicable for home insurance
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Not specified in this document
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Property must be located in Great Britain, Northern Ireland, Isle of Man or Channel Islands
+
+
+AXA Insurance UK plc - Home Insurance
+--------------------------------------------------------------------------------
+
+Age Restrictions: No specific age limits for policyholder mentioned
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: None for property insurance. Health at Hand does not diagnose/prescribe and doesn't replace GP.
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Home must be used for private residential purposes primarily. Business use from home has restrictions - business equipment covered to £15,000 but business use may require endorsement. Cannot use for trade/profession beyond allowed limits.
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Must be UK resident. Property must be in UK, Channel Islands, or Isle of Man. Named policyholder must permanently live at the property with family.
+
+
+Aviva Insurance Limited - Home Insurance
+--------------------------------------------------------------------------------
+
+Age Restrictions: Not specified in this document
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Not applicable for home insurance
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Property used for business or profession not covered (except certain home office equipment under contents cover) unless specifically agreed with insurer
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Home must be within United Kingdom, Channel Islands or Isle of Man
+
+
+Financial & Legal Insurance Company Limited (underwriter), administered by Lexelle Limited - Let Property Legal Expenses Insurance
+--------------------------------------------------------------------------------
+
+Age Restrictions: Not specified
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Not applicable
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Not specified, but contracts relating to profession, business or employment (including letting) are excluded from Contract Disputes cover
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Must be within United Kingdom of Great Britain and Northern Ireland
+
+
+Aviva Insurance Limited (for Sections 1-5), ARAG Legal Expenses Insurance Company Limited (for Section 6 - Legal Expenses). Underwritten by Prestige Underwriting Services Limited. Arranged and administered by Pikl Insurance Services Ltd - Property Host Insurance - Short-term rental/hosting insurance (90 Days policy)
+--------------------------------------------------------------------------------
+
+Age Restrictions: No specific age limits stated for policyholder
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Not applicable for property insurance
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Policy designed for hosting activity only - not for business activities except hosting
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Must be UK or Isle of Man resident (excludes Channel Islands)
+
+
+Financial & Legal Insurance Company Limited (underwritten), administered by Lexelle Limited - Residential Property Legal Expenses Insurance
+--------------------------------------------------------------------------------
+
+Age Restrictions: Not specified
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Not applicable for this type of insurance
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Self-employed individuals cannot claim for loss of earnings from jury service
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Policyholder must have a principal home in the coverage area (UK, Northern Ireland, Channel Islands, Isle of Man). Family members must reside with policyholder at principal home to be covered.
+
+
+Prestige Underwriting Services Limited on behalf of Aviva Insurance Limited (all sections except Legal Expenses which is provided by ARAG plc and underwritten by ARAG Legal Expenses Insurance Company Limited) - Property Host Insurance (Short-term rental/hosting insurance)
+--------------------------------------------------------------------------------
+
+Age Restrictions: No specific age limits stated for policyholders
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Policyholders or permanent residents must not have ongoing/gradual medical conditions that could lead to death (for personal injury cover)
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Must not be operating as a business except for hosting activities. Professional business activities excluded from liability cover.
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Must be UK or Isle of Man resident (Channel Islands NOT included). Property must be located in UK (including Northern Ireland).
+
+
+Financial & Legal Insurance Company Limited - Hosting Family Legal Expenses Platinum Insurance
+--------------------------------------------------------------------------------
+
+Age Restrictions: Education section only: child under 5 years (except for academic year turning 5) and under 17 during next academic year. No age limits specified for policyholders.
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: No medical restrictions for policyholder eligibility. Personal injury section excludes gradual illness or non-sudden injury.
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Must be employed (for employment disputes and tax protection sections). Self-employed not covered for jury service loss of income. Employment section requires tribunal-level disputes.
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Must be registered on electoral roll at principal home. Principal home must be in England, Wales, Scotland, Northern Ireland, Channel Islands or Isle of Man. Principal home must be only or main residence. Cannot be HMO, B&B or hotel.
+
+
+Financial & Legal Insurance Company Limited (underwritten), administered by Lexelle Limited - Legal Expenses Insurance
+--------------------------------------------------------------------------------
+
+Age Restrictions: Not specified in this document
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Not applicable for this type of insurance
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Self-employed individuals are excluded from Jury Service cover
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Must have a principal home within the United Kingdom, Great Britain, Northern Ireland, Channel Islands or Isle of Man
+
+
+Aviva Insurance Limited - Home Insurance
+--------------------------------------------------------------------------------
+
+Age Restrictions: No specific age limits mentioned for main home insurance. Students living away considered as normally living at home if they return outside term time.
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: No medical restrictions for home insurance. For Family Legal Protection personal injury claims: excludes gradual illnesses/injuries not caused by identifiable incident (e.g. repetitive strain injury).
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Home must be used solely for domestic and/or clerical business purposes. Clerical business means computer work, emails, phone calls, administration. No manufacturing or trade businesses allowed. Outbuildings must be for domestic/clerical use only.
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Property must be in UK, Channel Islands or Isle of Man. Policyholder must normally live at the property (at least 2 nights per week). Various restrictions apply if property unoccupied 60+ consecutive days.
+
+
+Millennium Insurance Company Limited (underwritten by Novus Underwriting Limited on behalf of Millennium Insurance Company Limited) - Home Emergency Insurance
+--------------------------------------------------------------------------------
+
+Age Restrictions: Policyholder must be aged 18 or over at time of purchasing insurance
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: None specified
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: None specified
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Must be a permanent resident in the United Kingdom. Property must be located within the United Kingdom.
+
+
+AXA Insurance UK plc - Landlord Buildings and Contents Insurance (Buy to Let)
+--------------------------------------------------------------------------------
+
+Age Restrictions: Not specified for landlord insurance
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Not applicable for property insurance
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Policy designed specifically for landlords letting residential property. Not for owner-occupiers. Property must be let for private residential purposes only.
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Policyholder must be the landlord as defined in the tenancy agreement. Property must be in UK, Isle of Man or Channel Islands.
+
+
+AXA Insurance UK plc - Home Insurance - Buildings and Contents
+--------------------------------------------------------------------------------
+
+Age Restrictions: Not specified in this document
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Not applicable for home insurance
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Identity theft coverage excludes theft connected with business, profession or occupation
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Private residences in The United Kingdom
+
+
+Financial & Legal Insurance Company Limited (underwriter), administered by Lexelle Limited (FCA Registration Number 312782) - Legal Expenses Insurance - Second Property (Excluding Let)
+--------------------------------------------------------------------------------
+
+Age Restrictions: Not specified in document
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Not applicable to this policy type
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Not specified in document
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Coverage is within the United Kingdom of Great Britain and Northern Ireland
+
+
+Financial & Legal Insurance Company Limited (arranged by Lexelle Limited) - Legal Expenses Insurance - 2nd Property (excluding Let)
+--------------------------------------------------------------------------------
+
+Age Restrictions: No specific age limits mentioned
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Not applicable to this legal expenses policy
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Claims regarding profession, business or employment are excluded (except for letting out the 2nd property)
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Must be resident in England, Wales, Scotland or Northern Ireland. Property must be located in these jurisdictions.
+
+
+AXA Insurance UK plc - Home Insurance - Household Buildings and Contents Insurance
+--------------------------------------------------------------------------------
+
+Age Restrictions: Not specified for policyholders
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Not applicable
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Must be for private residential purposes only - must notify if used for any other reason
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Private residences in The United Kingdom
+
+
+Financial & Legal Insurance Company Limited - Residential Property Legal Expenses Insurance
+--------------------------------------------------------------------------------
+
+Age Restrictions: No specific age limits mentioned in policy
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Not applicable for legal expenses insurance
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Employment disputes cover only applies to employees with employment contracts; self-employed persons excluded from jury service income cover; claims related to professional business or employment (outside employment contracts) are excluded
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Insured must own the insured property. For principal home coverage, must be the insured's main or only residence. Property must be located within England, Wales, Scotland, Northern Ireland, Channel Islands, or Isle of Man.
+
+
+Millennium Insurance Company Limited (underwritten by Novus Underwriting Limited on behalf of Millennium Insurance Company Limited; provided by Stubben Edge) - Home Emergency Insurance
+--------------------------------------------------------------------------------
+
+Age Restrictions: No age limits for policyholders; boilers must be under 15 years old
+  → Ensure age restrictions are actuarially justified and clearly disclosed
+
+Medical Restrictions: Not applicable
+  → Verify compliance with Equality Act and FCA guidance on health conditions
+
+Occupational Restrictions: Not specified
+  → Ensure occupational restrictions are risk-based and justified
+
+Residency Requirements: Property must be located in England, Scotland, Wales or Northern Ireland

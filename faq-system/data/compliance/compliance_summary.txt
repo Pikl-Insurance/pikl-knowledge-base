@@ -1,0 +1,21 @@
+================================================================================
+REGULATORY COMPLIANCE SUMMARY
+Generated: 2025-11-13 14:02:30
+================================================================================
+
+Total Policies Reviewed: 26
+
+COMPLIANCE COVERAGE:
+  FCA Disclosures:      26/26 (100%)
+  Complaints Process:   26/26 (100%)
+  Eligibility Criteria: 26/26 (100%)
+  Claims Process:       26/26 (100%)
+
+RECOMMENDATIONS:
+  ✓ All policies have core FCA compliance documentation
+
+NEXT STEPS:
+  1. Review detailed reports for each compliance area
+  2. Address any warnings or missing information
+  3. Ensure all customer-facing materials reflect policy terms accurately
+  4. Regular review schedule for policy updates and regulatory changes

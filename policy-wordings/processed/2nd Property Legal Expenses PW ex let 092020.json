@@ -1,0 +1,229 @@
+{
+  "insurer_name": "Financial & Legal Insurance Company Limited (arranged by Lexelle Limited)",
+  "policy_type": "Legal Expenses Insurance - 2nd Property (excluding Let)",
+  "policy_version": "Master Certificate No: F&L2NDP/09/2020",
+  "coverage_summary": "Legal expenses insurance providing cover for legal fees and costs up to \u00a350,000 for civil claims relating to a second property that is not let out. Includes contract disputes, property protection claims, and access to 24/7 free legal advice helpline.",
+  "key_inclusions": [
+    "24/7 Free Legal Advice Line for legal issues under England, Wales, Scotland & Northern Ireland jurisdiction",
+    "Contract disputes for buying/hiring goods or services relating to the 2nd property (over \u00a3100 in dispute, or over \u00a31,000 for construction work)",
+    "Contract disputes for selling goods",
+    "Property protection claims for physical damage to 2nd property land, building or contents",
+    "Nuisance or trespass claims relating to 2nd property",
+    "Professional fees up to \u00a350,000 per period of cover",
+    "Defendant's costs if liable by court order",
+    "Mediation and alternative dispute resolution (with prior consent)"
+  ],
+  "key_exclusions": [
+    "Properties that are let for residential or other purposes including holidays",
+    "Small claims (under small claims jurisdiction)",
+    "Contracts regarding profession, business or employment (except letting 2nd property)",
+    "Lease, licence or tenancy agreements",
+    "Motor vehicle contracts",
+    "Insurance policy or financial product contracts",
+    "Verbal contracts (not confirmed in writing)",
+    "Claims on buildings/land other than the 2nd property",
+    "Compulsory purchase or government restrictions",
+    "Mining subsidence",
+    "Boundary disputes that predate the policy or occur within first 180 days",
+    "Defending property damage claims caused by the insured",
+    "Losses under \u00a3100 (or \u00a31,500 if caused by authorized person in property)",
+    "Claims without reasonable prospect of success (less than 51% chance)",
+    "Claims arising from criminal acts",
+    "Judicial review or Human Rights Act proceedings",
+    "Group or multi-party actions",
+    "Family disputes (divorce, custody, inheritance, etc.)",
+    "Intellectual property disputes",
+    "Partnership or directorship disputes",
+    "War, terrorism, nuclear risks",
+    "Computer virus in electronic data",
+    "Fines or criminal penalties",
+    "Claims against Lexelle Limited, the Insurer or Broker",
+    "Fraudulent or exaggerated claims"
+  ],
+  "coverage_limits": {
+    "maximum_amount_per_period": "\u00a350,000 total including Professional Fees and Defendant's Costs for one or more claims during a single Period of Cover",
+    "hourly_rate_for_representatives": "\u00a3100 + VAT (may be increased at insurer's discretion)",
+    "disbursement_threshold": "\u00a3500 - prior permission required for disbursements exceeding this amount (including VAT)"
+  },
+  "sub_limits": {
+    "contract_disputes_minimum": "\u00a3100 minimum amount in dispute (\u00a31,000 for construction/building work on 2nd property)",
+    "property_protection_minimum": "\u00a3100 minimum loss value (\u00a31,500 if caused by person authorized to be in property)",
+    "nuisance_or_trespass_excess": "\u00a3250 excess payable on Professional Fees for nuisance or trespass claims (payable when claim accepted)"
+  },
+  "special_conditions": [
+    "This is a 'claims made' policy - only covers claims notified within the period of cover",
+    "Claim must have 'Reasonable Prospect of Success' (more than 51% chance)",
+    "Full claim details must be received within 180 days of the event",
+    "Insurer appoints the Authorized Representative - not the insured's choice (except at point of legal proceedings)",
+    "Insured must not prejudice the claim by any action or inaction",
+    "Must cooperate with insurer and authorized representative",
+    "Cannot instruct representative to cease acting without good reason",
+    "Insurer consent required before: issuing proceedings, instructing counsel/experts, making appeals, settling claims, incurring disbursements over \u00a3500",
+    "Property must not be let for residential or other purposes including holidays",
+    "Change of address must be requested in writing and meet policy terms"
+  ],
+  "excess_deductible": "\u00a3250 excess applies to nuisance or trespass claims under Section 3 (Property Protection), payable when claim is accepted. No excess mentioned for contract disputes.",
+  "geographical_coverage": "England, Wales, Scotland and Northern Ireland only. Legal proceedings must be pursued in courts of these jurisdictions.",
+  "age_restrictions": "No age restrictions mentioned in this policy",
+  "pre_existing_conditions": "Boundary disputes that predate the Period of insurance or occur within the first 180 days are excluded. Events must occur during the Period of Cover.",
+  "cancellation_policy": "14-day cooling off period from purchase or receipt of documents (whichever is later) - full refund if no claims made/pending. After 14 days, can cancel but no premium refund. Insurer can cancel with 14 days written notice for valid reasons (fraud, non-payment, threatening behavior, non-compliance, inaccurate information). Proportionate refund given if insurer cancels (except for fraud/misrepresentation where premium is retained).",
+  "endorsements": [],
+  "claims_requirements": {
+    "notification_timeframe": "As soon as possible after the event. Full details must be received within 180 days of the event giving rise to the claim.",
+    "required_documents": [
+      "Complete and truthful report of facts giving rise to claim",
+      "Details of any potential witnesses",
+      "Documentary evidence in support of claim",
+      "Any additional information requested by insurer or authorized representative",
+      "Written contracts (verbal contracts not covered)"
+    ],
+    "process_steps": [
+      "Report claim by telephone to 0114 2493300",
+      "Provide complete report with supporting evidence",
+      "Insurer makes preliminary assessment of merits and reasonable prospect of success",
+      "If claim appears to fall under cover, insurer appoints Authorized Representative",
+      "If dispute about prospects, insurer instructs independent representative for advice",
+      "If accepted, representative must provide written assessment within 28 days",
+      "Representative must notify insured and insurer immediately of settlement proposals or changes in prospects",
+      "Representative must obtain insurer consent before major actions (issuing proceedings, instructing counsel, appeals, settlements, disbursements over \u00a3500)",
+      "Representative provides 6-monthly progress reports",
+      "If claim rejected or representative refuses to continue, insurer liability ends"
+    ],
+    "evidence_requirements": "Documentary evidence of the contract or event, witness details, proof of loss value, written confirmation of contracts (verbal contracts excluded)",
+    "claims_contact": "Tel: 0114 249 3300, Claims Manager, Lexelle Ltd, P.O. Box 4428, Sheffield, S9 9DD, Email: assist@lexelle.com"
+  },
+  "eligibility_criteria": {
+    "age_limits": "No specific age limits mentioned",
+    "medical_restrictions": "Not applicable to this legal expenses policy",
+    "occupational_restrictions": "Claims regarding profession, business or employment are excluded (except for letting out the 2nd property)",
+    "residency_requirements": "Must be resident in England, Wales, Scotland or Northern Ireland. Property must be located in these jurisdictions.",
+    "other_restrictions": [
+      "Property must be a 2nd property (not the only or principle home)",
+      "Property must NOT be let for residential or other purposes including holidays",
+      "Covers static caravans and park homes",
+      "Insured must be the owner of the property",
+      "Policy is not transferable"
+    ]
+  },
+  "policy_definitions": {
+    "2nd_property": "The property identified in the schedule (including static caravans and park homes), that is not the insured's only or principle home. Must not be let for residential or other purposes including holidays.",
+    "authorized_representative": "A solicitor, counsel, claims handler or mediator or other appropriately qualified person appointed and approved by the insurer to represent the insured's interests",
+    "civil_claim": "A claim for damages or compensation falling within the civil jurisdiction of the courts of the country in which the claim is made",
+    "condition": "An obligation which the insured must perform. If not performed, insurer will not be liable to pay anything under the policy",
+    "defendant's_costs": "Legal costs and expenses the insured may become liable to pay to another party in making a civil claim against that other party",
+    "free_legal_advice": "Basic legal advice over the telephone relating to a possible civil claim with potential to fall under policy cover. No correspondence will be entered into",
+    "insured": "The person named in the schedule to this policy",
+    "legal_proceedings": "A claim for damages or compensation pursued in a court of law within England, Wales, Scotland or Northern Ireland",
+    "maximum_amount": "\u00a350,000 in total, including Professional Fees and Defendant's Costs, for one or more claims during a single Period of Cover",
+    "period_of_cover": "The period stated in the schedule to this policy",
+    "professional_fees": "Legal fees and costs reasonably incurred by the Authorized Representative with insurer's prior authority, including costs by court order or paid with consent. Includes disbursements if services by third party, distinct from representative's services, and prior permission obtained for costs over \u00a3500 including VAT",
+    "reasonable_prospect_of_success": "Civil claim is deemed by insurer or authorized representative to have more than a 51% chance of being successful in recovering loss",
+    "small_claim": "A claim which is or may be allocated to the small claims jurisdiction of the courts of England and Wales or equivalent in Scotland and Northern Ireland",
+    "computer_virus": "A set of corrupting, harmful or otherwise unauthorized instructions or code including maliciously introduced code that propagates through a computer system or network. Includes trojan horses, worms and time or logic bombs",
+    "electronic_data": "Facts, concepts and information converted to a form useable for communications, interpretation or processing by electronic equipment. Includes programmes, software and coded instructions"
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "180-day waiting period for boundary disputes (disputes that occur within first 180 days are excluded)",
+    "notification_deadlines": "Notify insurer as soon as possible after event. Full details must be received within 180 days of the event giving rise to claim",
+    "claims_deadlines": "If disputed claim not referred to arbitration within 12 months of being turned down, claim is treated as abandoned",
+    "cooling_off_period": "14 days from purchase or receipt of policy documents (whichever is later) for full refund if no claims made/pending"
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "Financial & Legal Insurance Company Limited is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and Prudential Regulation Authority",
+      "Financial Services Register number: 202915",
+      "Lexelle Limited is appointed to administer insurance - FCA authorized and regulated, register number 312782",
+      "Customers can check FCA register at https://register.fca.org.uk/",
+      "Financial Ombudsman Service available for complaints (applies to consumers and small businesses with turnover \u00a36.5m or less and fewer than 50 employees or balance sheet below \u00a35m)"
+    ],
+    "ipid_key_info": "This is a 'claims made' insurance policy and only covers claims notified by the insured within the period of cover. Maximum cover \u00a350,000 per period. Covers contract disputes and property protection for 2nd property not let out.",
+    "fair_treatment_obligations": "Insured must be treated fairly. Policy is governed by English law. Disputes dealt with in courts of England or country within UK where main residence is situated. Arbitration available as alternative dispute resolution.",
+    "complaints_process": "For sales complaints: contact broker/agent who arranged insurance. For claims complaints: contact Claims Manager at Lexelle Ltd (0114 249 3300, assist@lexelle.com, P.O. Box 4428, Sheffield, S9 9DD). If not resolved, can appeal to Financial Ombudsman Service (0300 123 9 123, complaint.info@financial-ombudsman.org.uk, Exchange Tower, London, E14 9SR). EU residents can use EU Online Dispute Resolution Portal at http://ec.europa.eu/consumers/odr/",
+    "regulatory_warnings": [
+      "Fraudulent claims will result in policy being void, no premium refund, and possible legal action",
+      "Information may be shared with law enforcement authorities in cases of fraud",
+      "Must take reasonable care to provide accurate and complete information",
+      "Failure to provide accurate information may result in policy being invalid or claims not paid",
+      "Policy cancellation for fraud/misrepresentation may affect eligibility for insurance with other insurers"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "What is covered under this policy?",
+      "answer": "Legal expenses up to \u00a350,000 for contract disputes and property protection claims relating to your 2nd property that is not let out. Includes a 24/7 free legal advice helpline.",
+      "section_reference": "Sections of Cover, pages 4-5"
+    },
+    {
+      "question": "Can I use this policy if I let out my second property?",
+      "answer": "No. The property must not be let for residential or other purposes including holidays. This is a fundamental requirement of the policy.",
+      "section_reference": "2nd Property definition, page 2; What is not insured, page 4"
+    },
+    {
+      "question": "How quickly do I need to report a claim?",
+      "answer": "You must notify the insurer as soon as possible, and provide full details within 180 days of the event giving rise to your claim. Delays may reduce or prevent you from receiving assistance.",
+      "section_reference": "Policy Conditions, page 7; Reporting of Claims, page 7"
+    },
+    {
+      "question": "Can I choose my own solicitor?",
+      "answer": "No, initially the insurer appoints the Authorized Representative. However, you have legal rights to choose your own representative at the point of or during legal proceedings. The insurer may also permit you to instruct another representative if they consider it fair.",
+      "section_reference": "Reporting of Claims, page 7; Policy Conditions, page 7"
+    },
+    {
+      "question": "What does 'Reasonable Prospect of Success' mean?",
+      "answer": "Your claim must be deemed by the insurer or authorized representative to have more than a 51% chance of being successful in recovering your loss.",
+      "section_reference": "Policy Definitions - Reasonable Prospect of Success, page 3"
+    },
+    {
+      "question": "Are small claims covered?",
+      "answer": "No. Professional fees and defendant's costs for small claims are excluded. Small claims are those allocated to the small claims jurisdiction of the courts.",
+      "section_reference": "General Policy Exclusions, page 5"
+    },
+    {
+      "question": "What is the excess on this policy?",
+      "answer": "There is a \u00a3250 excess for nuisance or trespass claims under Property Protection (Section 3). This is payable as soon as the claim is accepted. No excess is mentioned for contract disputes.",
+      "section_reference": "Section 3 - Property Protection, What is not insured (j), page 5"
+    },
+    {
+      "question": "What happens if I disagree with the insurer's assessment that my claim has no reasonable prospect of success?",
+      "answer": "The insurer will instruct an independent Authorized Representative to advise whether your claim has reasonable prospects. If they confirm it doesn't, the insurer will not be liable to pay anything. If they confirm it does, the insurer will appoint them to act on your behalf.",
+      "section_reference": "Reporting of Claims (d), page 7"
+    },
+    {
+      "question": "Can I cancel this policy and get a refund?",
+      "answer": "Yes, within 14 days of purchase or receipt of documents (whichever is later) you can get a full refund if no claims have been made or are pending. After 14 days you can cancel but will not receive a premium refund.",
+      "section_reference": "Cancellation, page 9"
+    },
+    {
+      "question": "Does this cover boundary disputes?",
+      "answer": "Boundary disputes at your 2nd property are covered, but only if they don't predate the period of insurance and don't occur within the first 180 days of cover.",
+      "section_reference": "Section 3 - Property Protection, What is not insured (h), page 5"
+    },
+    {
+      "question": "What is the Free Legal Advice helpline and how do I use it?",
+      "answer": "It provides basic legal advice over the telephone 24/7 for personal legal issues under England, Wales, Scotland & Northern Ireland jurisdiction. Call 0333 4008217 with your policy number and master certificate number F&L2NDP/09/2020. This is NOT notification of a claim - claims must be reported separately.",
+      "section_reference": "Section 1 - 24/7 Free Legal Advice Line, page 4"
+    },
+    {
+      "question": "Are construction or building disputes covered?",
+      "answer": "Yes, but only for construction, building, designing, converting or extending your 2nd property, and the amount in dispute must be more than \u00a31,000. Construction work on other properties is excluded.",
+      "section_reference": "Section 2 - Contract Disputes, page 4"
+    },
+    {
+      "question": "What happens if the solicitor refuses to continue acting for me?",
+      "answer": "If the authorized representative refuses to continue acting on your behalf, the insurer will not pay anything further under the policy and their liability ceases. The insurer may appoint another representative if they consider it fair.",
+      "section_reference": "Reporting of Claims (g) and (h), page 7; General Policy Exclusions (o), page 5"
+    },
+    {
+      "question": "Can I make a claim for disputes with my family?",
+      "answer": "No. Disputes with members of your family are excluded, as are divorce, custody, guardianship, inheritance and related family matters.",
+      "section_reference": "General Policy Exclusions (s), page 6"
+    },
+    {
+      "question": "Is terrorism covered?",
+      "answer": "No. Any direct or indirect consequence of terrorism as defined by the Terrorism Act 2000 is excluded.",
+      "section_reference": "General Policy Exclusions (u), page 6"
+    }
+  ],
+  "source_file": "2nd Property Legal Expenses PW ex let 092020.pdf",
+  "processed_date": "1762788744.0"
+}

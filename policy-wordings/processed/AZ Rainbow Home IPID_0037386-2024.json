@@ -1,0 +1,198 @@
+{
+  "insurer_name": "Highway Insurance Company Limited (trading as Allianz)",
+  "policy_type": "Home Building and Contents Insurance",
+  "policy_version": "Document reference: 0037386-2024",
+  "coverage_summary": "Home insurance covering the cost of repairing or rebuilding your home and/or replacing its contents following certain unforeseen events such as fire, storm, flood, theft and escape of water. This is a Broker Rainbow Home Insurance product offering Buildings Cover, Contents Cover, or both, with optional additional covers.",
+  "key_inclusions": [
+    "Fire damage",
+    "Storm damage",
+    "Flood damage",
+    "Theft",
+    "Escape of water",
+    "Buildings structure including garages and domestic outbuildings",
+    "Permanent fixtures and fittings",
+    "Accidental breakage of windows and sanitaryware (Buildings)",
+    "Tracing source of escape of water and wall repairs during investigation",
+    "Property owners liability",
+    "Home Emergencies including call out charges and labour (up to \u00a3500)",
+    "Household goods and personal belongings in home, garage and outbuildings (Contents)",
+    "Accidental damage to televisions and mirrors (Contents)",
+    "Freezer food",
+    "Pedal cycles within the home",
+    "Occupiers and tenants liability"
+  ],
+  "key_exclusions": [
+    "Policy excess amounts",
+    "Maintenance, wear and tear or damage that happens gradually over time",
+    "Storm or flood damage to fences, gates and hedges",
+    "Money and pedal cycles stolen from home unless force and violence was used to gain entry (Contents cover)",
+    "Damage caused by chewing, scratching, tearing or fouling by domestic pets",
+    "Deliberate acts of damage",
+    "Damage that occurred before policy start date",
+    "Malicious acts, vandalism, theft, escape or loss of water, leakage or loss of oil, breakage of glass or sanitaryware, frost, or contents in the garden if home is unoccupied for more than 60 days"
+  ],
+  "coverage_limits": {
+    "home_emergencies": "Up to \u00a3500 including call out charges and labour",
+    "family_legal_protection": "Up to \u00a3100,000 (if additional cover chosen)",
+    "sum_insured": "As confirmed in quote, Policy Document and Policy Schedule (specific amounts not stated in IPID)"
+  },
+  "sub_limits": {
+    "matching_undamaged_items": "Up to 50% for replacing undamaged or unbroken items when damage occurs in a clearly identifiable area and exact matches are not possible",
+    "temporarily_removed_contents": "Limited cover for contents temporarily removed from home for up to 90 days in Great Britain, Northern Ireland, Isle of Man or Channel Islands"
+  },
+  "special_conditions": [
+    "Home must not be left unoccupied for more than 60 days (loss of certain coverages)",
+    "Buildings, contents and personal property must be kept in sound condition and good repair",
+    "Full and accurate information must be provided during application",
+    "Any information changes during policy period must be reported",
+    "Storm damage only covered where wind speeds are at least 47mph/75kmh or torrential rainfall at least 25mm/one inch per hour or snow depth at least one foot/30cm in 24 hours or hail of intensity causing damage to hard surfaces or breaking glass",
+    "Damaged contents or building parts must be retained for inspection",
+    "Cannot negotiate, admit fault, or make offer/promise/payment without written consent in event of claim"
+  ],
+  "excess_deductible": "Policy excess applies (specific amounts confirmed in Policy Schedule - not stated in IPID)",
+  "geographical_coverage": "Buildings and Contents: Property location and within boundaries of land. Contents temporarily removed: Great Britain, Northern Ireland, Isle of Man, Channel Islands (up to 90 days). Personal Possessions (if chosen): Anywhere in the world",
+  "age_restrictions": "Not specified in this document",
+  "pre_existing_conditions": "Damage that has happened before the start of the policy is not covered",
+  "cancellation_policy": "Customer can cancel at any time by writing, emailing or calling intermediary. Within 14 days of start/renewal date or receipt of policy documents (whichever is later): Full refund for unused period. After 14 days (no claim made): Charged for period of cover provided. If claim made during policy period: Full annual premium must be paid, no refund available.",
+  "endorsements": [
+    {
+      "name": "Accidental Damage to Buildings",
+      "description": "Extends buildings cover to include accidental damage beyond standard perils",
+      "cost_impact": "Additional premium (not specified)",
+      "coverage_impact": "Broadens coverage beyond named perils for buildings"
+    },
+    {
+      "name": "Accidental Damage to Contents",
+      "description": "Extends contents cover to include accidental damage beyond standard perils",
+      "cost_impact": "Additional premium (not specified)",
+      "coverage_impact": "Broadens coverage beyond named perils for contents"
+    },
+    {
+      "name": "Personal Possessions away from home",
+      "description": "Covers loss or damage to personal possessions when away from the home",
+      "cost_impact": "Additional premium (not specified)",
+      "coverage_impact": "Provides worldwide cover for personal possessions outside the home"
+    },
+    {
+      "name": "Family Legal Protection",
+      "description": "Legal expenses cover up to \u00a3100,000",
+      "cost_impact": "Additional premium (not specified)",
+      "coverage_impact": "Adds legal protection cover up to \u00a3100,000"
+    }
+  ],
+  "claims_requirements": {
+    "notification_timeframe": "As soon as reasonably possible after the incident",
+    "required_documents": [
+      "Full details of the claim",
+      "Retained damaged contents or building parts for inspection"
+    ],
+    "process_steps": [
+      "Tell insurer as soon as reasonably possible",
+      "Provide full details of the incident",
+      "Retain any damaged contents or parts of buildings for inspection",
+      "Do not negotiate, admit fault or make any offer, promise or payment without written consent"
+    ],
+    "evidence_requirements": "Damaged contents or parts of buildings must be retained so insurer may inspect them",
+    "claims_contact": "Contact through intermediary (specific contact details not provided in IPID)"
+  },
+  "eligibility_criteria": {
+    "age_limits": "Not specified in this document",
+    "medical_restrictions": "Not applicable for home insurance",
+    "occupational_restrictions": "Not specified in this document",
+    "residency_requirements": "Property must be located in Great Britain, Northern Ireland, Isle of Man or Channel Islands",
+    "other_restrictions": [
+      "Property must not be left unoccupied for more than 60 days without notification",
+      "Must maintain buildings, contents and personal property in sound condition and good repair",
+      "Must provide full and accurate information during application"
+    ]
+  },
+  "policy_definitions": {
+    "unoccupied": "Home left empty/uninhabited for more than 60 days (results in loss of certain coverages)",
+    "storm": "Wind speeds of at least 47mph/75kmh OR torrential rainfall at rate of at least 25mm/one inch per hour OR snow to depth of at least one foot/30cm in 24 hours OR hail of such intensity that it causes damage to hard surfaces or breaks glass",
+    "buildings": "The structure of your home, its garages or domestic outbuildings within the boundaries of your land, plus permanent fixtures and fittings",
+    "contents": "Household goods and personal belongings in your home, garage and any domestic outbuildings within the boundaries of your land",
+    "personal possessions": "Items covered under optional Personal Possessions cover when away from home",
+    "intermediary": "The broker or agent through whom the policy is arranged",
+    "within the boundaries of your land": "Property must be within the defined boundaries of the insured property location"
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "Not specified in this document",
+    "notification_deadlines": "As soon as reasonably possible after an incident for claims. Must notify of any information changes during policy period.",
+    "claims_deadlines": "Not specified in this document",
+    "cooling_off_period": "14 days from start/renewal date or receipt of policy documents, whichever is later, for full refund of unused cover"
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "This is an Insurance Product Information Document (IPID)",
+      "Document does not contain full terms, conditions, limitations and exclusions - these are in Policy Document and Policy Schedule",
+      "Documents available in braille, large print or audio format on request",
+      "Company authorization statement: Authorized by Prudential Regulation Authority and regulated by Financial Conduct Authority and Prudential Regulation Authority, register number 202972",
+      "Company registration: Highway Insurance Company Limited registered in England and Wales number 3730662",
+      "Registered address: 57 Ladymead, Guildford, Surrey, GU1 1DB"
+    ],
+    "ipid_key_info": "This is a standardized IPID document providing key information about Broker Rainbow Home Insurance product. Covers buildings and/or contents against specified perils. Optional additional covers available. Minimum 12 month annually renewable policy. Premium payable as single payment or monthly instalments through intermediary.",
+    "fair_treatment_obligations": "Customer must not commit fraud. Insurer requires full and accurate information. Property must be maintained in good repair. Customer must comply with claims notification and cooperation requirements.",
+    "complaints_process": "Not specified in this IPID - details would be in full Policy Document",
+    "regulatory_warnings": [
+      "IMPORTANT: This document does not contain the full terms, conditions, limitations and exclusions of the policy",
+      "Full terms can be found in the Policy Document and Policy Schedule",
+      "Home Insurance is designed to cover certain unforeseen events, but it doesn't cover everything",
+      "Without home insurance you would have to cover repair/replacement costs yourself",
+      "If you have made a claim during the period of insurance then you will have to pay the full annual premium, so you won't receive a refund"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "What happens if I leave my home empty for a holiday?",
+      "answer": "You won't be covered for malicious acts, vandalism, theft, escape or loss of water, leakage or loss of oil, breakage of glass or sanitaryware, frost or contents in the garden if your home is left unoccupied for more than 60 days. For shorter periods, cover continues as normal.",
+      "section_reference": "Are there any restrictions on cover?"
+    },
+    {
+      "question": "Are my fence and gates covered if damaged in a storm?",
+      "answer": "No, storm or flood damage to fences, gates and hedges is specifically excluded from cover.",
+      "section_reference": "What is not insured?"
+    },
+    {
+      "question": "Can I get a refund if I cancel my policy?",
+      "answer": "Yes, if you cancel within 14 days of start/renewal or receiving documents (whichever is later), you get a full refund for unused cover. After 14 days with no claim, you're charged only for the period covered. However, if you've made a claim, you must pay the full annual premium with no refund.",
+      "section_reference": "How do I cancel the contract?"
+    },
+    {
+      "question": "Is my bicycle covered if stolen from my home?",
+      "answer": "Pedal cycles are covered within the home under Contents Cover. However, if stolen, the theft is only covered if force and violence was used to gain entry to the home. For broader cycle cover away from home, Personal Possessions cover would be needed.",
+      "section_reference": "What is insured? / What is not insured?"
+    },
+    {
+      "question": "What defines a storm for claims purposes?",
+      "answer": "A storm is only covered where wind speeds are at least 47mph/75kmh or torrential rainfall at a rate of at least 25mm/one inch per hour or snow to a depth of at least one foot/30cm in 24 hours or hail of such intensity that it causes damage to hard surfaces or breaks glass.",
+      "section_reference": "Are there any restrictions on cover?"
+    },
+    {
+      "question": "Am I covered for damage caused by my pet?",
+      "answer": "No, damage caused by chewing, scratching, tearing or fouling by domestic pets is specifically excluded.",
+      "section_reference": "What is not insured?"
+    },
+    {
+      "question": "If I need to replace items and can't match them exactly, will you pay for all items to match?",
+      "answer": "No, if damage occurs in a clearly identifiable area and exact replacements cannot be matched, you will only be covered for up to 50% for replacing any undamaged or unbroken items.",
+      "section_reference": "Are there any restrictions on cover?"
+    },
+    {
+      "question": "Are my belongings covered when I take them on holiday abroad?",
+      "answer": "Contents have limited cover when temporarily removed from home for up to 90 days, but only in Great Britain, Northern Ireland, Isle of Man or Channel Islands. For worldwide cover, you would need to add the Personal Possessions optional cover.",
+      "section_reference": "Where am I covered?"
+    },
+    {
+      "question": "What is included in Home Emergencies cover?",
+      "answer": "Home Emergencies cover includes call out charges and labour up to \u00a3500 for emergency situations.",
+      "section_reference": "What is insured? - Buildings Cover"
+    },
+    {
+      "question": "Do I need to tell you if something changes during my policy?",
+      "answer": "Yes, you must tell the insurer if any of the information you provided during application changes during the period of insurance. This is one of your key obligations.",
+      "section_reference": "What are my obligations?"
+    }
+  ],
+  "source_file": "AZ Rainbow Home IPID_0037386-2024.pdf",
+  "processed_date": "1762788742.0"
+}

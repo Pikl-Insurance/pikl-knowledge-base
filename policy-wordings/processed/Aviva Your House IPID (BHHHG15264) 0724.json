@@ -1,0 +1,207 @@
+{
+  "insurer_name": "Aviva Insurance Limited",
+  "policy_type": "Home Insurance",
+  "policy_version": "07.2024 (BHHHG15264)",
+  "coverage_summary": "Your House home insurance protects against loss or damage to Buildings and/or Contents, covering fire, flood, storm, theft and subsidence as described in the policy booklet.",
+  "key_inclusions": [
+    "Loss or damage to structure of home including garages and outbuildings",
+    "Cost of alternative accommodation and loss of rent if home uninhabitable",
+    "Accidental damage to fixed glass and sanitary fittings",
+    "Replacement of external door locks if keys lost or stolen",
+    "Sourcing domestic water leaks damaging the home including making good",
+    "Public liability for homeowner legal liability",
+    "Loss or damage to contents in home, garages, outbuildings or gardens",
+    "Accidental damage to audio, video and computer equipment",
+    "Damage to freezer food from temperature changes",
+    "Occupiers and personal liability",
+    "Tenant's liability for damage to landlord's property"
+  ],
+  "key_exclusions": [
+    "Damage from wear and tear, electrical and mechanical breakdown, or gradual deterioration",
+    "Wet or dry rot",
+    "Storm damage to fences, gates and hedges",
+    "Losses and damage from burst pipes when home unoccupied for more than 60 days",
+    "Theft or malicious damage caused by policyholder, paying guests or tenants",
+    "Cost of replacing undamaged items that form part of a pair, set or suite",
+    "Motorised vehicles, aircraft, boats, boards, caravans or trailers",
+    "Property used for business or profession (except certain home office equipment under contents) unless specifically agreed",
+    "Damage from chewing, scratching or fouling by domestic animals (unless accidental damage cover purchased)",
+    "Damage to certain sports equipment while in use (under personal belongings unless purchased)"
+  ],
+  "coverage_limits": {
+    "buildings_and_contents": "Maximum amount shown on schedule for rebuilding home and/or replacing contents"
+  },
+  "sub_limits": {
+    "note": "Monetary limits for certain covers apply - specific amounts to be found in full policy booklet"
+  },
+  "special_conditions": [
+    "Must take reasonable care to give complete and accurate answers to questions",
+    "Must tell insurance adviser immediately if information changes",
+    "Must observe and fulfil all terms, provisions, conditions and clauses - failure could affect cover",
+    "Must report any event which might lead to a claim as soon as possible",
+    "For Family Legal Protection, lawyer must believe you are likely to win the case",
+    "Conditions apply if you want to nominate your own lawyer for legal protection",
+    "Pedal cycles only covered against theft if properly secured when unattended",
+    "Some accidental damage options don't cover damage when home is lent, let, sub-let or used by paying guests"
+  ],
+  "excess_deductible": "An excess (the amount you have to pay on any claim) applies - specific amount shown on schedule",
+  "geographical_coverage": "At the home being insured within United Kingdom, Channel Islands or Isle of Man. Optional personal belongings cover applies anywhere in the world. Optional accidental damage cover only applies inside home including gardens and outbuildings.",
+  "age_restrictions": "Not specified in this document",
+  "pre_existing_conditions": "Not applicable for home insurance",
+  "cancellation_policy": "Can cancel within 14 days of purchase or renewal (or from day you receive policy/renewal documents if later). Can also cancel at any time during coverage period. Full refund if cancelled before cover starts. Reduced refund (pro-rated for time covered) if cancelled after cover starts. Contact insurance adviser to cancel.",
+  "endorsements": [
+    {
+      "name": "Buildings Accidental Damage Extension",
+      "description": "Covers the whole building for accidental damage",
+      "cost_impact": "Additional premium (amount not specified)",
+      "coverage_impact": "Extends coverage to accidental damage to entire building structure. Does not cover damage from chewing, scratching or fouling by domestic animals. May not cover damage when home is lent, let, sub-let or used by paying guests."
+    },
+    {
+      "name": "Contents Accidental Damage Extension",
+      "description": "Covers most contents for accidental damage",
+      "cost_impact": "Additional premium (amount not specified)",
+      "coverage_impact": "Extends coverage to accidental damage to most contents. Does not cover damage from chewing, scratching or fouling by domestic animals. May not cover damage when home is lent, let, sub-let or used by paying guests."
+    },
+    {
+      "name": "Personal Belongings",
+      "description": "Worldwide cover against theft, accidental loss or damage for items such as clothing, mobile phones, tablets, handbags and money",
+      "cost_impact": "Additional premium (amount not specified)",
+      "coverage_impact": "Adds worldwide coverage for personal items. Does not cover skis, boards, sub-aqua equipment and riding tack unless specifically agreed. Does not cover damage to certain sports equipment while in use. Limitations apply to items stolen from unattended vehicle."
+    },
+    {
+      "name": "Pedal Cycles",
+      "description": "Worldwide cover for theft, loss or damage of family's bikes",
+      "cost_impact": "Additional premium (amount not specified)",
+      "coverage_impact": "Adds worldwide coverage for bicycles. Only covers theft if bikes are properly secured when unattended."
+    },
+    {
+      "name": "Family Legal Protection",
+      "description": "Helps policyholder and family members living with them pursue or defend legal disputes",
+      "cost_impact": "Additional premium (amount not specified)",
+      "coverage_impact": "Will only accept claim if Aviva's lawyer believes you are likely to win the case. Conditions apply if you want to nominate your own lawyer to represent you."
+    }
+  ],
+  "claims_requirements": {
+    "notification_timeframe": "Must tell us about any event which might lead to a claim as soon as possible",
+    "required_documents": [
+      "Information as specified by Aviva to achieve settlement",
+      "Full details available in General Conditions section of policy booklet"
+    ],
+    "process_steps": [
+      "Report event that might lead to claim as soon as possible",
+      "Aviva will tell you what information is needed",
+      "Provide required documentation",
+      "Follow procedures outlined in General Conditions section of policy booklet"
+    ],
+    "evidence_requirements": "Specific evidence requirements detailed in General Conditions section of policy booklet",
+    "claims_contact": "Contact insurance adviser"
+  },
+  "eligibility_criteria": {
+    "age_limits": "Not specified in this document",
+    "medical_restrictions": "Not applicable for home insurance",
+    "occupational_restrictions": "Property used for business or profession not covered (except certain home office equipment under contents cover) unless specifically agreed with insurer",
+    "residency_requirements": "Home must be within United Kingdom, Channel Islands or Isle of Man",
+    "other_restrictions": [
+      "Must not be letting or sub-letting home without appropriate coverage",
+      "Must not have paying guests without considering impact on coverage",
+      "Home must not be unoccupied for more than 60 days for certain coverages"
+    ]
+  },
+  "policy_definitions": {
+    "unoccupied": "Not defined explicitly but home unoccupied for more than 60 days affects certain coverages (e.g. burst pipes)",
+    "paying_guests": "Guests who pay to stay at the property - certain losses or damage caused by them are excluded",
+    "tenants": "People renting the property - certain losses or damage caused by them are excluded, though tenant's liability is covered separately",
+    "home": "The insured property including garages, outbuildings and gardens within UK, Channel Islands or Isle of Man",
+    "buildings": "Structure of the home including garages and outbuildings",
+    "contents": "Items in the home, garages, outbuildings or gardens",
+    "personal belongings": "Items such as clothing, mobile phones, tablets, handbags and money (optional cover)",
+    "excess": "The amount you have to pay on any claim"
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "Not specified in this document",
+    "notification_deadlines": "Must report any event which might lead to a claim as soon as possible. Must tell insurance adviser immediately if information changes.",
+    "claims_deadlines": "Not specified in this document - refer to General Conditions in policy booklet",
+    "cooling_off_period": "14 days from purchase or renewal (or from day you receive policy or renewal documents, if later) to cancel with full refund if cancelled before cover starts"
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "Authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority",
+      "Firm Reference Number 202153",
+      "Registered in Scotland No. 2116",
+      "Registered office: Pitheavlis, Perth PH2 0NH",
+      "This is a summary of insurance policy - all terms and conditions found in policy documents"
+    ],
+    "ipid_key_info": "This is an Insurance Product Information Document (IPID) providing summary of insurance policy. Company: Aviva Insurance Limited. Product: Your House. Policy covers loss or damage to Buildings and/or Contents including fire, flood, storm, theft and subsidence.",
+    "fair_treatment_obligations": "Must take reasonable care to give complete and accurate answers to questions. Insurer will tell you what information needed to achieve claim settlement.",
+    "complaints_process": "Not specified in this summary document - refer to full policy booklet",
+    "regulatory_warnings": [
+      "You must take reasonable care to give us complete and accurate answers to any questions we ask",
+      "Please tell your insurance adviser immediately if information changes",
+      "Failure to observe and fulfil policy terms could affect your cover"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "What happens if my home is unoccupied for more than 60 days?",
+      "answer": "Certain losses and damage (e.g. from burst pipes) to buildings or contents are not covered when your home is unoccupied for more than 60 days",
+      "section_reference": "What is not insured - Buildings and Contents exclusions"
+    },
+    {
+      "question": "Are my bicycles covered?",
+      "answer": "Basic policy does not cover bicycles. You can purchase optional Pedal Cycles cover for worldwide coverage against theft, loss or damage, but bikes must be properly secured when unattended for theft to be covered",
+      "section_reference": "Optional cover - Pedal Cycles; Restrictions on cover"
+    },
+    {
+      "question": "Can I use part of my home for business?",
+      "answer": "Property used for business or profession is not covered except certain home office equipment under contents cover, unless you have specifically agreed this with Aviva",
+      "section_reference": "Are there any restrictions on cover"
+    },
+    {
+      "question": "What if I rent out my property or have paying guests?",
+      "answer": "Certain losses or damage (e.g. theft or malicious damage) caused by paying guests or tenants are excluded. Some accidental damage options don't cover damage when home is lent, let, sub-let or used by paying guests. You should inform your insurer about letting arrangements.",
+      "section_reference": "What is not insured; Are there any restrictions on cover"
+    },
+    {
+      "question": "Are fences and gates covered for storm damage?",
+      "answer": "No, storm damage to fences, gates and hedges is specifically excluded from coverage",
+      "section_reference": "What is not insured"
+    },
+    {
+      "question": "If part of a matching set is damaged, will you replace the whole set?",
+      "answer": "No, the cost of replacing undamaged items that form part of a pair, set or suite is not covered",
+      "section_reference": "What is not insured"
+    },
+    {
+      "question": "How do I pay for this insurance?",
+      "answer": "You can pay monthly or all at once by credit/debit card or direct debit. If you pay monthly, a credit charge will apply. Discuss payment options with your insurance adviser.",
+      "section_reference": "When and how do I pay"
+    },
+    {
+      "question": "What if I need to cancel my policy?",
+      "answer": "You can cancel within 14 days of purchase/renewal for full refund (if before cover starts) or pro-rated refund (if after cover starts). You can also cancel anytime during coverage with pro-rated refund. Contact your insurance adviser to cancel.",
+      "section_reference": "How do I cancel the contract"
+    },
+    {
+      "question": "Are my belongings covered when I travel abroad?",
+      "answer": "Standard policy only covers home within UK, Channel Islands or Isle of Man. You need to purchase optional Personal Belongings cover for worldwide coverage of items like clothing, mobile phones, tablets, handbags and money",
+      "section_reference": "Where am I covered; Optional cover - Personal Belongings"
+    },
+    {
+      "question": "What is the excess and how much do I pay?",
+      "answer": "The excess is the amount you have to pay on any claim. The specific excess amount will be shown on your schedule",
+      "section_reference": "Are there any restrictions on cover"
+    },
+    {
+      "question": "Is water leak detection covered?",
+      "answer": "Yes, under Buildings cover, the policy covers sourcing a domestic water leak which is damaging the home, including making good after the leak has been fixed",
+      "section_reference": "What is insured - Buildings"
+    },
+    {
+      "question": "What about damage from my pet?",
+      "answer": "Damage from chewing, scratching or fouling by domestic animals is excluded unless you purchase optional Accidental Damage cover",
+      "section_reference": "What is not insured - Optional cover; Optional cover - Accidental damage extension"
+    }
+  ],
+  "source_file": "Aviva Your House IPID (BHHHG15264) 0724.pdf",
+  "processed_date": "1762788742.0"
+}

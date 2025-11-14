@@ -1,0 +1,274 @@
+{
+  "insurer_name": "AXA Insurance UK plc",
+  "policy_type": "Home Insurance - Household Buildings and Contents Insurance",
+  "policy_version": "AXA Extra - 04/2025",
+  "coverage_summary": "Household Buildings and Contents Insurance designed to provide cover for loss or damage to your property, including main coverage for perils like fire, theft, flood, and storm, with optional covers for accidental damage, home assistance, legal protection, and personal possessions.",
+  "key_inclusions": [
+    "Loss or damage from fire, smoke, explosion, lightning, earthquake, storm, flood, theft",
+    "Escape of water (e.g. burst pipes or tanks), oil, malicious acts, riot, subsidence",
+    "Collision by vehicles or animals, falling trees, collapse of aerials or satellite dishes",
+    "Buildings cover up to \u00a31,000,000",
+    "Contents cover up to \u00a3100,000",
+    "Valuables up to \u00a330,000 per claim (single items up to \u00a315,000)",
+    "Money up to \u00a3750",
+    "Credit cards up to \u00a31,000",
+    "Business equipment up to \u00a35,000",
+    "Replacing locks up to \u00a31,000",
+    "Alternative accommodation up to \u00a3200,000 for Buildings and \u00a315,000 for Contents",
+    "Trace and access up to \u00a35,000",
+    "Frozen food up to \u00a3100,000",
+    "Contents in garages and outbuildings up to \u00a3100,000",
+    "Contents in the garden up to \u00a31,000",
+    "Temporary removal up to \u00a3100,000",
+    "Documents up to \u00a3500",
+    "Special events increase \u00a37,500",
+    "Visitors and domestic staff personal effects \u00a31,000",
+    "Garden plants up to \u00a3500",
+    "Liability to domestic staff up to \u00a310,000,000",
+    "Tenants liability up to \u00a315,000",
+    "Occupiers and public liability up to \u00a32,000,000",
+    "Property owner's liability up to \u00a32,000,000",
+    "Unrecovered damages up to \u00a32,000,000",
+    "Fatal accident up to \u00a35,000",
+    "Downloaded audio and visual files \u00a31,000",
+    "Accidental damage to entertainment equipment up to \u00a3100,000",
+    "Accidental breakage of mirrors, fixed glass in furniture, ceramic hobs and glass oven doors up to \u00a3100,000",
+    "Accidental damage to cables, drain inspection covers and underground drains, pipes or tanks up to \u00a31,000,000",
+    "Accidental breakage of fixed glass in windows, fixed ceramic hobs and fixed sanitary ware and bathroom fittings up to \u00a31,000,000",
+    "Emergency evacuation alternative accommodation up to \u00a32,500"
+  ],
+  "key_exclusions": [
+    "Loss or damage caused gradually or by wear and tear, depreciation",
+    "Effects of light or atmosphere, mould, dry or wet rot or fungus",
+    "Costs from normal use, maintenance and upkeep of buildings",
+    "Loss or damage after home has been unoccupied or unfurnished - by theft, malicious people, and escape of water or oil",
+    "Loss or damage to gates, hedges and fences caused by storm or flood",
+    "Loss or damage caused by sinks and baths overflowing from taps being left on (unless accidental damage cover added)",
+    "Loss or damage caused deliberately, wilfully, maliciously, illegally or unlawfully by you, your family or anyone lawfully in the home",
+    "Mechanical or electrical breakdown or failure (contents accidental damage)",
+    "Damage to jewellery when moving house",
+    "Damage when items placed into storage during house move",
+    "Damage caused by or during cleaning, maintenance, repair, dismantling, restoring, altering, dyeing or washing",
+    "Damage from faulty workmanship, defective design or defective materials (buildings accidental damage)",
+    "Damage caused by alteration or extension of buildings"
+  ],
+  "coverage_limits": {
+    "buildings_main_cover": "\u00a31,000,000",
+    "contents_main_cover": "\u00a3100,000",
+    "valuables_per_claim": "\u00a330,000",
+    "single_valuable_item": "\u00a315,000",
+    "money": "\u00a3750",
+    "credit_cards": "\u00a31,000",
+    "business_equipment": "\u00a35,000",
+    "lock_replacement": "\u00a31,000",
+    "alternative_accommodation_buildings": "\u00a3200,000",
+    "alternative_accommodation_contents": "\u00a315,000",
+    "heating_oil_and_metered_water_loss": "\u00a31,000",
+    "trace_and_access": "\u00a35,000",
+    "frozen_food": "\u00a3100,000",
+    "contents_in_garages_outbuildings": "\u00a3100,000",
+    "contents_in_garden": "\u00a31,000",
+    "temporary_removal": "\u00a3100,000",
+    "documents": "\u00a3500",
+    "special_events_increase": "\u00a37,500",
+    "visitors_domestic_staff_effects": "\u00a31,000",
+    "garden_plants": "\u00a3500",
+    "liability_domestic_staff": "\u00a310,000,000",
+    "tenants_liability": "\u00a315,000",
+    "occupiers_public_liability": "\u00a32,000,000",
+    "property_owners_liability": "\u00a32,000,000",
+    "unrecovered_damages": "\u00a32,000,000",
+    "fatal_accident": "\u00a35,000",
+    "downloaded_audio_visual_files": "\u00a31,000",
+    "accidental_damage_entertainment_equipment": "\u00a3100,000",
+    "accidental_breakage_mirrors_glass_hobs": "\u00a3100,000",
+    "accidental_damage_underground_drains_pipes": "\u00a31,000,000",
+    "accidental_breakage_fixed_glass_sanitary_ware": "\u00a31,000,000",
+    "emergency_evacuation_accommodation": "\u00a32,500"
+  },
+  "sub_limits": {
+    "home_assistance_per_claim": "\u00a31,000 inc VAT (for callout and temporary repair)",
+    "home_assistance_alternative_accommodation": "\u00a3250",
+    "home_assistance_max_claims_per_year": "3 claims in any 12 month period",
+    "personal_possessions_credit_card": "\u00a31,000",
+    "accidental_damage_contents_in_garden": "\u00a31,000"
+  },
+  "special_conditions": [
+    "You and your family must take precautions to avoid injury, loss or damage",
+    "Take reasonable steps to safeguard the property insured from loss or damage",
+    "Maintain property in good repair",
+    "For Home Assistance: property should be properly maintained and boiler/heating system serviced by qualified person per manufacturer's guidelines",
+    "For Personal Possessions: theft from unattended vehicles only covered if items hidden in boot/glovebox and vehicle fully locked",
+    "Must notify of changes including: change of address, structural alterations, letting the home, unoccupied periods, bankruptcy, criminal convictions or cautions",
+    "Premium must be paid on time",
+    "Must not dispose of damaged items or conduct permanent repairs before inspection"
+  ],
+  "excess_deductible": "You will need to pay an amount of each claim, known as the excess. All excess amounts are listed in your policy schedule. These amounts may vary depending on your voluntary excess choices.",
+  "geographical_coverage": "Private residences in The United Kingdom. Optional Family Legal Protection: Claims arising or where proceedings brought in The United Kingdom, Channel Islands, Isle of Man and the European Union. Personal Possessions: Anywhere in the world.",
+  "age_restrictions": "Home Assistance: Boilers over 15 years old are excluded from the optional cover",
+  "pre_existing_conditions": "Not applicable to home insurance",
+  "cancellation_policy": "Can cancel within 14 days of receipt of policy documents (cooling-off period). If cover has not started, full refund. If cover has started, pro-rata refund provided no claims occurred. Can cancel anytime with written notice - pro-rata refund as long as no claims incurred during coverage period. If any claims made, no refund of premium.",
+  "endorsements": [
+    {
+      "name": "Home Assistance",
+      "description": "Provides up to \u00a31,000 inc VAT for callout and temporary repair charges for plumbing issues (leaking pipes, blocked drains, leaking radiators), toilet blockages, central heating/boiler failure, total electricity failure, pests (wasps, squirrels, rats, mice), and broken/damaged windows, doors & locks presenting security risk. Includes \u00a3250 alternative accommodation.",
+      "cost_impact": "Optional - premium not specified",
+      "coverage_impact": "Adds emergency home repair cover. Excludes: LPG/oil/solid fuel/renewable heating, unvented systems, boilers over 60 Kw/hr or 15+ years old, replacement of external overflows/cylinders/tanks/radiators/sanitary ware, detached outbuildings/garages, unserviced boilers, beyond economical repair boilers, pests outside main dwelling, descaling/power flushing/sludge damage, routine maintenance. Limit 3 claims per 12 months. Underwritten by Inter Partner Assistance S.A."
+    },
+    {
+      "name": "Family Legal Protection",
+      "description": "Covers legal advisers' costs for: breach of contract disputes (buying/renting goods/services), personal injury compensation claims, employment tribunal/court action, nuisance/trespassing claims, property damage claims, defending motoring prosecutions, defending breach of contract claims when selling goods, accountancy fees for HMRC Full Enquiry, and Data Protection breach claims.",
+      "cost_impact": "Optional - premium not specified",
+      "coverage_impact": "Adds legal expense cover. Excludes: claims without prospects of success (less than 51% likelihood of winning), where advisers' costs exceed amount in dispute, pre-inception incidents, disputes under \u00a3125 plus VAT, conflicts with other insured persons, costs covered by other policies, non-approved costs, own legal representative costs exceeding standard rates. 90-day qualifying period for Employment claims, 180-day period for Property Infringement. Provided by Arc Legal Assistance Limited."
+    },
+    {
+      "name": "Additional Accidental Damage to Contents",
+      "description": "Covers accidental damage or loss to contents in the home up to the contents sum insured (including house removal by professional contractors to any new private residence in UK, Channel Islands or Isle of Man). Covers up to \u00a31,000 for accidental damage to contents in the garden.",
+      "cost_impact": "Optional - premium not specified",
+      "coverage_impact": "Extends base cover to include accidental damage. Excludes: mechanical/electrical breakdown, jewellery when moving, items in storage during house move, damage from cleaning/maintenance/repair/dismantling/restoring/altering/dyeing/washing. Includes cover for sinks/baths overflowing from taps left on."
+    },
+    {
+      "name": "Additional Accidental Damage to Buildings",
+      "description": "Covers accidental damage or loss to buildings up to the buildings sum insured.",
+      "cost_impact": "Optional - premium not specified",
+      "coverage_impact": "Extends base cover to include accidental damage to buildings. Excludes: damage from faulty workmanship/defective design/defective materials, damage from alteration or extension of buildings."
+    },
+    {
+      "name": "Personal Possessions anywhere in the world",
+      "description": "Covers loss or damage to personal effects, valuables and money belonging to you and your family anywhere in the world. Provides up to \u00a31,000 credit card liability (theft or unauthorised use).",
+      "cost_impact": "Optional - premium not specified",
+      "coverage_impact": "Adds worldwide cover for items carried outside the home. Excludes: items not in care/custody/control of you, family or authorised person, theft from unattended vehicles unless items hidden in boot/glovebox and vehicle fully secured."
+    }
+  ],
+  "claims_requirements": {
+    "notification_timeframe": "As soon as possible. For Family Legal Protection: notify within 180 days of becoming aware of the insured incident. For Home Assistance: call as soon as aware of the home emergency.",
+    "required_documents": [
+      "All relevant information about the claim",
+      "For Home Assistance: relevant identification including boiler service receipts on demand",
+      "Information to assist in validating the claim",
+      "For Family Legal Protection: all information required to decide whether claim may be accepted (at your own expense)"
+    ],
+    "process_steps": [
+      "Provide all relevant information about the claim to assist in validation",
+      "Take steps to prevent further damage",
+      "Do not dispose of damaged items",
+      "Do not conduct permanent repairs (insurer may need to inspect damage)",
+      "For Family Legal Protection: gain consent before incurring legal advisers' costs",
+      "For Home Assistance: produce identification and boiler service receipts to contractor",
+      "Cooperate in obtaining reimbursement from third parties where applicable"
+    ],
+    "evidence_requirements": "Must not dispose of damaged items or conduct permanent repairs as insurer may need to inspect the damage. For Home Assistance: boiler service receipts required.",
+    "claims_contact": "Contact details not specified in this IPID document - refer to full policy documents"
+  },
+  "eligibility_criteria": {
+    "age_limits": "Not specified for policyholders",
+    "medical_restrictions": "Not applicable",
+    "occupational_restrictions": "Must be for private residential purposes only - must notify if used for any other reason",
+    "residency_requirements": "Private residences in The United Kingdom",
+    "other_restrictions": [
+      "Must not be bankrupt or received police caution/conviction/charge for offences (must notify if occurs)",
+      "Property must not be unoccupied or unfurnished for extended periods without notification",
+      "Must not let the home without notification",
+      "Property must be maintained in good repair",
+      "For Home Assistance optional cover: boiler/heating system must be serviced within past year"
+    ]
+  },
+  "policy_definitions": {
+    "unoccupied": "See policy booklet for specific definition - relates to exclusion of theft, malicious damage and escape of water/oil when home is unoccupied",
+    "unfurnished": "See policy booklet for specific definition - relates to exclusion of theft, malicious damage and escape of water/oil when home is unfurnished",
+    "valuables": "Items subject to \u00a330,000 per claim limit and \u00a315,000 per item limit",
+    "family": "Persons whose personal effects are covered under the policy",
+    "business equipment": "Equipment used for business purposes, covered up to \u00a35,000",
+    "temporary removal": "Contents temporarily removed from the home, covered up to \u00a3100,000",
+    "personal possessions": "Personal effects, valuables and money belonging to you and your family (for worldwide optional cover)",
+    "prospects_of_success": "Likelihood of winning legal action must be 51% or greater (for Family Legal Protection)",
+    "home_emergency": "Events covered under Home Assistance including plumbing issues, heating failure, electrical failure, pests, security breaches"
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "Family Legal Protection: 90 day qualifying period for Employment claims, 180 day qualifying period for Property Infringement claims",
+    "notification_deadlines": "Family Legal Protection: must notify within 180 days of becoming aware of insured incident. Home Assistance: call as soon as aware of emergency",
+    "claims_deadlines": "Notify claims as soon as possible once aware of incident",
+    "cooling_off_period": "14 days from receipt of policy documents for cancellation with full or pro-rata refund (if no claims)"
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "AXA Insurance UK plc is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority with registered number 202312",
+      "Registered address: 20 Gracechurch Street, London, EC3V 0BG",
+      "Inter Partner Assistance S.A. FCA Registered number 202664 (underwrites Home Assistance)",
+      "Arc Legal Assistance Limited authorised and regulated by Financial Conduct Authority, Firm Reference Number 305958 (provides Family Legal Protection)",
+      "This document is a summary and does not form part of the contract - complete pre-contract and contractual information provided in policy documents"
+    ],
+    "ipid_key_info": "This is an Insurance Product Information Document providing summary of key features and exclusions. Not a complete contract. Full terms in policy booklet.",
+    "fair_treatment_obligations": "Must take reasonable care to provide accurate and complete answers to all questions when taking out, renewing or making changes to policy. Must notify of material changes.",
+    "complaints_process": "Not specified in this IPID - refer to full policy documents",
+    "regulatory_warnings": [
+      "The information provided in this document is a summary of the key features and exclusions of the policy and does not form part of the contract between us",
+      "Complete pre contract and contractual information about the product is provided in your policy documents",
+      "Must take reasonable care to provide accurate and complete answers to all questions"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "What happens if my home is left empty?",
+      "answer": "Loss or damage occurring after the home has been unoccupied or unfurnished is not covered for theft, malicious people and escape of water or oil. You must notify the insurer if your home will be unoccupied.",
+      "section_reference": "What is not insured - page 1"
+    },
+    {
+      "question": "Are my belongings covered if I take them with me on holiday?",
+      "answer": "Base policy includes temporary removal up to \u00a3100,000. For worldwide cover of personal possessions, you need to add the optional Personal Possessions cover which provides worldwide protection for personal effects, valuables and money.",
+      "section_reference": "What is insured - Temporary removal; Optional Personal Possessions cover"
+    },
+    {
+      "question": "What if my bath overflows because I left the taps on?",
+      "answer": "This is not covered under the base policy unless you purchase the additional accidental damage to contents cover.",
+      "section_reference": "What is not insured - page 1"
+    },
+    {
+      "question": "Does the policy cover my garden fence if damaged in a storm?",
+      "answer": "No, loss or damage to gates, hedges and fences caused by storm or flood is specifically excluded.",
+      "section_reference": "What is not insured - page 1"
+    },
+    {
+      "question": "Can I cancel my policy after the 14 day cooling off period?",
+      "answer": "Yes, you can cancel at any time with written notice. You'll receive a pro-rata refund as long as you haven't incurred claims during the coverage period. If claims have been made, no refund is provided.",
+      "section_reference": "How do I cancel the contract - page 3"
+    },
+    {
+      "question": "Is my boiler covered if it breaks down?",
+      "answer": "The base policy does not cover mechanical/electrical breakdown. However, the optional Home Assistance cover provides up to \u00a31,000 for boiler failure callout and temporary repairs, subject to conditions including the boiler being under 15 years old and serviced within the past year.",
+      "section_reference": "Optional covers - Home Assistance, page 2"
+    },
+    {
+      "question": "What is the maximum I can claim for a single valuable item like jewelry?",
+      "answer": "Any one valuable item is covered up to \u00a315,000, with total valuables per claim up to \u00a330,000.",
+      "section_reference": "What is insured - page 1"
+    },
+    {
+      "question": "Am I covered if I accidentally damage my TV?",
+      "answer": "Yes, accidental damage to entertainment equipment is covered up to \u00a3100,000 under the base policy.",
+      "section_reference": "What is insured - page 1"
+    },
+    {
+      "question": "What if I need to stay elsewhere while my home is being repaired after damage?",
+      "answer": "Alternative accommodation is covered up to \u00a3200,000 for Buildings claims and up to \u00a315,000 for Contents claims. There's also emergency evacuation alternative accommodation up to \u00a32,500.",
+      "section_reference": "What is insured - page 1"
+    },
+    {
+      "question": "Does wear and tear damage get covered?",
+      "answer": "No, any loss or damage caused gradually or by wear and tear, depreciation, effects of light or atmosphere, mould, dry or wet rot or fungus, and costs from normal use, maintenance and upkeep are excluded.",
+      "section_reference": "What is not insured - page 1"
+    },
+    {
+      "question": "How long do I have to report a legal issue under the Family Legal Protection?",
+      "answer": "You must notify claims as soon as possible once you become aware of the insured incident and within no more than 180 days of becoming aware.",
+      "section_reference": "What are my obligations - Family Legal Protection, page 3"
+    },
+    {
+      "question": "Can I use my own solicitor for a legal claim?",
+      "answer": "Once court proceedings are issued or if a conflict of interest arises, you can use your own legal representative, but the insurer won't cover any costs exceeding their standard advisers' rates.",
+      "section_reference": "Are there any restrictions on cover - Family Legal Protection, page 2"
+    }
+  ],
+  "source_file": "AXA Extra IPID 04.25 (live Sep25).pdf",
+  "processed_date": "1762788744.0"
+}

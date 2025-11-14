@@ -1,0 +1,190 @@
+{
+  "insurer_name": "Financial & Legal Insurance Company Limited (underwritten), administered by Lexelle Limited",
+  "policy_type": "Legal Expenses Insurance",
+  "policy_version": "F&LHFAMPLAT 07/25",
+  "coverage_summary": "Legal expenses insurance covering the policyholder and family members residing at their principal home for various legal matters including personal injury, employment disputes, criminal prosecution defence, tax protection, jury service, contract disputes, property protection, education appeals, and probate. Maximum cover of \u00a375,000 (\u00a350,000 for employment disputes).",
+  "key_inclusions": [
+    "24x7 Free Legal Advice Line (Tel: 0333 4008217)",
+    "Personal Injury (including up to \u00a35,000 rehabilitation costs)",
+    "Employment Disputes",
+    "Criminal Prosecution Defence",
+    "Tax Protection",
+    "Jury Service",
+    "Contract Disputes",
+    "Property Protection",
+    "Education (Admission Appeal)",
+    "Probate"
+  ],
+  "key_exclusions": [
+    "Personal Injury: Any injury caused in a road traffic or other incident where you were the driver/passenger in a private motorised vehicle",
+    "Employment Disputes: Disputes that would not be dealt with by an Employment tribunal",
+    "Employment Disputes: Claims not reported within 30 days following dismissal or becoming aware of discrimination",
+    "Criminal Prosecution Defence: Any prosecution not for a strict liability offence",
+    "Criminal Prosecution Defence: Any prosecution relating to a motor vehicle, drugs or violence",
+    "Tax Protection: Any earnings outside your contracted employment",
+    "Tax Protection: Criminal proceedings, alleged fraudulent evasion of tax, misstatement with intent to deceive, tax avoidance",
+    "Jury Service: Where you are self-employed",
+    "Contract Disputes: Purchase or sale of land or buildings other than the insured property",
+    "Contract Disputes: Contracts relating to profession, business or employment",
+    "Contract Disputes: A lease, licence or tenancy of land or buildings",
+    "Contract Disputes: Any construction work/building or home extension",
+    "Property Protection: Claims relating to a building or land other than your main residence",
+    "Property Protection: Any event occurring whilst your main residence was left unoccupied",
+    "Education (Admission Appeal): Where you did not follow the local education authority application or appeals process",
+    "Education (Admission Appeal): Where you include a school outside of the local education authority's area",
+    "Probate: Any probate claim where the deceased did not make a will or the will subject to dispute cannot be traced",
+    "General: Any claim relating to your hosting activity or against a tenant/guest",
+    "Pursuit of claims outside the jurisdiction of courts of England & Wales, Scotland and Northern Ireland",
+    "Claims that occur outside of the policy period"
+  ],
+  "coverage_limits": {
+    "overall_maximum": "\u00a375,000 during the duration of cover",
+    "employment_disputes": "\u00a350,000 maximum",
+    "education_claims": "\u00a35,000 maximum",
+    "rehabilitation_costs": "\u00a35,000 maximum (within Personal Injury)",
+    "jury_service": "\u00a3100 per day or \u00a31,000 total maximum per claim"
+  },
+  "sub_limits": {
+    "employment_disputes_excess": "First \u00a3250 of legal costs (excess)",
+    "property_protection_excess": "First \u00a3250 of legal costs for trespass or nuisance claims (excess)",
+    "jury_service_daily": "\u00a3100 per day maximum",
+    "jury_service_total": "\u00a31,000 total per claim maximum"
+  },
+  "special_conditions": [
+    "The policy also covers any family member that resides with the policyholder at their principal home",
+    "Prior to any proceeding you must use the representative or solicitor nominated and appointed by us",
+    "You must provide full and accurate information to all questions asked",
+    "If you become aware that information you have given us is inaccurate or has changed, you must inform us as soon as possible",
+    "Failure to provide accurate information may invalidate your policy and claims may not be paid"
+  ],
+  "excess_deductible": "\u00a3250 excess applies to Employment Disputes and Property Protection (trespass/nuisance) claims. The first \u00a3250 of legal costs must be paid by the policyholder.",
+  "geographical_coverage": "United Kingdom of Great Britain, Northern Ireland, Channel Islands and the Isle of Man. Claims must be within the jurisdiction of the courts of England & Wales, Scotland and Northern Ireland.",
+  "age_restrictions": "Not specified in this document",
+  "pre_existing_conditions": "Not applicable - this is legal expenses insurance",
+  "cancellation_policy": "14-day cooling-off period from date of purchase or receipt of policy documentation (whichever is later). Full premium refund available if no claims have been made or are pending. After 14 days, cancellation is possible but no refund of premium will be payable. Contact the broker/agent from whom you bought the policy to cancel.",
+  "endorsements": [],
+  "claims_requirements": {
+    "notification_timeframe": "Employment disputes must be reported within 30 days following dismissal or becoming aware of discrimination. General principle that claims must occur within the policy period.",
+    "required_documents": [
+      "Full and accurate information about the claim",
+      "Information about the legal matter giving rise to the claim",
+      "Details sufficient to demonstrate the claim falls within covered incidents"
+    ],
+    "process_steps": [
+      "Contact the insurer about your claim",
+      "Provide all required information and documentation",
+      "The insurer will nominate and appoint a representative or solicitor",
+      "You must use the representative or solicitor nominated by the insurer",
+      "Legal proceedings can then commence if approved"
+    ],
+    "evidence_requirements": "Evidence that the claim falls within the policy coverage, occurred during the policy period, and meets the specific requirements for the type of claim (e.g., proof of dismissal for employment claims, evidence of following proper procedures for education appeals)",
+    "claims_contact": "Contact details not specified in this summary document - refer to full policy documentation"
+  },
+  "eligibility_criteria": {
+    "age_limits": "Not specified in this document",
+    "medical_restrictions": "Not applicable for this type of insurance",
+    "occupational_restrictions": "Self-employed individuals are excluded from Jury Service cover",
+    "residency_requirements": "Must have a principal home within the United Kingdom, Great Britain, Northern Ireland, Channel Islands or Isle of Man",
+    "other_restrictions": [
+      "Must not be engaged in hosting activity for claims to be covered (hosting activity claims are excluded)",
+      "Family members must reside with the policyholder at their principal home to be covered",
+      "Must follow proper procedures (e.g., local education authority application process for education claims)"
+    ]
+  },
+  "policy_definitions": {
+    "insured_property": "The policyholder's main residence/principal home",
+    "family_member": "Any family member that resides with the policyholder at their principal home",
+    "strict_liability_offence": "Criminal offence that does not require proof of mens rea (criminal intent) - only these are covered for criminal prosecution defence",
+    "employment_tribunal": "The legal forum for employment disputes - only disputes that would be dealt with by an employment tribunal are covered",
+    "contracted_employment": "Your regular employment contract - tax protection only covers earnings from contracted employment, not outside earnings",
+    "main_residence": "The principal home where the policyholder lives - property protection only covers this property",
+    "local_education_authority": "The relevant LEA for education admission appeals - applications must be within this authority's area"
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "Not specified in this document",
+    "notification_deadlines": "30 days for employment disputes (following dismissal or becoming aware of discrimination giving rise to claim)",
+    "claims_deadlines": "Claims must occur within the policy period. Employment disputes must be reported within 30 days.",
+    "cooling_off_period": "14 days from date of purchase or receipt of policy documentation (whichever is later) for full premium refund"
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "Lexelle Limited is authorised and regulated by the Financial Conduct Authority (FCA Registration Number 312782)",
+      "Financial & Legal Insurance Company Limited is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (FCA Registration Number 202915)",
+      "This is an Insurance Product Information Document providing summary information",
+      "Complete pre-contractual and contractual information is provided in the full policy documentation"
+    ],
+    "ipid_key_info": "This document is the Insurance Product Information Document (IPID) itself, providing standardized pre-contractual information including: what is insured, what is not insured, restrictions on cover, geographical coverage, obligations, payment information, cover period, and cancellation rights",
+    "fair_treatment_obligations": "Customers must be provided with full and accurate information. Customers must provide full and accurate information and inform the insurer of any changes. Failure to do so may invalidate the policy.",
+    "complaints_process": "Not specified in this summary document - refer to full policy documentation",
+    "regulatory_warnings": [
+      "Your answers will form part of the statement of facts on which your policy will be based",
+      "If you become aware that information you have given us is inaccurate or has changed, you must inform us as soon as possible",
+      "Failure to provide accurate information may invalidate your policy and claims may not be paid",
+      "Complete pre-contractual and contractual information on the product is provided in the full policy documentation"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Does this policy cover my family members?",
+      "answer": "Yes, the policy covers any family member that resides with the policyholder at their principal home.",
+      "section_reference": "What is this type of Insurance? section, page 1"
+    },
+    {
+      "question": "Am I covered if I have a car accident and get injured?",
+      "answer": "No, any injury caused in a road traffic or other incident where you were the driver/passenger in a private motorised vehicle is excluded from Personal Injury cover.",
+      "section_reference": "What is not insured? - Personal Injury section, page 1"
+    },
+    {
+      "question": "Can I use my own solicitor for a claim?",
+      "answer": "No, prior to any proceeding you must use the representative or solicitor nominated and appointed by the insurer.",
+      "section_reference": "Are there any restrictions on cover? section, page 1"
+    },
+    {
+      "question": "How long do I have to report an employment dispute?",
+      "answer": "You must report employment disputes within 30 days following your dismissal or becoming aware of the discrimination giving rise to your claim.",
+      "section_reference": "What is not insured? - Employment Disputes section, page 1"
+    },
+    {
+      "question": "What is the maximum amount the policy will pay out?",
+      "answer": "The maximum is \u00a375,000 during the policy period for most claims, but \u00a350,000 for Employment Disputes, \u00a35,000 for Education claims, and \u00a31,000 for Jury Service claims.",
+      "section_reference": "Are there any restrictions on cover? and What is this type of Insurance? sections, page 1"
+    },
+    {
+      "question": "Does the policy cover claims related to my hosting/rental property?",
+      "answer": "No, any claim relating to your hosting activity or against a tenant/guest is specifically excluded.",
+      "section_reference": "What is not insured? - General section, page 1"
+    },
+    {
+      "question": "Can I get a refund if I cancel?",
+      "answer": "Yes, if you cancel within 14 days of purchase or receipt of documentation (whichever is later) and no claims have been made or are pending, you will receive a full premium refund. After 14 days, no refund is payable.",
+      "section_reference": "How do I cancel the contract? section, page 2"
+    },
+    {
+      "question": "Am I covered for building work or home extensions?",
+      "answer": "No, contract disputes relating to any construction work/building or home extension are excluded from cover.",
+      "section_reference": "What is not insured? - Contract Disputes section, page 1"
+    },
+    {
+      "question": "Is there an excess I need to pay?",
+      "answer": "Yes, there is a \u00a3250 excess for Employment Disputes and Property Protection claims relating to trespass or nuisance.",
+      "section_reference": "What is not insured? - Employment Disputes and Property Protection sections, page 1"
+    },
+    {
+      "question": "Can I claim for tax issues related to my side business?",
+      "answer": "No, tax protection only covers your contracted employment. Any professional fees arising from earnings outside your contracted employment are excluded.",
+      "section_reference": "What is not insured? - Tax Protection section, page 1"
+    },
+    {
+      "question": "Am I covered if my property is vacant?",
+      "answer": "No, any event occurring whilst your main residence was left unoccupied is excluded from Property Protection cover.",
+      "section_reference": "What is not insured? - Property Protection section, page 1"
+    },
+    {
+      "question": "Does the policy cover claims in Scotland?",
+      "answer": "Yes, you are covered for claims within the jurisdiction of courts in England & Wales, Scotland, and Northern Ireland.",
+      "section_reference": "Where am I covered? section, page 2, and Are there any restrictions on cover? section, page 1"
+    }
+  ],
+  "source_file": "Hosting Family Legal Expenses IPID (Lexelle-F&L) 092025.pdf",
+  "processed_date": "1762788744.0"
+}

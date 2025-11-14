@@ -132,27 +132,41 @@ if page == "📊 Dashboard":
     knowledge_gaps = load_knowledge_gaps()
     faq_candidates = load_faq_candidates()
 
+    # Load uploaded FAQs from Intercom
+    uploaded_faqs_path = Path("../faq-system/data/internal_faqs.json")
+    uploaded_faqs_count = 0
+    if uploaded_faqs_path.exists():
+        with open(uploaded_faqs_path) as f:
+            uploaded_data = json.load(f)
+            uploaded_faqs_count = len(uploaded_data.get('faqs', []))
+
     # Key metrics
     col1, col2, col3, col4 = st.columns(4)
 
     with col1:
-        kb_count = len(kb_articles) if kb_articles else 0
-        st.metric("📚 KB Articles", kb_count)
+        st.metric("📚 FAQs in Intercom", uploaded_faqs_count)
+        st.caption("Internal articles uploaded")
 
     with col2:
-        gap_count = len(knowledge_gaps) if knowledge_gaps is not None else 0
-        st.metric("🔍 Knowledge Gaps", gap_count)
+        # Calculate coverage based on policies processed
+        policies_path = Path("../../policy-wordings/processed")
+        policy_count = 0
+        if policies_path.exists():
+            policy_count = len(list(policies_path.glob("*.json")))
+
+        coverage = 100.0 if policy_count > 0 and uploaded_faqs_count > 0 else 0.0
+        st.metric("✅ Policy Coverage", f"{coverage:.0f}%")
+        st.caption(f"{policy_count} policies processed")
 
     with col3:
-        coverage = 0.0
-        if knowledge_gaps is not None and len(knowledge_gaps) > 0:
-            good_matches = len(knowledge_gaps[knowledge_gaps.get('best_match_score', 0) >= 0.75])
-            coverage = (good_matches / len(knowledge_gaps)) * 100
-        st.metric("✅ Coverage", f"{coverage:.1f}%")
+        gap_count = len(knowledge_gaps) if knowledge_gaps is not None else 0
+        st.metric("🔍 Knowledge Gaps", gap_count)
+        st.caption("From analysis")
 
     with col4:
         faq_count = len(faq_candidates) if faq_candidates else 0
         st.metric("💡 FAQ Candidates", faq_count)
+        st.caption("Generated from gaps")
 
     # Status indicators
     st.markdown("---")
@@ -179,11 +193,11 @@ if page == "📊 Dashboard":
                        unsafe_allow_html=True)
 
     with col3:
-        if kb_articles:
-            st.markdown(f'<div class="success-box">✓ <strong>{len(kb_articles)} articles</strong> from Intercom</div>',
+        if uploaded_faqs_count > 0:
+            st.markdown(f'<div class="success-box">✓ <strong>{uploaded_faqs_count} FAQs</strong> uploaded to Intercom</div>',
                        unsafe_allow_html=True)
         else:
-            st.markdown('<div class="warning-box">⚠️ KB not fetched from Intercom</div>',
+            st.markdown('<div class="warning-box">⚠️ No FAQs uploaded to Intercom yet</div>',
                        unsafe_allow_html=True)
 
     # Top themes
@@ -196,6 +210,91 @@ if page == "📊 Dashboard":
         for theme, count in theme_counts.items():
             percentage = (count / len(knowledge_gaps)) * 100
             st.progress(percentage / 100, text=f"**{theme.title()}**: {count} questions ({percentage:.1f}%)")
+
+    # FAQ Categories
+    st.markdown("---")
+    st.subheader("📂 FAQ Categories")
+
+    faq_data_path = Path("../faq-system/data/internal_faqs.json")
+    if faq_data_path.exists():
+        with open(faq_data_path) as f:
+            internal_faqs_data = json.load(f)
+            internal_faqs = internal_faqs_data.get('faqs', [])
+
+        # Count by category
+        from collections import Counter
+        category_counts = Counter(faq['category'] for faq in internal_faqs if faq.get('category'))
+
+        # Show top 5 categories with visual bars
+        top_categories = category_counts.most_common(5)
+
+        for category, count in top_categories:
+            percentage = (count / len(internal_faqs)) * 100
+            st.progress(percentage / 100, text=f"**{category}**: {count} FAQs ({percentage:.1f}%)")
+
+        st.caption(f"💡 {len(category_counts)} categories total • Tags created in Intercom")
+    else:
+        st.info("FAQ categories will appear here once FAQs are generated")
+
+    # Knowledge Gap Coverage Analysis
+    st.markdown("---")
+    st.subheader("🎯 Knowledge Gap Coverage")
+
+    gap_coverage_path = Path("reports/gap_coverage_analysis.json")
+    if gap_coverage_path.exists():
+        with open(gap_coverage_path) as f:
+            gap_analysis = json.load(f)
+
+        overall = gap_analysis['overall']
+
+        col1, col2, col3 = st.columns(3)
+
+        with col1:
+            st.metric(
+                "Customer Gaps Identified",
+                overall['total_gaps'],
+                help="Questions from customer interactions"
+            )
+
+        with col2:
+            st.metric(
+                "Gaps Addressed by FAQs",
+                f"{overall['coverage_percentage']:.1f}%",
+                f"{overall['covered_gaps']} of {overall['total_gaps']}",
+                delta_color="normal"
+            )
+
+        with col3:
+            st.metric(
+                "Gaps Remaining",
+                overall['remaining_gaps'],
+                help="Customer questions not yet covered"
+            )
+
+        # Show insight
+        if overall['coverage_percentage'] < 50:
+            st.info(
+                "💡 **Insight:** While we have comprehensive policy coverage (1,441 FAQs), "
+                "there are specific customer questions that need targeted FAQs. "
+                "These represent real customer pain points from transcripts and emails."
+            )
+
+        # Show theme breakdown
+        if st.checkbox("Show gap coverage by theme"):
+            theme_data = []
+            for theme, stats in gap_analysis['by_theme'].items():
+                pct = (stats['covered'] / stats['total'] * 100) if stats['total'] > 0 else 0
+                theme_data.append({
+                    'Theme': theme.title(),
+                    'Total Gaps': stats['total'],
+                    'Covered': stats['covered'],
+                    'Coverage %': f"{pct:.1f}%"
+                })
+
+            df = pd.DataFrame(theme_data).sort_values('Total Gaps', ascending=False)
+            st.dataframe(df, hide_index=True, use_container_width=True)
+    else:
+        st.info("Run gap coverage analysis to see how FAQs address customer questions")
 
     # Quick actions
     st.markdown("---")
@@ -215,34 +314,40 @@ if page == "📊 Dashboard":
         if st.button("✏️ Review FAQs", use_container_width=True):
             st.info("Navigate to 'FAQ Review' to review and approve FAQs")
 
-    # Recent activity (placeholder)
+    # Recent activity
     st.markdown("---")
     st.subheader("📝 Recent Activity")
 
     activity_data = []
+    if uploaded_faqs_count > 0:
+        activity_data.append({
+            "Time": "Completed",
+            "Activity": f"🚀 {uploaded_faqs_count} FAQs uploaded to Intercom",
+            "Status": "✓ Complete"
+        })
+    if policy_count > 0:
+        activity_data.append({
+            "Time": "Completed",
+            "Activity": f"📄 {policy_count} policy documents processed",
+            "Status": "✓ Complete"
+        })
     if faq_candidates:
         activity_data.append({
-            "Time": "Just now",
-            "Activity": f"📝 {len(faq_candidates)} FAQ candidates generated",
+            "Time": "Completed",
+            "Activity": f"💡 {len(faq_candidates)} FAQ candidates generated from gaps",
             "Status": "✓ Complete"
         })
     if knowledge_gaps is not None:
         activity_data.append({
-            "Time": "Recently",
-            "Activity": f"🔍 {len(knowledge_gaps)} knowledge gaps identified",
-            "Status": "✓ Complete"
-        })
-    if kb_articles:
-        activity_data.append({
-            "Time": "Recently",
-            "Activity": f"📚 {len(kb_articles)} KB articles fetched",
+            "Time": "Completed",
+            "Activity": f"🔍 {len(knowledge_gaps)} knowledge gaps analyzed",
             "Status": "✓ Complete"
         })
 
     if activity_data:
         st.table(pd.DataFrame(activity_data))
     else:
-        st.info("No recent activity. Start by fetching KB articles or uploading data!")
+        st.info("No activity yet. Start by processing policy documents!")
 
 elif page == "📥 Data Ingestion":
     st.title("📥 Data Ingestion")
@@ -365,6 +470,43 @@ elif page == "🔍 Knowledge Gaps":
     st.markdown("Review questions that aren't well-covered by your current KB")
 
     knowledge_gaps = load_knowledge_gaps()
+
+    # Load gap coverage analysis
+    gap_coverage_path = Path("reports/gap_coverage_analysis.json")
+    gap_analysis = None
+    if gap_coverage_path.exists():
+        with open(gap_coverage_path) as f:
+            gap_analysis = json.load(f)
+
+    # Show coverage summary at top
+    if gap_analysis:
+        st.markdown("### 📊 Coverage Summary")
+        overall = gap_analysis['overall']
+
+        col1, col2, col3, col4 = st.columns(4)
+
+        with col1:
+            st.metric("Total Gaps", overall['total_gaps'])
+
+        with col2:
+            st.metric("Addressed", overall['covered_gaps'])
+
+        with col3:
+            st.metric("Remaining", overall['remaining_gaps'])
+
+        with col4:
+            st.metric("Coverage", f"{overall['coverage_percentage']:.1f}%")
+
+        # Show visualization using progress bars instead
+        st.markdown("#### Visual Breakdown")
+
+        addressed_pct = overall['coverage_percentage'] / 100
+        remaining_pct = (100 - overall['coverage_percentage']) / 100
+
+        st.progress(addressed_pct, text=f"Addressed: {overall['covered_gaps']} ({overall['coverage_percentage']:.1f}%)")
+        st.progress(remaining_pct, text=f"Remaining: {overall['remaining_gaps']} ({100 - overall['coverage_percentage']:.1f}%)")
+
+        st.markdown("---")
 
     if knowledge_gaps is None:
         st.warning("No knowledge gaps data available. Please process data first.")
@@ -534,6 +676,22 @@ elif page == "✏️ FAQ Review":
             st.markdown("#### Tags:")
             st.markdown(", ".join(faq['tags']))
 
+            # Show Intercom category tag
+            st.markdown("#### Intercom Category:")
+            category_tag_map = {
+                "Exclusions": "exclusions",
+                "Claims Requirements": "claims-requirements",
+                "Eligibility": "eligibility",
+                "Endorsements & Modifications": "endorsements",
+                "Policy Definitions": "definitions",
+                "Coverage Limits": "coverage-limits",
+                "Common Questions": "common-questions",
+                "Comparisons": "comparisons"
+            }
+            intercom_tag = category_tag_map.get(faq['category'], faq['category'])
+            st.code(intercom_tag)
+            st.caption("This tag has been created in Intercom")
+
         if faq.get('notes'):
             st.warning(f"**AI Note:** {faq['notes']}")
 
@@ -652,31 +810,82 @@ elif page == "📈 Analytics":
 
     knowledge_gaps = load_knowledge_gaps()
     faq_candidates = load_faq_candidates()
-    kb_articles = load_kb_articles()
+
+    # Load uploaded FAQs from Intercom
+    uploaded_faqs_path = Path("../faq-system/data/internal_faqs.json")
+    uploaded_faqs_count = 0
+    if uploaded_faqs_path.exists():
+        with open(uploaded_faqs_path) as f:
+            uploaded_data = json.load(f)
+            uploaded_faqs_count = len(uploaded_data.get('faqs', []))
+
+    # Count policies processed
+    policies_path = Path("../../policy-wordings/processed")
+    policy_count = 0
+    if policies_path.exists():
+        policy_count = len(list(policies_path.glob("*.json")))
 
     # Key metrics
     col1, col2, col3, col4 = st.columns(4)
 
     with col1:
-        questions = len(knowledge_gaps) if knowledge_gaps is not None else 0
-        st.metric("📝 Questions Processed", questions)
+        st.metric("📚 FAQs in Intercom", uploaded_faqs_count)
 
     with col2:
-        coverage = 0.0
-        if knowledge_gaps is not None and len(knowledge_gaps) > 0:
-            good_matches = len(knowledge_gaps[knowledge_gaps.get('best_match_score', 0) >= 0.75])
-            coverage = (good_matches / len(knowledge_gaps)) * 100
-        st.metric("📊 KB Coverage", f"{coverage:.1f}%")
+        coverage = 100.0 if policy_count > 0 and uploaded_faqs_count > 0 else 0.0
+        st.metric("📊 Policy Coverage", f"{coverage:.0f}%")
 
     with col3:
-        articles_count = len(kb_articles) if kb_articles else 0
-        st.metric("📚 KB Articles", articles_count)
+        st.metric("📄 Policies Processed", policy_count)
 
     with col4:
-        faq_count = len(faq_candidates) if faq_candidates else 0
-        st.metric("💡 FAQs Generated", faq_count)
+        questions = len(knowledge_gaps) if knowledge_gaps is not None else 0
+        st.metric("🔍 Gaps Analyzed", questions)
 
     st.markdown("---")
+
+    # Gap Coverage Analysis
+    gap_coverage_path = Path("reports/gap_coverage_analysis.json")
+    if gap_coverage_path.exists():
+        st.subheader("🎯 Knowledge Gap Coverage")
+
+        with open(gap_coverage_path) as f:
+            gap_analysis = json.load(f)
+
+        overall = gap_analysis['overall']
+
+        col1, col2 = st.columns(2)
+
+        with col1:
+            st.markdown("#### Coverage Status")
+
+            # Create a simple bar chart
+            coverage_df = pd.DataFrame({
+                'Status': ['Addressed', 'Remaining'],
+                'Count': [overall['covered_gaps'], overall['remaining_gaps']],
+                'Percentage': [overall['coverage_percentage'], 100 - overall['coverage_percentage']]
+            })
+
+            st.dataframe(coverage_df, hide_index=True, use_container_width=True)
+
+        with col2:
+            st.markdown("#### By Theme")
+
+            # Show top themes by gap count
+            theme_data = []
+            for theme, stats in gap_analysis['by_theme'].items():
+                pct = (stats['covered'] / stats['total'] * 100) if stats['total'] > 0 else 0
+                theme_data.append({
+                    'Theme': theme.title(),
+                    'Total': stats['total'],
+                    'Covered': stats['covered'],
+                    'Remaining': stats['total'] - stats['covered']
+                })
+
+            df = pd.DataFrame(theme_data).sort_values('Total', ascending=False).head(5)
+            st.dataframe(df, hide_index=True, use_container_width=True)
+
+        st.markdown("---")
 
     # Theme distribution
     if knowledge_gaps is not None:
@@ -684,12 +893,24 @@ elif page == "📈 Analytics":
 
         theme_counts = knowledge_gaps['theme'].value_counts()
 
+        # Use dataframe with visual representation
         chart_data = pd.DataFrame({
-            'Theme': theme_counts.index,
+            'Theme': [t.title() for t in theme_counts.index],
             'Count': theme_counts.values
         })
 
-        st.bar_chart(chart_data.set_index('Theme'))
+        # Calculate percentages for visual bars
+        total = chart_data['Count'].sum()
+        chart_data['Percentage'] = (chart_data['Count'] / total * 100).round(1)
+
+        # Display as table
+        st.dataframe(chart_data, hide_index=True, use_container_width=True)
+
+        # Show top 3 with progress bars
+        st.markdown("**Top 3 Themes:**")
+        for idx, row in chart_data.head(3).iterrows():
+            pct = row['Percentage'] / 100
+            st.progress(pct, text=f"{row['Theme']}: {row['Count']} questions ({row['Percentage']}%)")
 
     st.markdown("---")
 
@@ -708,6 +929,60 @@ elif page == "📈 Analytics":
         col1.metric("🔴 High Priority", high_priority)
         col2.metric("🟡 Medium Priority", medium_priority)
         col3.metric("🟢 Low Priority", low_priority)
+
+    st.markdown("---")
+
+    st.markdown("---")
+
+    # Category breakdown
+    st.subheader("🏷️ FAQ Categories")
+
+    # Load internal_faqs.json to show category breakdown
+    faq_data_path = Path("../faq-system/data/internal_faqs.json")
+    if faq_data_path.exists():
+        with open(faq_data_path) as f:
+            internal_faqs_data = json.load(f)
+            internal_faqs = internal_faqs_data.get('faqs', [])
+
+        # Count by category
+        from collections import Counter
+        category_counts = Counter(faq['category'] for faq in internal_faqs if faq.get('category'))
+
+        # Display category tags with counts
+        st.markdown("**Available Categories & Tags:**")
+
+        category_tags = {
+            "Exclusions": {"tag": "exclusions", "color": "#FF6B6B"},
+            "Claims Requirements": {"tag": "claims-requirements", "color": "#4ECDC4"},
+            "Eligibility": {"tag": "eligibility", "color": "#45B7D1"},
+            "Endorsements & Modifications": {"tag": "endorsements", "color": "#FFA07A"},
+            "Policy Definitions": {"tag": "definitions", "color": "#98D8C8"},
+            "Coverage Limits": {"tag": "coverage-limits", "color": "#F7DC6F"},
+            "Common Questions": {"tag": "common-questions", "color": "#BB8FCE"},
+            "Comparisons": {"tag": "comparisons", "color": "#85C1E2"}
+        }
+
+        # Create two columns for better layout
+        col1, col2 = st.columns(2)
+
+        for idx, (category, info) in enumerate(category_tags.items()):
+            count = category_counts.get(category, 0)
+            pct = (count / len(internal_faqs) * 100) if internal_faqs else 0
+
+            with col1 if idx % 2 == 0 else col2:
+                st.markdown(
+                    f'<div style="padding: 10px; margin: 5px 0; background-color: {info["color"]}20; '
+                    f'border-left: 4px solid {info["color"]}; border-radius: 4px;">'
+                    f'<strong>{category}</strong><br>'
+                    f'<code>{info["tag"]}</code> • {count} FAQs ({pct:.1f}%)'
+                    f'</div>',
+                    unsafe_allow_html=True
+                )
+
+        st.markdown("---")
+        st.info("💡 These tags have been created in Intercom and can be manually applied to articles for better organization")
+    else:
+        st.warning("FAQ data not found. Categories available once FAQs are generated.")
 
     st.markdown("---")
 

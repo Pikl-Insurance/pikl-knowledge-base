@@ -1,0 +1,256 @@
+{
+  "insurer_name": "Financial & Legal Insurance Company Limited",
+  "policy_type": "Residential Property Legal Expenses Insurance",
+  "policy_version": "Silver Insurance - Master Certificate No: F&LRPROSILV/07/2025",
+  "coverage_summary": "Legal expenses insurance providing cover for legal costs and expenses arising from various disputes related to residential property ownership, including personal injury, employment disputes, tax protection, contract disputes, and property protection. Coverage varies depending on whether the insured property is a principal home or a 2nd home/unoccupied property.",
+  "key_inclusions": [
+    "24/7 Free legal advice service (telephone only)",
+    "Personal injury claims - legal assistance to recover compensation",
+    "Employment disputes - unfair dismissal, redundancy, discrimination (up to \u00a330,000)",
+    "Tax protection - HMRC personal tax enquiries related to PAYE",
+    "Jury service compensation - salary/wages not paid by court or employer (up to \u00a31,000)",
+    "Contract disputes - buying/hiring goods or services, selling goods",
+    "Property protection - civil claims for damage to property, nuisance or trespass",
+    "Defendant's costs if ordered to pay",
+    "Professional fees for authorised representatives",
+    "Legal advice from in-house legal advisors"
+  ],
+  "key_exclusions": [
+    "Claims where insured property is 2nd home/unoccupied property (for Sections 2, 3, 4, 5)",
+    "Personal injury: gradual illness/injury, psychological trauma (unless connected to physical injury), road traffic incidents as driver/passenger, clinical negligence, industrial disease/deafness",
+    "Employment disputes: first \u00a3250 of professional fees (excess), claims not reported within 30 days, disputes not dealt with by employment tribunal",
+    "Tax protection: earnings outside contracted employment, criminal proceedings, fraudulent evasion, tax avoidance schemes, loan arrangements with employer, shares-related issues",
+    "Jury service: loss of business income (self-employed), loss of bonus/overtime/holiday entitlement",
+    "Contract disputes: professional/business/employment contracts, leases of land/buildings, letting property to others, construction/building work, sale/purchase of land/buildings, motor vehicles, insurance/financial products, verbal agreements, auction purchases, disputes with government authorities, property purchase/sale failing before completion",
+    "Property protection: contracts, subsidence/landslip/heave, defending claims (except counterclaims), motor vehicles, first \u00a3250 excess for nuisance/trespass claims, matters valued under \u00a3100",
+    "Divorce/judicial separation/cohabitation/custody matters",
+    "Disputes between insured persons or family members",
+    "Patents/copyrights/trademarks/intellectual property",
+    "Business ventures outside employment contracts",
+    "Directorship/partnership disputes",
+    "Verbal contracts",
+    "Incidents outside UK jurisdictions (England, Wales, Scotland, Northern Ireland, Channel Islands, Isle of Man)",
+    "Events occurring outside the period of insurance",
+    "Criminal fines, dishonesty or violence prosecutions",
+    "War, civil war, terrorism, nuclear incidents",
+    "Computer virus/electronic data loss",
+    "Small claims (professional fees only - advice only provided)",
+    "Claims covered by other insurance",
+    "Claims without reasonable prospect of success",
+    "Claims where value is disproportionate to costs",
+    "Fees incurred before claim acceptance",
+    "Fees after advice to settle received",
+    "Appeals without written consent",
+    "Judicial review or Human Rights Act proceedings",
+    "Group or multi-party actions"
+  ],
+  "coverage_limits": {
+    "maximum_amount_per_period": "\u00a350,000 in total for one or more claims during a single period of insurance",
+    "employment_disputes_maximum": "\u00a330,000 maximum for any employment dispute claims",
+    "jury_service_maximum": "\u00a31,000 maximum for jury service claims",
+    "jury_service_daily_limit": "\u00a3100 per day maximum",
+    "professional_fees_hourly_rate": "\u00a3100+VAT hourly rate for non-nominated solicitors (at insurer's discretion to increase)"
+  },
+  "sub_limits": {
+    "employment_disputes_excess": "First \u00a3250 of professional fees (payable by insured)",
+    "property_protection_nuisance_excess": "First \u00a3250 of professional fees for nuisance/trespass claims (payable by insured)",
+    "property_protection_minimum_value": "No cover for matters valued under \u00a3100",
+    "jury_service_calculation": "Based on 1/250th of annual salary (full-time) or 6-month average (part-time), calculated to nearest half day (8 hours = 1 day)"
+  },
+  "special_conditions": [
+    "Claims-made policy - only covers claims notified within the period of cover",
+    "Must report incidents as soon as possible - delays may restrict cover or increase costs",
+    "Must report full details within 180 days after the event",
+    "Insurer/administrator appoints authorised representative (insured can request alternative but insurer approval required)",
+    "Conditional Fee Agreements required where professional fees likely recoverable",
+    "Must obtain written consent before: issuing proceedings, instructing counsel/experts, making appeals, settling claims, incurring disbursements, entering ADR",
+    "Authorised representative must provide written assessments within 28 days of instruction",
+    "6-monthly progress reports required from authorised representative",
+    "Must cooperate with insurer, administrator, and authorised representative at all times",
+    "Must take steps to minimize professional fees and defendant's costs",
+    "Insurer may require barrister's advice on settlement or continuation",
+    "If principal home is unoccupied for 30+ consecutive days, cover automatically changes to 2nd home/unoccupied property cover",
+    "Reasonable prospect of success must exist throughout claim (greater than 50% chance)",
+    "Must comply with all policy conditions or cover may be voided"
+  ],
+  "excess_deductible": "Employment disputes: \u00a3250 excess; Property protection (nuisance/trespass): \u00a3250 excess. No general excess stated for other sections.",
+  "geographical_coverage": "England, Wales, Scotland, Northern Ireland, Channel Islands, and the Isle of Man only",
+  "age_restrictions": "No specific age restrictions mentioned in the policy document",
+  "pre_existing_conditions": "Not applicable for this type of legal expenses insurance. However, date of occurrence must fall within the period of insurance.",
+  "cancellation_policy": "14-day cooling-off period from date of purchase or receipt of policy documents (whichever later) for full refund if no claims made/pending. After 14 days, cancellation possible but no refund. Insurer can cancel with 14 days' written notice for valid reasons including: fraud, non-payment, threatening behavior, non-compliance with terms, inaccurate information provided. Fraudulent claims result in immediate cancellation backdated to fraud date.",
+  "endorsements": [
+    {
+      "name": "Change of Address",
+      "description": "Insurer may accept a change of insured property address upon written request, but the new address must continue to be the insured's principal home or 2nd home/unoccupied property",
+      "cost_impact": "Not specified in policy document",
+      "coverage_impact": "Coverage continues at new address subject to same terms; if property status changes (e.g., principal home becomes unoccupied), coverage automatically adjusts to 2nd home/unoccupied property terms"
+    },
+    {
+      "name": "Automatic Coverage Change for Unoccupied Principal Home",
+      "description": "Where principal home is not lived in by insured or authorized person for 30+ consecutive days, cover automatically moves to 2nd home/unoccupied property until reoccupied",
+      "cost_impact": "No additional cost mentioned",
+      "coverage_impact": "Removes access to Sections 2, 3, 4, 5 (Personal Injury, Employment Disputes, Tax Protection, Jury Service) - only Sections 1, 6, 7 remain active"
+    }
+  ],
+  "claims_requirements": {
+    "notification_timeframe": "As soon as possible after the event. Full details must be provided within 180 days after the event giving rise to the claim. Specific deadlines: Employment disputes must be reported within 30 days of dismissal/awareness of discrimination.",
+    "required_documents": [
+      "Complete and truthful report of facts giving rise to claim",
+      "Details of potential witnesses",
+      "Documentary evidence in support of claim",
+      "Policy number and insured's details",
+      "For jury service claims: wage/salary slips and employment contract",
+      "Any other information requested by administrator/insurer/authorised representative"
+    ],
+    "process_steps": [
+      "1. Contact administrator (Lexelle Limited) by telephone or in writing as soon as incident occurs",
+      "2. Provide complete details within 180 days of the event",
+      "3. Administrator/insurer makes preliminary assessment of merits and reasonable prospect of success",
+      "4. If claim appears covered and has reasonable prospects, administrator/insurer appoints authorised representative",
+      "5. If claim appears not to have reasonable prospects, insurer/administrator will notify in writing; insured can request confirmation",
+      "6. If insured disputes assessment, alternative authorised representative will be instructed for second opinion",
+      "7. Authorised representative provides written assessment within 28 days of accepting instructions",
+      "8. Authorised representative must obtain written consent before key actions (issuing proceedings, instructing counsel, appeals, settlements, etc.)",
+      "9. 6-monthly progress reports provided by authorised representative",
+      "10. Insured must cooperate at all times and follow advice",
+      "11. Any settlement offers or Part 36 offers must be immediately notified with representative's advice",
+      "12. If authorised representative or insured withdraws without good reason, cover ceases"
+    ],
+    "evidence_requirements": "Complete documentary evidence supporting the claim; witness details; for jury service: employment contract and wage slips; for employment disputes: evidence of dismissal/discrimination and timeline; for contract disputes: written contract/agreement; for property protection: evidence of damage/nuisance/trespass. All evidence must demonstrate reasonable prospect of success.",
+    "claims_contact": "Lexelle Limited (Administrator), PO Box 4428, Sheffield, S9 9DD, Tel: 0114 350 4107, Email: assist@lexelle.com"
+  },
+  "eligibility_criteria": {
+    "age_limits": "No specific age limits mentioned in policy",
+    "medical_restrictions": "Not applicable for legal expenses insurance",
+    "occupational_restrictions": "Employment disputes cover only applies to employees with employment contracts; self-employed persons excluded from jury service income cover; claims related to professional business or employment (outside employment contracts) are excluded",
+    "residency_requirements": "Insured must own the insured property. For principal home coverage, must be the insured's main or only residence. Property must be located within England, Wales, Scotland, Northern Ireland, Channel Islands, or Isle of Man.",
+    "other_restrictions": [
+      "Insured property must not be let or rented to another party (2nd home/unoccupied property can allow friends/family to stay free for max 60 days per period)",
+      "Principal home must be lived in by insured or authorized person; if unoccupied for 30+ consecutive days or 90+ days total, coverage changes to 2nd home/unoccupied property",
+      "Only the named insured and (for principal home) family members/children living at the property are covered",
+      "Policy cannot be assigned to another party",
+      "Claims must arise from incidents occurring within the period of insurance",
+      "Must have provided accurate and complete information when taking out insurance"
+    ]
+  },
+  "policy_definitions": {
+    "2nd home/unoccupied property": "The insured property that the insured owns but is not the insured's principal home or it is unoccupied. May not be let or rented, but friends/family may stay free for max 60 days total per period of insurance.",
+    "Administrator": "Lexelle Limited - authorized and regulated by FCA (register number 312782)",
+    "Authorised representative": "An appropriately qualified professional person or firm appointed by the administrator or insurer to act on insured's behalf when a claim is made",
+    "Civil Claim": "A dispute in relation to contractual, common law and statutory rights for which insured is pursuing a remedy",
+    "Condition": "An obligation that insured must perform. If not performed, insurer might not be liable to pay anything under policy terms",
+    "Date of occurrence": "The date of the event that leads to a claim; if multiple events at different times, the date of the first event",
+    "Defendant's costs": "Legal costs and expenses the insured/insured person is ordered to pay to another party that can be enforced against the insured in making a civil claim pursued under this policy",
+    "Free legal advice": "Initial verbal legal advice over telephone relating to possible claim covered by policy. No correspondence entered into.",
+    "Insured(s)": "The person named in the schedule to this policy",
+    "Insured person(s)": "The insured and, if insured property is the principal home, any member of insured's family including civil partners and children for whom the insured/spouse/civil partner are legal guardian, living at the principal home",
+    "Insured property": "The property stated in the schedule - may be principal home, 2nd home or unoccupied property",
+    "Legal advice": "Any advice provided by insurer's or administrator's in-house legal advisors to assist in claim",
+    "Legal assistance": "Actions taken by administrator and/or authorised representative whilst pursuing claim accepted under policy including their professional fees",
+    "Legal proceedings": "A claim for damages or compensation pursued in a court of law within England, Wales, Scotland, Northern Ireland, the Channel Islands and the Isle Of Man",
+    "Maximum amount": "\u00a350,000 (including max \u00a330,000 for employment disputes and \u00a31,000 for Jury Service) in total, including professional fees and defendants costs, for one or more claims during single period of insurance",
+    "Period of insurance": "The period stated in the schedule to this policy",
+    "Principal home": "The property identified in the schedule and the insured's main or only residence. If not lived in for 30+ consecutive days, cover automatically moves to 2nd home/unoccupied property status",
+    "Professional fees": "Fees or costs reasonably incurred by authorised representative, with insurer's or administrator's prior authority. Includes disbursements if for third party services, distinct from representative's services, and with prior permission",
+    "Reasonable prospect of success": "The matter has a greater chance than not (>50%) of being wholly successful at time of reporting claim and throughout conduct of claim",
+    "Schedule": "The document showing insured's details and insurance provided that forms part of contract of insurance",
+    "Small claim(s)": "A claim for damages/compensation which is, or may be if legal proceedings issued, allocated to small claims jurisdiction of courts of England and Wales or equivalent in Scotland, Northern Ireland, Channel Islands and Isle Of Man",
+    "Unoccupied": "Insured property not lived in by insured person for 30+ consecutive days or total of 90+ days during period of insurance",
+    "We, Us, Our, Insurer": "Financial & Legal Insurance Company Limited",
+    "You, your": "The person named as insured in schedule or an insured person",
+    "Your claim": "A claim for loss, costs, defendant's costs, legal assistance, legal advice, or other cover provided under Sections 1-7"
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "No waiting periods specified - coverage begins from start of period of insurance",
+    "notification_deadlines": "Must notify insurer/administrator of any event that may give rise to a claim AS SOON AS POSSIBLE. Employment disputes must be reported within 30 days of dismissal/awareness of discrimination.",
+    "claims_deadlines": "Full details of any claim must be received within 180 days after the event giving rise to the claim. Disputes about insurer's decision must be made within 12 months of that decision or claim treated as abandoned.",
+    "cooling_off_period": "14 days from day of purchase or day of receiving policy documentation (whichever later) for full refund if no claims made/pending"
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "Financial & Legal Insurance Company Limited is authorized by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and Prudential Regulation Authority (FSR number 202915)",
+      "Lexelle Limited (Administrator) is authorized and regulated by the Financial Conduct Authority (register number 312782)",
+      "Policy is governed by English law unless otherwise agreed in writing",
+      "Disputes only dealt with in courts of England or of the country within UK where insured property is situated",
+      "This is a 'claims made' insurance policy - only covers claims notified within period of cover",
+      "Contract is between insured and Financial & Legal Insurance Company Limited - no third party rights enforceable",
+      "Policy cannot be assigned to any other party"
+    ],
+    "ipid_key_info": "Not included in this document - would be separate IPID document",
+    "fair_treatment_obligations": "Insurer committed to giving best possible service. Must act transparently. Will communicate in English language. Must process personal data in accordance with data protection legislation. Will not cancel without valid reason and 14 days' notice.",
+    "complaints_process": "For sale complaints: contact agent who arranged insurance. For claims complaints: contact Claims Manager at Lexelle Ltd (Tel: 0114 350 4107, Email: assist@lexelle.com, Address: PO Box 4428, Sheffield, S9 9DD). If unresolved, can appeal to Financial Ombudsman Service (Exchange Tower, London, E14 9SR, Tel: 0300 123 9123, Email: complaint.info@financial-ombudsman.org.uk). Complaints procedure in addition to statutory rights.",
+    "regulatory_warnings": [
+      "Must take reasonable care to provide accurate and complete information - failure may mean policy is invalid or claims not paid",
+      "If information provided is inaccurate, policy may be invalid and may not operate in event of claim",
+      "Fraudulent claims will result in policy being voided, no premium refunded, and possible legal action",
+      "Reporting potential claims will not increase premiums but failing to report timely may restrict cover",
+      "Delays in reporting incidents may increase costs (insured liable for additional costs) or invalidate claim",
+      "Must keep complete record of all information supplied when taking out insurance",
+      "Arbitration decisions are final and binding; disputes must be referred within 12 months or claim treated as abandoned"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "What happens if my principal home becomes unoccupied?",
+      "answer": "If your principal home is not lived in by you or an authorized person for 30 or more consecutive days, the cover automatically changes to 2nd home/unoccupied property status. This means you lose access to Sections 2-5 (Personal Injury, Employment Disputes, Tax Protection, Jury Service) until you reoccupy the property as your principal home. Only Sections 1, 6, and 7 remain active.",
+      "section_reference": "Insurance provided \u2013 the cover we offer / Principal home definition"
+    },
+    {
+      "question": "Can I choose my own solicitor?",
+      "answer": "The insurer or administrator will nominate an authorised representative to act for you. If legal proceedings must be commenced or representation is mandatory, you may choose an alternative solicitor, but you must obtain written agreement from the insurer. This agreement will not be unreasonably withheld, but the insurer will only pay professional fees up to what they would have paid their nominated representative (currently \u00a3100+VAT per hour, though this may be increased at their discretion).",
+      "section_reference": "Making a claim section"
+    },
+    {
+      "question": "Are small claims covered?",
+      "answer": "Small claims are only covered for legal advice, not for professional fees or legal proceedings. A small claim is one that is, or may be if proceedings are issued, allocated to the small claims jurisdiction of the courts.",
+      "section_reference": "General exceptions / Small claim(s) definition"
+    },
+    {
+      "question": "What is the excess I need to pay?",
+      "answer": "For employment disputes, you must pay the first \u00a3250 of professional fees after your claim is accepted. For property protection claims involving nuisance or trespass, you must pay the first \u00a3250 of professional fees after claim acceptance. There is no excess for other sections of cover.",
+      "section_reference": "Section 3 (Employment disputes) and Section 7 (Property protection) - What is not insured"
+    },
+    {
+      "question": "Will reporting a claim increase my premium?",
+      "answer": "No, reporting a potential claim under your Legal Expenses insurance will not increase future insurance premiums. However, failing to report a matter in a timely manner may restrict cover that may be provided under your policy.",
+      "section_reference": "Introduction to your Residential Property Legal Expenses Silver Insurance Policy"
+    },
+    {
+      "question": "What does 'reasonable prospect of success' mean?",
+      "answer": "It means your claim has a greater chance than not (more than 50% likelihood) of being wholly successful at the time of reporting your claim and throughout the conduct of your claim. If the insurer or administrator determines your claim does not have reasonable prospects of success, they will not provide cover.",
+      "section_reference": "Reasonable prospect of success definition"
+    },
+    {
+      "question": "Can I claim for a dispute with my landlord?",
+      "answer": "Yes, if the insured property is your principal home and you are renting it, claims against your landlord relating to the rental are covered under Section 6 (Contract disputes). However, if you are letting/renting property to another party, this is not covered.",
+      "section_reference": "Section 6 (Contract disputes) - What is insured and What is not insured"
+    },
+    {
+      "question": "What if I disagree with the insurer's decision not to cover my claim?",
+      "answer": "If the insurer/administrator decides your claim does not have reasonable prospects of success and you disagree, they will instruct an alternative authorised representative to provide a second opinion. If this alternative representative also advises no reasonable prospects, the insurer will not be liable to pay anything. If the alternative representative advises there are reasonable prospects, they will be appointed to act on your behalf.",
+      "section_reference": "Making a claim section"
+    },
+    {
+      "question": "How long do I have to report a claim?",
+      "answer": "You must advise the insurer/administrator of any event that may give rise to a claim as soon as possible. Full details must be provided within 180 days after the event. For employment disputes specifically, you must report within 30 days of dismissal or becoming aware of discrimination. Delays may restrict cover or invalidate your claim.",
+      "section_reference": "Making a claim / General terms and conditions"
+    },
+    {
+      "question": "Is my second home or holiday home covered?",
+      "answer": "Yes, but with limited coverage. If your insured property is a 2nd home or unoccupied property, you only have access to Sections 1 (Free Legal Advice), 6 (Contract Disputes - but only for contracts relating to contents or repairs to the property), and 7 (Property Protection). You do not have access to Personal Injury, Employment Disputes, Tax Protection, or Jury Service coverage.",
+      "section_reference": "Insurance provided \u2013 the cover we offer table"
+    },
+    {
+      "question": "Can friends or family stay at my second home?",
+      "answer": "Yes, for a 2nd home/unoccupied property, friends or family may be permitted to stay free of charge for no more than 60 days in total during any period of insurance. The property may not be let or rented to another party.",
+      "section_reference": "2nd home/unoccupied property definition"
+    },
+    {
+      "question": "What happens if I accept a settlement offer against the solicitor's advice?",
+      "answer": "If you, the administrator, or the insurer receive professional advice to accept a settlement proposal (such as a Part 36 offer), and you do not accept it, any professional fees incurred after receiving that advice are not covered under the policy.",
+      "section_reference": "General exceptions - Your insurance does not cover professional fees and/or defendant's costs"
+    }
+  ],
+  "source_file": "Residential Property Legal Expenses Silver PW (Lexelle-F&L) 092025.pdf",
+  "processed_date": "1762788744.0"
+}

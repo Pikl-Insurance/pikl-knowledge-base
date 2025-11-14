@@ -1,0 +1,246 @@
+{
+  "insurer_name": "Financial & Legal Insurance Company Limited",
+  "policy_type": "Hosting Family Legal Expenses Platinum Insurance",
+  "policy_version": "Master Certificate No: F&LHFAMPLAT/07/2025",
+  "coverage_summary": "This is a legal expenses insurance policy designed for families who host guests (short-term lets) at their principal home. It covers legal costs and representation for various disputes including personal injury, employment issues, criminal prosecution defense, tax inquiries, contract disputes, property protection, education appeals, and probate challenges. Maximum coverage is \u00a375,000 per period including professional fees and defendant's costs.",
+  "key_inclusions": [
+    "24/7 free legal advice telephone helpline",
+    "Personal injury claims - legal assistance to recover compensation and defendant's costs",
+    "Rehabilitation treatment up to \u00a35,000 for accepted personal injury claims",
+    "Employment disputes - professional fees up to \u00a350,000 for unfair dismissal, redundancy, or discrimination claims",
+    "Criminal prosecution defense - professional fees for successful defense of strict liability offenses",
+    "Tax protection - professional fees for HMRC full enquiry appeals relating to PAYE earnings",
+    "Jury service compensation - up to \u00a3100 per day, maximum \u00a31,000 for lost wages",
+    "Contract disputes - legal assistance for buying/selling goods or services and buying/selling principal home",
+    "Property protection - legal assistance for property damage, nuisance or trespass claims",
+    "Education appeals - up to \u00a35,000 for LEA school allocation appeals",
+    "Probate disputes - legal assistance to challenge will validity of close family members"
+  ],
+  "key_exclusions": [
+    "Any claims related to or caused by hosting activity or against a guest",
+    "Claims where principal home is HMO, B&B or hotel",
+    "Claims known about or should have been known about before policy start",
+    "Events occurring while principal home was unoccupied (30+ consecutive days or 90+ total days)",
+    "Small claims - professional fees not covered (legal advice only)",
+    "Divorce, separation, cohabitation, custody, guardianship disputes",
+    "Disputes between insured persons or family members (except Section 10)",
+    "Business, profession or employment-related contracts",
+    "Motor vehicle-related claims (except specific sections)",
+    "Clinical/medical negligence, pharmaceutical claims",
+    "Industrial disease/deafness claims",
+    "Gradual illness or injury not caused by specific sudden event",
+    "Claims without reasonable prospect of success",
+    "Professional fees incurred before claim acceptance",
+    "Dishonesty or violence-related prosecutions",
+    "Fraudulent, exaggerated or false claims",
+    "Legal aid recoverable costs",
+    "Costs more than \u00a3100+VAT per hour for non-nominated representatives",
+    "War, terrorism, nuclear risks",
+    "Electronic data loss or corruption",
+    "Fines, compensation orders or criminal penalties",
+    "Judicial review or Human Rights Act proceedings",
+    "Group or multi-party actions"
+  ],
+  "coverage_limits": {
+    "maximum_total": "\u00a375,000 per period of insurance for all claims combined",
+    "employment_disputes": "Maximum \u00a350,000 for employment dispute claims",
+    "rehabilitation_costs": "Maximum \u00a35,000 for rehabilitation treatment (within overall limit)",
+    "education_appeals": "Maximum \u00a35,000 per period of insurance",
+    "jury_service_daily": "Maximum \u00a3100 per day",
+    "jury_service_total": "Maximum \u00a31,000 per claim"
+  },
+  "sub_limits": {
+    "employment_excess": "First \u00a3250 of professional fees (payable when claim accepted)",
+    "property_protection_excess": "First \u00a3250 of professional fees for nuisance/trespass (payable when claim accepted)",
+    "property_minimum_value": "Claims below \u00a3100 value not covered",
+    "jury_service_calculation": "1/250th of annual salary per day for full-time; 6-month average for part-time"
+  },
+  "special_conditions": [
+    "This is a 'claims made' policy - only covers claims notified within the period of cover",
+    "Must report claims within 180 days of the event",
+    "Must report events that may lead to claims as soon as possible",
+    "Employment claims must be reported within 30 days of dismissal or discrimination awareness",
+    "Criminal prosecution must be reported within 14 days of awareness",
+    "Must be registered on electoral roll at principal home address",
+    "Authorised representative must provide written assessment within 28 days",
+    "Must obtain administrator/insurer consent before issuing proceedings, instructing counsel/experts, appealing, or incurring disbursements",
+    "Must cooperate fully with insurer, administrator and authorised representative",
+    "Must take steps to minimize professional fees",
+    "Cannot transfer policy to another party",
+    "Principal home must be only or main residence where insured is on electoral roll",
+    "Any costs recoverable from other parties must be applied to professional fees first"
+  ],
+  "excess_deductible": "Employment disputes: \u00a3250 excess on professional fees. Property protection (nuisance/trespass): \u00a3250 excess on professional fees. No excess mentioned for other sections.",
+  "geographical_coverage": "England, Wales, Scotland, Northern Ireland, Channel Islands and the Isle of Man",
+  "age_restrictions": "Education section: Child must be under 5 for admission disputes (except for academic year they turn 5), and under 17 during next academic year",
+  "pre_existing_conditions": "No cover for any claim or event which the insured knew about or ought reasonably to have known about before the policy start date. Also excludes events in a series where the first event occurred before the period of insurance.",
+  "cancellation_policy": "14-day cooling off period for full refund if no claims made or pending. After 14 days, no refund on cancellation. Insurer can cancel with 14 days' notice for valid reasons (fraud, non-payment, threatening behavior, non-compliance, inaccurate information). Pro-rata refund given unless cancelled for fraud/misrepresentation.",
+  "endorsements": [
+    {
+      "name": "None specified in document",
+      "description": "Policy states sections covered shown on schedule and subject to endorsements, but no specific endorsements are detailed in this master policy document",
+      "cost_impact": "Not specified",
+      "coverage_impact": "Schedule will show which sections apply and any endorsements"
+    }
+  ],
+  "claims_requirements": {
+    "notification_timeframe": "As soon as possible for events that may lead to claim. Full claim details within 180 days of event. Employment: 30 days from dismissal/discrimination. Criminal prosecution: 14 days from awareness.",
+    "required_documents": [
+      "Complete and truthful report of facts",
+      "Details of potential witnesses",
+      "Documentary evidence supporting claim",
+      "Policy number and master certificate number",
+      "Name of organization that sold the insurance",
+      "For jury service: wage/salary slips and employment contract",
+      "Written short let agreement between host and guest (for eligibility verification)"
+    ],
+    "process_steps": [
+      "1. Report claim by telephone or in writing to administrator (Lexelle Limited)",
+      "2. Provide complete facts, witness details and documentary evidence",
+      "3. Administrator/insurer makes preliminary assessment of reasonable prospect of success",
+      "4. If accepted, administrator/insurer appoints authorised representative",
+      "5. If rejected and you disagree, alternative authorised representative will provide second opinion",
+      "6. If alternative representative confirms prospects of success, they will be appointed to act",
+      "7. Authorised representative must provide written assessment within 28 days",
+      "8. Must obtain consent before issuing proceedings, instructing counsel/experts, appealing",
+      "9. Insurer/administrator may require barrister advice on settlement offers",
+      "10. If advised to settle/discontinue and you refuse, cover may cease"
+    ],
+    "evidence_requirements": "Complete truthful report, witness details, documentary evidence. For personal injury: medical evidence. For jury service: salary slips and employment contract. For education: LEA application and correspondence. For all claims: evidence demonstrating reasonable prospect of success.",
+    "claims_contact": "Lexelle Limited, PO Box 4428, Sheffield, S9 9DD. Tel: 0114 249 3300. Email: assist@lexelle.com"
+  },
+  "eligibility_criteria": {
+    "age_limits": "Education section only: child under 5 years (except for academic year turning 5) and under 17 during next academic year. No age limits specified for policyholders.",
+    "medical_restrictions": "No medical restrictions for policyholder eligibility. Personal injury section excludes gradual illness or non-sudden injury.",
+    "occupational_restrictions": "Must be employed (for employment disputes and tax protection sections). Self-employed not covered for jury service loss of income. Employment section requires tribunal-level disputes.",
+    "residency_requirements": "Must be registered on electoral roll at principal home. Principal home must be in England, Wales, Scotland, Northern Ireland, Channel Islands or Isle of Man. Principal home must be only or main residence. Cannot be HMO, B&B or hotel.",
+    "other_restrictions": [
+      "Must be hosting guests under written short let agreement",
+      "Principal home cannot be unoccupied for 30+ consecutive days or 90+ total days in period",
+      "Cannot have expelled/suspended/excluded child from another school (education section)",
+      "For education: must nominate school in catchment area and maximum number of schools",
+      "For education: must follow LEA application and appeals process including deadlines",
+      "For tax protection: must relate to PAYE earnings and P11D benefits only",
+      "Contract must be in writing (for contract disputes section)"
+    ]
+  },
+  "policy_definitions": {
+    "Administrator": "Lexelle Limited, who administers the insurance on behalf of Financial & Legal Insurance Company Limited",
+    "Authorised representative": "Appropriately qualified professional person or firm appointed by administrator/insurer to act on your behalf",
+    "Civil Claim": "Dispute relating to contractual, common law and statutory rights for which you are pursuing a remedy",
+    "Condition": "An obligation you must perform. Failure may result in no payment under policy",
+    "Date of occurrence": "Date of event leading to claim; if multiple events, date of first event",
+    "Defendant's costs": "Legal costs and expenses you are ordered to pay to another party",
+    "Guest(s)": "Person(s), including family/companions, with agreement to stay at principal home for agreed period under written short let agreement",
+    "Host": "You or insured person who agreed to allow guests into principal home or has obligation relating to hosting activity",
+    "Hosting Activity": "Any activity performed to fulfill host's legal obligations under written short let agreement",
+    "Insured": "Person named in schedule",
+    "Insured person(s)": "Insured and family members permanently residing at principal home, including civil partners and children for whom insured/spouse/partner are legal guardian",
+    "LEA": "Local education authority covering principal home location where you are registered on electoral roll",
+    "Legal advice": "Advice provided by insurer's/administrator's in-house legal advisors",
+    "Legal assistance": "Actions taken by administrator/authorised representative including professional fees",
+    "Legal proceedings": "Claim for damages/compensation pursued in court within covered territories",
+    "Maximum amount": "\u00a375,000 total including \u00a350,000 max for employment and \u00a35,000 max for rehabilitation per period",
+    "Period of insurance": "Period stated in schedule",
+    "Principal home": "Property in schedule where insured person(s) listed on electoral roll, must be only or main residence, cannot be HMO/B&B/hotel",
+    "Professional fees": "Fees reasonably incurred by authorised representative with prior authority, including approved disbursements",
+    "Reasonable prospect of success": "Matter has greater than 50% chance of being wholly successful at time of reporting and throughout claim",
+    "Rehabilitation treatment": "Reasonable and necessary muscular skeletal non-surgical restorative treatment approved by GMC, recommended by qualified medical practitioner and insurer",
+    "Schedule": "Document showing your details and insurance provided, forms part of contract",
+    "Small claim(s)": "Claim allocated or may be allocated to small claims jurisdiction of courts",
+    "Strict liability": "Criminal offence committed without knowing, not deliberate/wilful, no need to establish guilty mind for conviction",
+    "Unoccupied": "Principal home not lived in by insured person for 30+ consecutive days or 90+ total days during period",
+    "Your claim": "Claim for loss, costs, defendant's costs, legal assistance, legal advice, or other cover under Sections 1-10"
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "Education section: application/allocation must occur more than 6 months after policy inception",
+    "notification_deadlines": "Events that may lead to claim: as soon as possible. Full claim details: within 180 days of event. Employment: 30 days from dismissal/discrimination. Criminal prosecution: 14 days from awareness. Delays may increase costs you must pay or invalidate claim.",
+    "claims_deadlines": "180 days from event to provide full claim details. Must report to administrator, not just use helpline. If disputed claim not referred to arbitration within 12 months of being turned down, treated as abandoned.",
+    "cooling_off_period": "14 days from purchase or receipt of policy documents (whichever later) for full refund if no claims made/pending"
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "Financial & Legal Insurance Company Limited is authorised by PRA and regulated by FCA and PRA, FSR number 202915",
+      "Lexelle Limited administers insurance, authorised and regulated by FCA, register number 312782",
+      "Compliance with Consumer Insurance (Disclosure and Representations) Act 2012",
+      "Must take reasonable care to provide accurate and complete information",
+      "Inaccurate information may invalidate policy or mean claims not paid in full",
+      "Policy governed by English law, disputes in English courts or country of main residence within UK"
+    ],
+    "ipid_key_info": "This is a 'claims made' policy covering legal expenses up to \u00a375,000 per period. Covers personal injury, employment disputes (\u00a350,000 max), criminal defense, tax, jury service, contracts, property, education (\u00a35,000 max), and probate. Principal home cannot be HMO/B&B/hotel. No cover for hosting activity claims or claims against guests.",
+    "fair_treatment_obligations": "Must communicate in English language for duration of policy. Best possible service commitment. Clear complaints procedure. Obligation to explain reasonable prospect of success and provide written confirmation if claim rejected. Must not unreasonably withhold agreement to alternative solicitor. Professional fees capped at reasonable rates.",
+    "complaints_process": "Sale complaints: contact agent who arranged insurance. Claims complaints: contact Claims Manager at Lexelle Ltd (details provided). If no agreement, escalate to Financial Ombudsman Service (contact details provided). For business customers: eligible if turnover \u00a36.5m or less AND fewer than 50 employees OR balance sheet below \u00a35m. Can use EU Online Dispute Resolution Portal. Complaints procedure additional to statutory rights.",
+    "regulatory_warnings": [
+      "Nobody other than you and insurer has enforceable rights under this contract",
+      "Policy cannot be assigned to other party",
+      "If you act fraudulently, policy becomes void, no premium refunded, insurer may recover previous payments and inform authorities",
+      "Fraud may affect future insurance eligibility",
+      "Information provided relied upon for contract formation and throughout duration",
+      "If information inaccurate/changed, must inform administrator/agent immediately"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "What is a 'claims made' policy and why does it matter?",
+      "answer": "This policy only covers claims that are notified to the insurer during the period of cover shown in the schedule. If an event happens during the policy period but you don't notify the claim until after the policy expires, there will be no cover. You must notify claims within 180 days of the event.",
+      "section_reference": "Introduction, Page 4"
+    },
+    {
+      "question": "Can I use this policy for disputes with my short-term rental guests?",
+      "answer": "No. The policy specifically excludes 'any claims related to or caused by your hosting activity or against a guest.' This exclusion appears in multiple sections (Contract Disputes, Property Protection, General Exceptions). Despite being marketed as 'Hosting Family' insurance, it does not cover disputes with guests.",
+      "section_reference": "General Exceptions, Sections 7 & 8"
+    },
+    {
+      "question": "What happens if my property is unoccupied for extended periods?",
+      "answer": "If the principal home is not lived in by an insured person for 30 or more consecutive days, or a total of 90 or more days during the policy period, it is considered 'unoccupied' and property protection claims during that time will not be covered. This is particularly relevant for hosts who may travel frequently.",
+      "section_reference": "Definitions - Unoccupied, Section 8 - Property Protection"
+    },
+    {
+      "question": "Will the insurer pay for small claims court cases?",
+      "answer": "No professional fees are covered for small claims. The policy will only provide legal advice for small claims matters, but will not pay for legal representation or professional fees. Small claims are those allocated or likely to be allocated to the small claims track.",
+      "section_reference": "General Exceptions, Definitions - Small Claims"
+    },
+    {
+      "question": "Can I choose my own solicitor?",
+      "answer": "Initially, no. The insurer/administrator will appoint an authorised representative. However, if legal proceedings must commence or it's mandatory for you to be represented by a solicitor, you may choose an alternative solicitor with the insurer's written agreement (which won't be unreasonably withheld). The insurer will only pay fees up to the amount they would have paid their appointed representative (\u00a3100+VAT per hour).",
+      "section_reference": "Making a Claim, Page 5"
+    },
+    {
+      "question": "What does 'reasonable prospect of success' mean and who decides?",
+      "answer": "It means your claim has a greater than 50% chance of being wholly successful, both at the time of reporting and throughout the claim. The administrator or insurer makes this assessment. If they decide there's no reasonable prospect and you disagree, they'll instruct an alternative representative for a second opinion. If both say no prospects, no cover is provided.",
+      "section_reference": "Definitions - Reasonable Prospect of Success, Making a Claim"
+    },
+    {
+      "question": "How quickly must I report an employment dispute?",
+      "answer": "You must report employment dispute claims within 30 days of dismissal or becoming aware of discrimination. If you report within 30 days but don't follow the advice of the administrator or representative, you won't be covered. There's also a \u00a3250 excess for employment claims.",
+      "section_reference": "Section 3 - Employment Disputes"
+    },
+    {
+      "question": "Are criminal prosecution costs covered?",
+      "answer": "Only for strict liability offenses (where you didn't know you were committing a crime) and only if you're successfully acquitted of all charges. You must report within 14 days of being made aware. Motor vehicle offenses, sexual offenses, and any deliberate crimes are excluded. The insurer only pays costs after any legal aid or other recoverable amounts are applied first.",
+      "section_reference": "Section 4 - Criminal Prosecution Defence"
+    },
+    {
+      "question": "What if I'm advised to accept a settlement offer but want to continue?",
+      "answer": "If you, the administrator or the authorised representative receives professional advice to accept a settlement offer (including Part 36 offers) but you choose not to, any professional fees incurred after that point will not be covered. The insurer may also require barrister advice on whether to accept settlement offers.",
+      "section_reference": "General Exceptions, General Terms and Conditions"
+    },
+    {
+      "question": "Can I use the 24/7 legal helpline instead of making a formal claim?",
+      "answer": "The helpline provides initial free verbal legal advice but cannot replace formal claim notification. Using the helpline does NOT constitute notification of a claim. You must still report claims formally within the required timeframes (typically 180 days). Delays in formal notification may reduce or prevent assistance and could make you liable for additional costs.",
+      "section_reference": "Section 1 - 24/7 Free Legal Advice Service"
+    },
+    {
+      "question": "What's the maximum the insurer will pay in total?",
+      "answer": "\u00a375,000 maximum per period of insurance for all claims combined. This includes professional fees, defendant's costs, and rehabilitation costs. Within this, employment disputes are capped at \u00a350,000 and rehabilitation treatment at \u00a35,000. Education appeals have a separate \u00a35,000 limit. Once limits are reached, no further claims are paid that period.",
+      "section_reference": "Definitions - Maximum Amount, Coverage Limits"
+    },
+    {
+      "question": "What is the 'principal home' requirement and why is it so important?",
+      "answer": "The principal home must be the property in the schedule where you are registered on the electoral roll. It must be your only or main residence. It cannot be a House of Multiple Occupation (HMO), B&B or hotel. If you change address, you must request written acceptance from the insurer for the new address. This is fundamental to eligibility - if the property doesn't qualify, there's no cover.",
+      "section_reference": "Definitions - Principal Home, General Exceptions"
+    }
+  ],
+  "source_file": "Hosting Family Legal Expenses PW (Lexelle-F&L) 092025.pdf",
+  "processed_date": "1762788744.0"
+}

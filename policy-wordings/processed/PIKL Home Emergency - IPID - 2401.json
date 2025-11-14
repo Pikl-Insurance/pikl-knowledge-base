@@ -1,0 +1,196 @@
+{
+  "insurer_name": "Millennium Insurance Company Limited (underwritten by Novus Underwriting Limited on behalf of Millennium Insurance Company Limited; provided by Stubben Edge)",
+  "policy_type": "Home Emergency Insurance",
+  "policy_version": "MILPIK-HOME-RENT-2401-POLICY",
+  "coverage_summary": "This insurance provides cover for an approved engineer's callout charges, labour, parts and materials following certain sudden and unexpected events occurring at your home which, if not dealt with quickly, would cause damage or further damage, or make your home insecure or unsafe, or cause a health or safety risk to you or others.",
+  "key_inclusions": [
+    "Plumbing failures - internal plumbing system including toilets causing water leakage, flooding or water damage",
+    "Internal and external drainage system failures - blocked toilets, leaking tanks/cylinders, total blockage of all sinks, blocked external drains",
+    "Electrical emergency - breakdown or failure of permanent domestic electrical wiring system and components",
+    "Emergency boiler - mechanical or electrical failure resulting in system becoming completely unusable",
+    "Domestic central heating system cover - mechanical or electrical failure or malfunction resulting in complete unusability",
+    "Alternative heating costs contribution of \u00a340 if spare parts needed and heating cannot be reinstated within 60 hours",
+    "Security incidents - making home secure following break-in, boarding broken glazing, repairing/replacing broken locks",
+    "Roofing - cover to protect roof from further damage due to bad weather",
+    "Lost or stolen keys - cover to gain access to home, replacing locks and keys",
+    "Pest infestation - removal/extermination of black or brown rats, field or house mice, wasps' or hornets' nests",
+    "Alternative accommodation contribution up to \u00a3250 if home uninhabitable for more than 48 hours",
+    "Emergency gas supply pipe cover"
+  ],
+  "key_exclusions": [
+    "Pipework outside the boundary of your home",
+    "Leaks from household appliances, sinks, baths, or showers where the leak only occurs when the item is in use",
+    "Frozen pipes which have not caused any damage",
+    "Guttering or rainwater downpipes, rainwater drains and soakaways",
+    "Blocked toilets that are not leaking or overflowing, and where there is another available toilet in the home",
+    "Repairs if your boiler is deemed beyond economical repair",
+    "Domestic appliances or items with a plug (electrical cover)",
+    "Swimming pools, fish tanks, ponds, burglar and smoke alarms, satellite/TV equipment, doorbells, garage doors, shower units, portable and fixed heating systems, immersion heaters, power generating systems including solar panels and wind turbines, any 3 phase electrical systems or garden areas (electrical cover)",
+    "Collapsed drains",
+    "Any external gas supply pipe or any piping that is the responsibility of the National Grid",
+    "Pest infestations outside the main house (e.g., garages, other outbuildings or garden)",
+    "Where an appliance has caused a circuit to fail or trip",
+    "Any incident within the initial exclusion period (first 14 days) after the start date of policy",
+    "Any item or system which has not been regularly maintained and/or serviced in accordance with manufacturer's instructions or recommendations",
+    "Claims arising whilst or immediately after your home has been left unoccupied for 60 or more consecutive days",
+    "Any work carried out by you or any other person which was not authorised by the claims administrator in advance",
+    "Any parts or item which may need to be replaced due to natural wear and tear and/or gradual deterioration",
+    "Boilers over 15 years old or with output exceeding 60kW/hr",
+    "Boilers not serviced within 12 months before insurance starts or not serviced in line with manufacturer's recommendations",
+    "Any repair/replacement whilst your boiler is still covered under a warranty"
+  ],
+  "coverage_limits": {
+    "per_claim_limit": "\u00a31,000 maximum per claim",
+    "annual_claim_limit": "Maximum of 3 claims during any 12 months period of insurance",
+    "alternative_heating_contribution": "\u00a340 towards alternative heating costs if heating cannot be reinstated within 60 hours",
+    "alternative_accommodation": "Up to \u00a3250 contribution if home uninhabitable for more than 48 hours"
+  },
+  "sub_limits": {
+    "alternative_heating": "\u00a340 contribution only when spare parts needed and engineer cannot reinstate heating within 60 hours",
+    "alternative_accommodation_coverage": "\u00a3250 maximum - covers hotel room(s) and transport to hotel only"
+  },
+  "special_conditions": [
+    "Policy only covers emergencies - no cover for routine maintenance, cleaning or servicing",
+    "Policy provides temporary repair to limit/prevent damage or, at claims administrator's discretion, replacement of damaged part or item",
+    "Boilers must be under 15 years old with output of 60kW/hr or less",
+    "Boilers must have been serviced within 12 months before insurance starts and/or serviced in line with manufacturer's recommendations",
+    "Boilers must be serviced within 12-month period prior to an emergency occurring",
+    "All reasonable precautions must be taken to prevent an emergency",
+    "Normal day-to-day maintenance of home must be undertaken and home must be in good condition",
+    "Major emergencies which could result in serious injury to the public or damage to property should be immediately advised to the supply company and/or public emergency services",
+    "Alternative accommodation costs must be paid initially by policyholder then claimed for reimbursement"
+  ],
+  "excess_deductible": "\u00a350 excess per claim - must be paid to claims administrator before any assistance can be provided",
+  "geographical_coverage": "England, Scotland, Wales or Northern Ireland",
+  "age_restrictions": "Boilers must be under 15 years old to be covered",
+  "pre_existing_conditions": "Not applicable for home emergency insurance",
+  "cancellation_policy": "14-day cooling off period from date of purchase or receipt of policy documents (whichever is later) - full refund of premium unless claim made or incident likely to result in claim. After cooling off period, can cancel anytime but no refund of premium will be payable.",
+  "endorsements": [],
+  "claims_requirements": {
+    "notification_timeframe": "As soon as reasonably possible - major emergencies which could result in serious injury to the public or damage to property should be immediately advised to the supply company and/or the public emergency services",
+    "required_documents": [
+      "Evidence of boiler service within 12 months prior to policy start date (for boiler claims)",
+      "Evidence of boiler service in line with manufacturer's recommendations (for boiler claims)",
+      "Claim form for reimbursement (for alternative accommodation)",
+      "Receipts/invoices for alternative accommodation and transport costs"
+    ],
+    "process_steps": [
+      "Report emergency to claims administrator as soon as reasonably possible",
+      "All requests for assistance must be made through the claims administrator",
+      "Pay \u00a350 excess to claims administrator before assistance provided",
+      "Await authorization from claims administrator before any work is carried out",
+      "For alternative accommodation: pay costs initially, then submit claim form to claims administrator for reimbursement"
+    ],
+    "evidence_requirements": "Boiler service records (within 12 months prior to policy start and/or in line with manufacturer's recommendations); receipts for alternative accommodation and transport costs",
+    "claims_contact": "Claims administrator (specific contact details not provided in this document)"
+  },
+  "eligibility_criteria": {
+    "age_limits": "No age limits for policyholders; boilers must be under 15 years old",
+    "medical_restrictions": "Not applicable",
+    "occupational_restrictions": "Not specified",
+    "residency_requirements": "Property must be located in England, Scotland, Wales or Northern Ireland",
+    "other_restrictions": [
+      "Must ensure you and your home are eligible for this insurance - eligibility requirements advised when applying/purchasing",
+      "Home must be in good condition with normal day-to-day maintenance undertaken",
+      "Boiler must have been serviced within 12 months prior to policy start date",
+      "Boiler must be serviced in line with manufacturer's recommendations",
+      "Boiler output must be 60kW/hr or less",
+      "Home must not be left unoccupied for 60 or more consecutive days"
+    ]
+  },
+  "policy_definitions": {
+    "emergency": "Certain sudden and unexpected events occurring at your home which, if not dealt with quickly, would cause damage or further damage, or make your home insecure or unsafe, or cause a health or safety risk to you or others",
+    "completely unusable": "When domestic central heating system experiences mechanical or electrical failure or malfunction resulting in the system becoming completely unusable",
+    "beyond economical repair": "When a boiler is deemed not cost-effective to repair (excluded from cover)",
+    "temporary repair": "Repair to limit or prevent damage, or at claims administrator's discretion, replacement of damaged part or item",
+    "unoccupied": "Home left vacant for 60 or more consecutive days",
+    "natural wear and tear": "Parts or items that need replacement due to gradual deterioration over time (excluded)",
+    "initial exclusion period": "First 14 days from the start date of policy - incidents during this period are not covered",
+    "cooling off period": "14 days from date of purchase or receipt of policy documents (whichever is later)"
+  },
+  "time_sensitive_requirements": {
+    "waiting_periods": "14-day initial exclusion period - any incident within first 14 days from policy start date is not covered",
+    "notification_deadlines": "Report emergency as soon as reasonably possible; major emergencies immediately to supply company/public emergency services",
+    "claims_deadlines": "Not specified in document",
+    "cooling_off_period": "14 days from date of purchase or receipt of policy documents (whichever is later) for full refund"
+  },
+  "regulatory_compliance": {
+    "fca_disclosures": [
+      "This is an Insurance Product Information Document (IPID)",
+      "The following summary does not contain the full terms and conditions of the contract which can be found in your policy documentation",
+      "Stubben Edge is registered in the UK",
+      "Policy underwritten by Novus Underwriting Limited on behalf of Millennium Insurance Company Limited"
+    ],
+    "ipid_key_info": "Document provides standardized summary of insurance product including: what is insured, what is not insured, restrictions on cover, where covered, obligations, payment terms, start/end dates, and cancellation rights",
+    "fair_treatment_obligations": "Must provide complete and accurate answers to questions when taking out, making changes to, or renewing policy",
+    "complaints_process": "Not detailed in this document extract",
+    "regulatory_warnings": [
+      "You must take reasonable care to provide complete and accurate answers to questions you are asked when you take out, make any changes to, or renew your policy",
+      "You must ensure that you and your home is eligible for this Insurance"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Does this policy cover routine maintenance and servicing?",
+      "answer": "No. The policy only covers emergencies. There is no cover for routine maintenance of the items covered under the policy, nor for cleaning or servicing.",
+      "section_reference": "Are there any restrictions on cover?"
+    },
+    {
+      "question": "Will my boiler be repaired or replaced?",
+      "answer": "This policy will provide a temporary repair to limit or prevent damage or, solely at the claims administrator's discretion, a replacement of a damaged part or item. If your boiler is deemed beyond economical repair, there is no cover.",
+      "section_reference": "Are there any restrictions on cover? / What is not insured?"
+    },
+    {
+      "question": "How many claims can I make?",
+      "answer": "You can make a maximum of 3 claims during any 12 months period of insurance, with a limit of \u00a31,000 per claim.",
+      "section_reference": "Are there any restrictions on cover?"
+    },
+    {
+      "question": "Is there an excess to pay?",
+      "answer": "Yes. You will need to pay the first \u00a350 of each claim you make under the policy. The claims administrator will need to take the payment before any assistance can be provided to you.",
+      "section_reference": "Are there any restrictions on cover?"
+    },
+    {
+      "question": "Are there any waiting periods?",
+      "answer": "Yes. Any incident which happens within the first 14 days from the start date of your policy is not covered.",
+      "section_reference": "Are there any restrictions on cover? / What is not insured?"
+    },
+    {
+      "question": "Does my boiler need to be serviced to be covered?",
+      "answer": "Yes. Boilers must have been serviced within the 12 months before the insurance starts and/or serviced in line with the manufacturer's recommendations. Additionally, boilers must be serviced within the 12-month period prior to an emergency occurring.",
+      "section_reference": "What are my obligations? / Are there any restrictions on cover?"
+    },
+    {
+      "question": "Is my 20-year-old boiler covered?",
+      "answer": "No. We will only cover boilers under 15 years old and which have an output of 60kW/hr or less.",
+      "section_reference": "Are there any restrictions on cover?"
+    },
+    {
+      "question": "What if I'm going on holiday for two months?",
+      "answer": "There is no cover for claims arising whilst or immediately after your home has been left unoccupied for 60 or more consecutive days.",
+      "section_reference": "What is not insured?"
+    },
+    {
+      "question": "Can I get emergency help if I have a leaking tap?",
+      "answer": "No. Leaks from household appliances, sinks, baths, or showers where the leak only occurs when the item is in use are not covered.",
+      "section_reference": "What is not insured?"
+    },
+    {
+      "question": "How does alternative accommodation work?",
+      "answer": "If your home becomes uninhabitable for more than 48 hours because of a covered emergency, you can claim up to \u00a3250. This covers hotel room(s) and transport to the hotel only. You must pay the costs initially and then submit a claim form to the claims administrator for reimbursement.",
+      "section_reference": "What is insured? / Are there any restrictions on cover?"
+    },
+    {
+      "question": "Can I use my own engineer?",
+      "answer": "No. Any work carried out by you or any other person which was not authorised by the claims administrator in advance is excluded. All requests for assistance must be made through the claims administrator.",
+      "section_reference": "What is not insured? / When making a claim"
+    },
+    {
+      "question": "What if my blocked toilet isn't overflowing and I have another toilet?",
+      "answer": "This is not covered. Blocked toilets that are not leaking or overflowing, and where there is another available toilet in the home, are excluded.",
+      "section_reference": "What is not insured?"
+    }
+  ],
+  "source_file": "PIKL Home Emergency - IPID - 2401.pdf",
+  "processed_date": "1762788744.0"
+}

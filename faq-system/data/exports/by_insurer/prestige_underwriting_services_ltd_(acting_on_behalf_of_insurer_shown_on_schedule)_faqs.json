@@ -1,0 +1,1089 @@
+{
+  "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+  "total_faqs": 72,
+  "faqs": [
+    {
+      "id": "exclusion_overview_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Exclusions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) insurance exclude?",
+      "answer": "The following are NOT covered under Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)'s Home Insurance (Coverall Policy) policy:\n\n\u2022 Wear and tear, corrosion, damp, mould, dry/wet rot, fungus, gradual deterioration\n\u2022 Maintenance and normal upkeep costs\n\u2022 Loss or damage while property is unoccupied (60+ days)\n\u2022 Terrorism\n\u2022 War, invasion, civil war, rebellion, revolution, insurrection\n\u2022 Nuclear contamination and radioactive materials\n\u2022 Pollution and contamination (except specific circumstances)\n\u2022 Sonic bangs from aircraft\n\u2022 Vermin, insects, pets or domesticated animals\n\u2022 Mechanical or electrical breakdown/failure\n\u2022 Faulty workmanship, materials or design (except property owner liability)\n\u2022 Damage from contractors' activities\n\u2022 Business use (except specified business equipment)\n\u2022 Motorised vehicles or craft (with specific exceptions)\n\u2022 Reduction in value after repair\n\u2022 Confiscation or detention by authorities\n\u2022 Riot or civil commotion outside United Kingdom\n\u2022 Subsidence to drives, patios, terraces, walls, gates, fences (unless main building damaged)\n\u2022 Coastal or riverbank erosion\n\u2022 Settlement, shrinkage or expansion\n\u2022 Storm damage to fences and gates\n\u2022 Frost damage (to underground services and certain circumstances)\n\u2022 Theft without evidence of forced entry when property is let/sublet\n\u2022 Loss by deception (except deception solely to enter property)\n\u2022 Theft from unoccupied property\n\u2022 Damage from trees being cut down within the home grounds\n\u2022 Cyber loss (for Section 8 - Claims Preparation Assistance)",
+      "tags": [
+        "exclusions",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "exclusion_terrorism_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Exclusions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "Does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) insurance exclude terrorism?",
+      "answer": "Yes, Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)'s Home Insurance (Coverall Policy) policy excludes:\n\n\u2022 Terrorism",
+      "tags": [
+        "exclusions",
+        "terrorism",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "exclusion_war_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Exclusions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "Does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) insurance exclude war?",
+      "answer": "Yes, Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)'s Home Insurance (Coverall Policy) policy excludes:\n\n\u2022 War, invasion, civil war, rebellion, revolution, insurrection",
+      "tags": [
+        "exclusions",
+        "war",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "limit_buildings_sum_insured_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Coverage Limits",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What is the coverage limit for buildings_sum_insured under Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "As shown on Schedule - includes index linking monthly",
+      "tags": [
+        "limits",
+        "buildings_sum_insured",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "limit_contents_sum_insured_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Coverage Limits",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What is the coverage limit for contents_sum_insured under Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "As shown on Schedule - includes index linking monthly",
+      "tags": [
+        "limits",
+        "contents_sum_insured",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "limit_valuables_within_home_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Coverage Limits",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What is the coverage limit for valuables_within_home under Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "Up to 33% of Contents sum insured, single article/collection limit 10%",
+      "tags": [
+        "limits",
+        "valuables_within_home",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "limit_property_owners_liability_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Coverage Limits",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What is the coverage limit for property_owners_liability under Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "\u00a32,000,000 per claim",
+      "tags": [
+        "limits",
+        "property_owners_liability",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "limit_public_liability_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Coverage Limits",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What is the coverage limit for public_liability under Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "\u00a32,000,000 per claim",
+      "tags": [
+        "limits",
+        "public_liability",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "limit_domestic_staff_liability_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Coverage Limits",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What is the coverage limit for domestic_staff_liability under Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "\u00a310,000,000 per claim",
+      "tags": [
+        "limits",
+        "domestic_staff_liability",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "limit_business_equipment_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Coverage Limits",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What is the coverage limit for business_equipment under Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "Up to \u00a35,000 in total",
+      "tags": [
+        "limits",
+        "business_equipment",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "limit_alternative_accommodation_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Coverage Limits",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What is the coverage limit for alternative_accommodation under Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "Up to 20% of Buildings/Contents sum insured per claim",
+      "tags": [
+        "limits",
+        "alternative_accommodation",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "limit_trace_and_access_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Coverage Limits",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What is the coverage limit for trace_and_access under Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "\u00a35,000 per period of insurance",
+      "tags": [
+        "limits",
+        "trace_and_access",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "limit_loss_of_oil_or_metered_water_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Coverage Limits",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What is the coverage limit for loss_of_oil_or_metered_water under Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "\u00a31,000 per period of insurance (combined Sections 1 and 2)",
+      "tags": [
+        "limits",
+        "loss_of_oil_or_metered_water",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "limit_personal_possessions_unspecified_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Coverage Limits",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What is the coverage limit for personal_possessions_unspecified under Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "\u00a32,500 per item",
+      "tags": [
+        "limits",
+        "personal_possessions_unspecified",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "limit_personal_possessions_from_vehicle_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Coverage Limits",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What is the coverage limit for personal_possessions_from_vehicle under Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "\u00a31,500 per claim",
+      "tags": [
+        "limits",
+        "personal_possessions_from_vehicle",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "limit_jewellery_from_hotel_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Coverage Limits",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What is the coverage limit for jewellery_from_hotel under Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "\u00a32,000 per claim",
+      "tags": [
+        "limits",
+        "jewellery_from_hotel",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "limit_money_and_credit_cards_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Coverage Limits",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What is the coverage limit for money_and_credit_cards under Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "\u00a31,000 per claim",
+      "tags": [
+        "limits",
+        "money_and_credit_cards",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "limit_fatal_injury_under_16_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Coverage Limits",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What is the coverage limit for fatal_injury_under_16 under Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "\u00a35,000 per person",
+      "tags": [
+        "limits",
+        "fatal_injury_under_16",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "limit_fatal_injury_16_and_over_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Coverage Limits",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What is the coverage limit for fatal_injury_16_and_over under Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "\u00a310,000 per person",
+      "tags": [
+        "limits",
+        "fatal_injury_16_and_over",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "endorsements_overview_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Endorsements & Modifications",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What endorsements are available for Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) insurance?",
+      "answer": "The following endorsements can be added to Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)'s Home Insurance (Coverall Policy) policy:\n\n**Security Requirements**\nMay specify required locks, alarms, or security devices\nCost impact: Affects premium; failure to comply may void cover\nCoverage impact: Non-compliance may result in claim rejection or non-payment\n\n**Unoccupied Property**\nAdditional requirements/restrictions when property unoccupied\nCost impact: May increase premium\nCoverage impact: Significant restrictions on theft, water damage, malicious damage cover\n\n**Subsidence Exclusion/Excess**\nMay exclude or increase excess for subsidence claims\nCost impact: May reduce premium if excluded\nCoverage impact: Removes or limits subsidence cover\n\n**Structural Works Exclusion**\nRestrictions during building works, extensions, renovations\nCost impact: Variable\nCoverage impact: Must notify before works commence; may exclude certain perils during works\n\n**High Value Items**\nSpecified items listed individually with values\nCost impact: Increases premium based on declared value\nCoverage impact: Increases limit for specified valuable items\n\n**Let Property**\nAdditional terms for properties that are rented/let\nCost impact: Increases premium\nCoverage impact: Modifies theft requirements (need forced entry evidence)\n\n**Excess Variations**\nChanges to standard excess amounts\nCost impact: Higher excess typically reduces premium\nCoverage impact: Changes amount customer pays per claim",
+      "tags": [
+        "endorsements",
+        "modifications",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "endorsement_security_requirements_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Endorsements & Modifications",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What does the 'Security Requirements' endorsement do for Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "May specify required locks, alarms, or security devices\n\n**Cost Impact:** Affects premium; failure to comply may void cover\n**Coverage Impact:** Non-compliance may result in claim rejection or non-payment",
+      "tags": [
+        "endorsements",
+        "security-requirements",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "endorsement_unoccupied_property_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Endorsements & Modifications",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What does the 'Unoccupied Property' endorsement do for Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "Additional requirements/restrictions when property unoccupied\n\n**Cost Impact:** May increase premium\n**Coverage Impact:** Significant restrictions on theft, water damage, malicious damage cover",
+      "tags": [
+        "endorsements",
+        "unoccupied-property",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "endorsement_subsidence_exclusion/excess_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Endorsements & Modifications",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What does the 'Subsidence Exclusion/Excess' endorsement do for Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "May exclude or increase excess for subsidence claims\n\n**Cost Impact:** May reduce premium if excluded\n**Coverage Impact:** Removes or limits subsidence cover",
+      "tags": [
+        "endorsements",
+        "subsidence-exclusion/excess",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "endorsement_structural_works_exclusion_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Endorsements & Modifications",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What does the 'Structural Works Exclusion' endorsement do for Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "Restrictions during building works, extensions, renovations\n\n**Cost Impact:** Variable\n**Coverage Impact:** Must notify before works commence; may exclude certain perils during works",
+      "tags": [
+        "endorsements",
+        "structural-works-exclusion",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "endorsement_high_value_items_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Endorsements & Modifications",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What does the 'High Value Items' endorsement do for Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "Specified items listed individually with values\n\n**Cost Impact:** Increases premium based on declared value\n**Coverage Impact:** Increases limit for specified valuable items",
+      "tags": [
+        "endorsements",
+        "high-value-items",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "endorsement_let_property_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Endorsements & Modifications",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What does the 'Let Property' endorsement do for Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "Additional terms for properties that are rented/let\n\n**Cost Impact:** Increases premium\n**Coverage Impact:** Modifies theft requirements (need forced entry evidence)",
+      "tags": [
+        "endorsements",
+        "let-property",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "endorsement_excess_variations_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Endorsements & Modifications",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What does the 'Excess Variations' endorsement do for Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "Changes to standard excess amounts\n\n**Cost Impact:** Higher excess typically reduces premium\n**Coverage Impact:** Changes amount customer pays per claim",
+      "tags": [
+        "endorsements",
+        "excess-variations",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "claims_documents_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Claims Requirements",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What documents are needed to file a claim with Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "To file a claim with Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)'s Home Insurance (Coverall Policy) policy, you need:\n\n\u2022 Completed claim form\n\u2022 Police crime reference number (for theft, riot, malicious damage, lost property away from home)\n\u2022 Purchase receipts or proof of ownership\n\u2022 Instruction manuals, guarantee cards\n\u2022 Valuations (for items over \u00a32,500)\n\u2022 Photographs of items/damage\n\u2022 Utility bills or local authority bills\n\u2022 Pre-purchase surveys\n\u2022 Property deeds or plans\n\u2022 Bank/credit card statements\n\u2022 Estimates for repair/replacement\n\u2022 Proof of Sold Secure lock ownership (for cycle claims away from home)\n\u2022 Evidence of alarm maintenance contract (if required by endorsement)",
+      "tags": [
+        "claims",
+        "documents",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "claims_timeframe_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Claims Requirements",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How quickly must I report a claim to Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "As soon as possible after discovery; theft/riot/malicious damage within 24 hours (theft to police); riot within 7 days (to police)",
+      "tags": [
+        "claims",
+        "timeframe",
+        "deadline",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "claims_process_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Claims Requirements",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What is the claims process for Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "Follow these steps to file a claim:\n\n1. 1. Check if policy covers the loss/damage by reviewing Schedule\n2. 2. Take immediate steps to prevent further damage\n3. 3. For theft/criminal damage: Report to police within 24 hours and obtain crime reference\n4. 4. For riot: Report to police within 7 days\n5. 5. For credit card theft: Report to police and card company within 24 hours\n6. 6. Contact claims department on 08000 327327 (24/7) or through broker/agent\n7. 7. Do NOT dispose of damaged items before inspection\n8. 8. Do NOT carry out permanent repairs before inspection\n9. 9. Take reasonable steps to recover missing property\n10. 10. Provide all requested documentation and cooperate with investigation\n11. 11. Obtain repair estimates if requested\n12. 12. For liability claims: Send all correspondence immediately without admitting liability\n13. 13. Allow insurer access to damaged property\n14. 14. Claims over \u00a320,000: Claims Preparation Assistance may be offered",
+      "tags": [
+        "claims",
+        "process",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "claims_evidence_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Claims Requirements",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What evidence is needed for Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) claims?",
+      "answer": "Police reports (crime reference number for theft/criminal damage), original receipts, valuations (for items over \u00a32,500, must be within 3 years), photographs, proof of ownership, proof of security measures (locks/alarms), utility bills, repair estimates",
+      "tags": [
+        "claims",
+        "evidence",
+        "proof",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "eligibility_age_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Eligibility",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What are the age requirements for Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "No specific age restrictions for policyholder mentioned",
+      "tags": [
+        "eligibility",
+        "age",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "eligibility_medical_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Eligibility",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What medical restrictions apply to Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "Not applicable (property insurance)",
+      "tags": [
+        "eligibility",
+        "medical",
+        "health",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "eligibility_occupation_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Eligibility",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "Are there occupational restrictions for Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "Business use restricted to clerical work only (Business Equipment up to \u00a35,000)",
+      "tags": [
+        "eligibility",
+        "occupation",
+        "profession",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "eligibility_residency_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Eligibility",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What are the residency requirements for Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy)?",
+      "answer": "Must be private residential property in United Kingdom; persons normally living together qualify as 'You'",
+      "tags": [
+        "eligibility",
+        "residency",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_accidental_damage_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Accidental Damage'?",
+      "answer": "Sudden, unexpected and unintentional physical damage",
+      "tags": [
+        "definitions",
+        "accidental-damage",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_bodily_injury_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Bodily Injury'?",
+      "answer": "Physical injury, death or disease caused by sudden, unexpected, external and visible event",
+      "tags": [
+        "definitions",
+        "bodily-injury",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_buildings_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Buildings'?",
+      "answer": "The home, fixtures & fittings, permanent structures within boundary including tennis courts, patios, drives, walls, fences, gates, hedges, drains, pipes, cables, tanks, swimming pools, solar panels, wind turbines, ground source heating pumps",
+      "tags": [
+        "definitions",
+        "buildings",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_contents_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Contents'?",
+      "answer": "Household goods, personal property and Business Equipment within the Home belonging to you or you're legally responsible for. Includes tenant's fixtures, aerials, hot tubs (not permanent), deeds/documents (\u00a31,500 limit), stamps/coins collections (\u00a32,500 limit), Valuables (33% Contents sum insured, 10% single item limit)",
+      "tags": [
+        "definitions",
+        "contents",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_excess_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Excess'?",
+      "answer": "The first part of any claim you have to pay as stated on Schedule or Endorsement",
+      "tags": [
+        "definitions",
+        "excess",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_home_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Home'?",
+      "answer": "The private dwelling and domestic outbuildings and garages at the address on Schedule",
+      "tags": [
+        "definitions",
+        "home",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_money_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Money'?",
+      "answer": "Cash, cheques, postal orders, unused postage stamps (not collections), savings stamps/certificates, share certificates, premium bonds, luncheon vouchers, travellers cheques, travel tickets, season tickets, phone cards, gift tokens - NOT including event tickets or business items",
+      "tags": [
+        "definitions",
+        "money",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_motorised_vehicle_or_craft_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Motorised Vehicle or Craft'?",
+      "answer": "Mechanically propelled/assisted vehicles including motorcycles, quad bikes, trikes, go karts, trailers, caravans, aircraft, drones, hovercraft, boats, sailboards - EXCLUDING domestic gardening vehicles, mobility scooters/wheelchairs, golf carts, remote-controlled toys",
+      "tags": [
+        "definitions",
+        "motorised-vehicle-or-craft",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_personal_possessions_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Personal Possessions'?",
+      "answer": "Items that you wear, use or carry about your person, belonging to you or you're legally responsible for. NOT including contact lenses, dentures, dental work",
+      "tags": [
+        "definitions",
+        "personal-possessions",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_period_of_insurance_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Period of Insurance'?",
+      "answer": "Length of time insurance is in force as shown on Schedule, for which premium paid and accepted",
+      "tags": [
+        "definitions",
+        "period-of-insurance",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_storm_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Storm'?",
+      "answer": "Violent weather with: wind 48+ knots (55mph) OR rain 25mm+ per hour OR snow 30cm+ in 24 hours OR hail breaking glass/damaging hard surfaces",
+      "tags": [
+        "definitions",
+        "storm",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_subsidence_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Subsidence'?",
+      "answer": "Downward movement of ground beneath Buildings (other than Settlement)",
+      "tags": [
+        "definitions",
+        "subsidence",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_heave_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Heave'?",
+      "answer": "Upward or sideways movement of ground beneath Buildings caused by soil expanding",
+      "tags": [
+        "definitions",
+        "heave",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_landslip_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Landslip'?",
+      "answer": "Downward movement of sloping ground",
+      "tags": [
+        "definitions",
+        "landslip",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_settlement_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Settlement'?",
+      "answer": "Downward movement of properties after built, caused by compression of soil",
+      "tags": [
+        "definitions",
+        "settlement",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_tenant_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Tenant'?",
+      "answer": "Occupier of Home when let (including holiday lets) OR leaseholder",
+      "tags": [
+        "definitions",
+        "tenant",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_unoccupied_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Unoccupied'?",
+      "answer": "a) Furnished but not lived in for 60+ days in a row (must be occupied 5 nights/row each month OR 2 nights/row each week) OR b) Insufficiently furnished for normal habitation",
+      "tags": [
+        "definitions",
+        "unoccupied",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_valuables_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Valuables'?",
+      "answer": "Jewellery, furs, gold, silver, precious metals, gems, stones, pictures, paintings, works of art",
+      "tags": [
+        "definitions",
+        "valuables",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_you/your_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'You/Your'?",
+      "answer": "Person named as policyholder on Schedule and: husband, wife, partner (living as married), civil partner, children, parents, relatives - who normally live with them",
+      "tags": [
+        "definitions",
+        "you/your",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_domestic_staff_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Domestic Staff'?",
+      "answer": "Person employed for private domestic duties at Home, not employed in any trade/profession/employment capacity",
+      "tags": [
+        "definitions",
+        "domestic-staff",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_terrorism_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Terrorism'?",
+      "answer": "Use of biological, chemical, nuclear force or contamination by any person/group for political, religious, ideological purposes including influencing government or causing public fear",
+      "tags": [
+        "definitions",
+        "terrorism",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "definition_business_equipment_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)",
+      "category": "Policy Definitions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How does Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule) Home Insurance (Coverall Policy) define 'Business Equipment'?",
+      "answer": "Computer equipment (including software but excluding data) and office equipment used for clerical purposes in connection with business run from Home",
+      "tags": [
+        "definitions",
+        "business-equipment",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "common_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)_0",
+      "category": "Common Questions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What happens if my home is unoccupied for more than 60 days?",
+      "answer": "Many covers are suspended including theft, escape of water, malicious damage, oil escape. You must notify insurer immediately if property becomes unoccupied. Cover can be arranged but with restrictions. 'Lived in' means occupied at least 5 nights in a row each month OR 2 nights in a row each week.",
+      "section_reference": "Definition of 'Unoccupied' page 6; Exclusions throughout Sections 1 and 2",
+      "tags": [
+        "common",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "common_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)_1",
+      "category": "Common Questions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "Are my valuables covered away from home?",
+      "answer": "Only if you have Section 3 - Personal Possessions and Valuables cover. This provides worldwide cover but with limits: \u00a32,500 per unspecified item, \u00a31,500 from unattended vehicle, \u00a32,000 for jewellery theft from hotel rooms. Items over \u00a32,500 must be specified on Schedule.",
+      "section_reference": "Section 3 - Personal Possessions and Valuables, page 32-33",
+      "tags": [
+        "common",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "common_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)_2",
+      "category": "Common Questions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What security do I need for my pedal cycle when away from home?",
+      "answer": "Cycles must be in a secured locked building OR secured through the frame by a locked security device to an immovable object. For cycles valued over \u00a31,500, must use a 'Sold Secure Gold' standard lock, and you must provide proof of ownership of this lock (receipt, photo, bank statement, or retailer confirmation).",
+      "section_reference": "Section 4 - Pedal Cycles page 34; Claim Conditions page 14-15",
+      "tags": [
+        "common",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "common_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)_3",
+      "category": "Common Questions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "Does Buildings cover include my garden walls and fences?",
+      "answer": "Walls and fences ARE included in the Buildings definition, but have limited cover. They are NOT covered for: storm damage, damage from falling trees, subsidence (unless main building damaged at same time). They ARE covered for: fire, flood, impact, theft, malicious damage (if property not unoccupied).",
+      "section_reference": "Definition of Buildings page 4; Section 1 exclusions pages 17-18",
+      "tags": [
+        "common",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "common_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)_4",
+      "category": "Common Questions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What if I need to make a structural change to my property?",
+      "answer": "You must notify insurer before starting any: extensions, work on load-bearing walls, roofing work over 20%, structural works including demolition, or any works costing 50%+ of Buildings sum insured. Failure to notify may result in no cover during works and subsidence claims being excluded.",
+      "section_reference": "General Conditions - Changes you must tell us about, page 8; Section 1 exclusion 10(f), page 18",
+      "tags": [
+        "common",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "common_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)_5",
+      "category": "Common Questions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "Am I covered if my tenant damages the property?",
+      "answer": "No - damage by tenants or occupants is excluded. However, if you are a tenant yourself, you have Tenant's Liability cover (Section 2K) which covers your legal liability for damage to the landlord's building, up to 10% of Contents sum insured, excluding fire/lightning/explosion to building structure.",
+      "section_reference": "General Exclusions 8, page 13; Section 2K - Tenant's Liability, page 28",
+      "tags": [
+        "common",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "common_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)_6",
+      "category": "Common Questions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "How quickly must I report a theft to the police?",
+      "answer": "Ideally within 24 hours of discovery. You must obtain a crime reference number. For riot, you must inform police within 7 days. Failure to report to police within reasonable time may affect your claim.",
+      "section_reference": "Claim Conditions page 14; Section 1 exclusion 9, page 19; Section 2 exclusion 9, page 24",
+      "tags": [
+        "common",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "common_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)_7",
+      "category": "Common Questions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What is covered for alternative accommodation if I can't live in my home?",
+      "answer": "Up to 20% of your Buildings or Contents sum insured for accommodation of same standard as your existing home, plus storage of contents, for you and domestic pets. Not covered: costs recoverable elsewhere, costs without insurer agreement, costs after property ready for habitation, if property not going to be reinstated.",
+      "section_reference": "Section 1C - Loss of rent/alternative accommodation page 19; Section 2C - Alternative accommodation page 25",
+      "tags": [
+        "common",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "common_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)_8",
+      "category": "Common Questions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "Are business items covered in my home?",
+      "answer": "Very limited cover. Business Equipment (computers and office equipment for clerical purposes only) up to \u00a35,000 is covered. No other business property is covered. Professional/trade use beyond clerical work is excluded.",
+      "section_reference": "Definition of Contents page 4; Definition of Business Equipment page 4; General Exclusions 8, page 13",
+      "tags": [
+        "common",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "common_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)_9",
+      "category": "Common Questions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What should I do immediately after discovering damage?",
+      "answer": "1. Take steps to prevent further damage (e.g. turn off water/gas); 2. If theft/criminal damage, report to police within 24 hours for crime reference; 3. Do NOT dispose of damaged items; 4. Do NOT carry out permanent repairs; 5. Take photos if possible; 6. Contact claims line 08000 327327 (24/7) as soon as practical; 7. Keep all receipts for emergency measures.",
+      "section_reference": "Claim Conditions pages 14-16",
+      "tags": [
+        "common",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "common_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)_10",
+      "category": "Common Questions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "Is subsidence covered?",
+      "answer": "Yes, subsidence, heave and landslip are covered under Section 1 number 10 and Section 2 number 10. However, there are significant exclusions: damage to drives, patios, walls, fences, fuel tanks, pools (unless main building damaged); damage to solid floors (unless foundations beneath walls damaged); normal settlement; coastal erosion; damage during structural works; compensation available elsewhere. Check Schedule for any subsidence excess or exclusion endorsement.",
+      "section_reference": "Section 1 number 10, page 18; Section 2 number 10, page 24",
+      "tags": [
+        "common",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "common_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)_11",
+      "category": "Common Questions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "Can I cancel my policy and get a refund?",
+      "answer": "Yes. Within 14 days (cooling off): full refund if not started, pro-rata if started. After 14 days: pro-rata refund for unused cover. However, NO refund if you have made a claim or are in the process of making a claim in the current period. If paying by instalments and claim is settled, you must continue payments to renewal or amount will be deducted from claim payment. Minimum refund is \u00a310.",
+      "section_reference": "General Conditions 4 - Cancellation, page 9; General Conditions 14 - Refunds, page 11",
+      "tags": [
+        "common",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "common_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)_12",
+      "category": "Common Questions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What are the index linking provisions?",
+      "answer": "Buildings and Contents sums insured are adjusted monthly. Buildings linked to House Rebuilding Cost Index (RICS). Contents linked to Consumer Durable Section of Retail Price Index. Your renewal premium is calculated on the adjusted sum insured. Sums insured continue to increase during claims if you ensure repairs done without undue delay. Valuables and Personal Possessions are NOT index linked - you must ensure adequate cover.",
+      "section_reference": "General Conditions 8 - Index Linking, page 10",
+      "tags": [
+        "common",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "common_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)_13",
+      "category": "Common Questions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "What is covered for escape of water?",
+      "answer": "Damage from water escaping from fixed water tanks, apparatus or pipes is covered. Also covers frost damage to these items. However, NOT covered: while unoccupied, taps left on causing overflow (unless you have accidental damage cover), damage to fuel tanks or swimming pools, subsidence (covered separately). Also covered: tracing the leak (up to \u00a35,000) and increased water charges (up to \u00a31,000).",
+      "section_reference": "Section 1 number 4, page 17; Section 1G Trace & access, page 20; Section 1E Loss of water, page 20",
+      "tags": [
+        "common",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    },
+    {
+      "id": "common_prestige_underwriting_services_ltd_(acting_on_behalf_of_insurer_shown_on_schedule)_home_insurance_(coverall_policy)_14",
+      "category": "Common Questions",
+      "insurer": "Prestige Underwriting Services Ltd (acting on behalf of insurer shown on Schedule)",
+      "policy_type": "Home Insurance (Coverall Policy)",
+      "question": "Do I need to have valuations for my valuable items?",
+      "answer": "Yes, for all Valuables valued in excess of \u00a32,500 you must hold an appropriate valuation no more than 3 years old, which must be made available if you claim. For jewellery over \u00a37,500, must be inspected by professional jeweller (NAJ member) at least every 3 years with defects remedied. Failure to provide valuation may affect claim payment.",
+      "section_reference": "General Conditions 7 - Proof of value, page 10; Section 3 exclusion (e), page 32",
+      "tags": [
+        "common",
+        "prestige underwriting services ltd (acting on behalf of insurer shown on schedule)",
+        "home insurance (coverall policy)"
+      ],
+      "internal_only": true
+    }
+  ]
+}
